@@ -3,8 +3,10 @@ package KIRBYYOSHI;
 /**
  * Created by coola on 3/31/2017.
  */
+//Using x,y,zipcode,venue,streetAddress,type,description,image
 public class publicArt {
     private double x, y;
+    public int zipCode;
     private double[] location = new double[2];
     private String venue;
     private String streetAddress;
@@ -15,10 +17,11 @@ public class publicArt {
     public publicArt() {
     }
 
-    public publicArt(double x, double y, String venue, String streetAddress, String type,
+    public publicArt(double x, double y, String venue, String streetAddress, int zipCode,String type,
                      String description, String image) {
         this.x = x;
         this.y = y;
+        this.zipCode = zipCode;
         this.venue = venue;
         this.streetAddress = streetAddress;
         this.type = type;
@@ -27,11 +30,11 @@ public class publicArt {
 
     }
 
-    private double getX() {
+    public double getX() {
         return x;
     }
 
-    private double getY() {
+    public double getY() {
         return y;
     }
 
@@ -58,6 +61,10 @@ public class publicArt {
         location[0] = y;//latitude
         location[1] = x;//longitude
         return location;
+    }
+    public int getZipCode(){
+
+        return zipCode;
     }
 
 }
