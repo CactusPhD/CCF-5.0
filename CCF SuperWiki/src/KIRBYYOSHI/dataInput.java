@@ -5,11 +5,12 @@ import java.io.*;
  * Created by coola on 3/31/2017.
  */
 public class dataInput {
+    Scanner input = new Scanner("Lafayette_Public_Art.txt");
+    publicArt art;
+    ArrayList<publicArt> alist = new ArrayList<publicArt>();
+    String line;
     public void inputDataArt(){
-        Scanner input = new Scanner("Lafayette_Public_Art.txt");
-        publicArt art;
-        ArrayList<publicArt> alist = new ArrayList<publicArt>();
-        String line;
+
         //Loop for data input from lafayette public art
         while (input.hasNextLine()){
             line = input.nextLine();
@@ -23,6 +24,10 @@ public class dataInput {
 
         }
 
+
+    }
+    public ArrayList<publicArt> getArrayList(){
+        return alist;
     }
 
 }
