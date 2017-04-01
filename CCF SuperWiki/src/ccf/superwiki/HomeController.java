@@ -29,7 +29,7 @@ public class HomeController implements Initializable {
     Parent root;
     Stage stage;
     Scene scene;
-    private boolean recOn = false, livOn = false;
+    private boolean recOn = false, livOn = false, tranOn = false;
 
     @FXML
     private AnchorPane anchor;
@@ -87,6 +87,24 @@ public class HomeController implements Initializable {
 
     @FXML
     private Text livText3;
+    
+    @FXML
+    private Arc tranButton1;
+
+    @FXML
+    private Arc tranButton2;
+
+    @FXML
+    private Arc tranButton3;
+
+    @FXML
+    private Text tranText1;
+
+    @FXML
+    private Text tranText2;
+
+    @FXML
+    private Text tranText3;
 
     @FXML
     void recMenu(MouseEvent event) {
@@ -186,6 +204,57 @@ public class HomeController implements Initializable {
     @FXML
     void livOption3(MouseEvent event) throws IOException {
         root = FXMLLoader.load(getClass().getResource("Liv3.fxml"));
+        stage = (Stage) anchor.getScene().getWindow();
+        scene = new Scene(root);
+        stage.setScene(scene);
+        stage.show();
+    }
+    @FXML
+    void tranMenu(MouseEvent event) {
+        recButton.setVisible(tranOn);
+        livButton.setVisible(tranOn);
+        recText.setVisible(tranOn);
+        livText.setVisible(tranOn);
+        recButton.setManaged(tranOn);
+        livButton.setManaged(tranOn);
+        recText.setManaged(tranOn);
+        livText.setManaged(tranOn);
+        tranButton1.setVisible(!tranOn);
+        tranButton1.setManaged(!tranOn);
+        tranButton2.setVisible(!tranOn);
+        tranButton2.setManaged(!tranOn);
+        tranButton3.setVisible(!tranOn);
+        tranButton3.setManaged(!tranOn);
+        tranText1.setVisible(!tranOn);
+        tranText1.setManaged(!tranOn);
+        tranText2.setVisible(!tranOn);
+        tranText2.setManaged(!tranOn);
+        tranText3.setVisible(!tranOn);
+        tranText3.setManaged(!tranOn);
+        tranOn = !tranOn;
+    }
+
+    @FXML
+    void tranOption1(MouseEvent event) throws IOException {
+        root = FXMLLoader.load(getClass().getResource("Tran1.fxml"));
+        stage = (Stage) anchor.getScene().getWindow();
+        scene = new Scene(root);
+        stage.setScene(scene);
+        stage.show();
+    }
+
+    @FXML
+    void tranOption2(MouseEvent event) throws IOException {
+        root = FXMLLoader.load(getClass().getResource("Tran2.fxml"));
+        stage = (Stage) anchor.getScene().getWindow();
+        scene = new Scene(root);
+        stage.setScene(scene);
+        stage.show();
+    }
+
+    @FXML
+    void tranOption3(MouseEvent event) throws IOException {
+        root = FXMLLoader.load(getClass().getResource("Tran3.fxml"));
         stage = (Stage) anchor.getScene().getWindow();
         scene = new Scene(root);
         stage.setScene(scene);
