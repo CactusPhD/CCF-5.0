@@ -11,6 +11,7 @@ import javafx.scene.Scene;
 import javafx.scene.layout.Pane;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.AnchorPane;
+import javafx.scene.web.WebView;
 import javafx.stage.Stage;
 
 public class Rec1Controller implements Initializable {
@@ -22,6 +23,8 @@ public class Rec1Controller implements Initializable {
     private Pane back;
     @FXML
     private AnchorPane anchor;
+    @FXML
+    private WebView web;
 
     @FXML
     void back(MouseEvent event) throws IOException {
@@ -34,7 +37,7 @@ public class Rec1Controller implements Initializable {
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
-
+        web.getEngine().load("/Maps/home.php?what=publicArt3");
     }
 
 }
