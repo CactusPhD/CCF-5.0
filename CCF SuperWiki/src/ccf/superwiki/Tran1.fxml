@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="anchor" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ccf.superwiki.Tran1Controller">
+   <children>
+      <ImageView fitHeight="600.0" fitWidth="800.0" layoutX="268.0" layoutY="171.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <image>
+            <Image url="@../../Resources/trans.jpg" />
+         </image>
+      </ImageView>
+      <Region layoutX="245.0" layoutY="165.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: rgba(255,255,255,0.7);" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
+      <Pane fx:id="back" onMouseClicked="#back" prefHeight="38.0" prefWidth="100.0" style="-fx-background-color: rgba(255,0,0,0.8); -fx-background-radius: 5; -fx-border-color: Black; -fx-border-radius: 4;" AnchorPane.leftAnchor="28.0" AnchorPane.topAnchor="28.0">
+         <children>
+            <Text layoutX="42.0" layoutY="26.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Back">
+               <font>
+                  <Font name="Century Schoolbook" size="20.0" />
+               </font>
+            </Text>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" height="3.0" layoutX="6.0" layoutY="17.0" stroke="BLACK" strokeType="INSIDE" width="32.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" height="3.0" layoutX="4.0" layoutY="22.0" rotate="45.0" stroke="BLACK" strokeType="INSIDE" width="16.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" height="3.0" layoutX="4.0" layoutY="12.0" rotate="-45.0" stroke="BLACK" strokeType="INSIDE" width="16.0" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
