@@ -140,29 +140,32 @@ public class HomeController implements Initializable {
 
     @FXML
     void recOption1(MouseEvent event) throws IOException {
-        root = FXMLLoader.load(getClass().getResource("Rec1.fxml"));
+        java.awt.Desktop.getDesktop().browse(java.net.URI.create("http://localhost/CajunCode/home.php?what=publicArt3"));
+        /*root = FXMLLoader.load(getClass().getResource("Rec1.fxml"));
         stage = (Stage) anchor.getScene().getWindow();
         scene = new Scene(root);
         stage.setScene(scene);
-        stage.show();
+        stage.show();*/
     }
 
     @FXML
     void recOption2(MouseEvent event) throws IOException {
-        root = FXMLLoader.load(getClass().getResource("Rec2.fxml"));
+        java.awt.Desktop.getDesktop().browse(java.net.URI.create("http://localhost/CajunCode/home.php?what=preserveSite2"));
+        /*root = FXMLLoader.load(getClass().getResource("Rec2.fxml"));
         stage = (Stage) anchor.getScene().getWindow();
         scene = new Scene(root);
         stage.setScene(scene);
-        stage.show();
+        stage.show();*/
     }
 
     @FXML
     void recOption3(MouseEvent event) throws IOException {
-        root = FXMLLoader.load(getClass().getResource("Rec3.fxml"));
+        java.awt.Desktop.getDesktop().browse(java.net.URI.create("http://localhost/CajunCode/home.php?what=parks"));
+        /*root = FXMLLoader.load(getClass().getResource("Rec3.fxml"));
         stage = (Stage) anchor.getScene().getWindow();
         scene = new Scene(root);
         stage.setScene(scene);
-        stage.show();
+        stage.show();*/
     }
 
     @FXML
@@ -244,29 +247,32 @@ public class HomeController implements Initializable {
 
     @FXML
     void tranOption1(MouseEvent event) throws IOException {
-        root = FXMLLoader.load(getClass().getResource("Tran1.fxml"));
+        java.awt.Desktop.getDesktop().browse(java.net.URI.create("http://localhost/CajunCode/home.php?what=dayBuses"));
+        /*root = FXMLLoader.load(getClass().getResource("Tran1.fxml"));
         stage = (Stage) anchor.getScene().getWindow();
         scene = new Scene(root);
         stage.setScene(scene);
-        stage.show();
+        stage.show();*/
     }
 
     @FXML
     void tranOption2(MouseEvent event) throws IOException {
-        root = FXMLLoader.load(getClass().getResource("Tran2.fxml"));
+        java.awt.Desktop.getDesktop().browse(java.net.URI.create("http://localhost/CajunCode/home.php?what=satBus"));
+        /*root = FXMLLoader.load(getClass().getResource("Tran2.fxml"));
         stage = (Stage) anchor.getScene().getWindow();
         scene = new Scene(root);
         stage.setScene(scene);
-        stage.show();
+        stage.show();*/
     }
 
     @FXML
     void tranOption3(MouseEvent event) throws IOException {
-        root = FXMLLoader.load(getClass().getResource("Tran3.fxml"));
+        java.awt.Desktop.getDesktop().browse(java.net.URI.create("http://localhost/CajunCode/home.php?what=nightBus"));
+        /*root = FXMLLoader.load(getClass().getResource("Tran3.fxml"));
         stage = (Stage) anchor.getScene().getWindow();
         scene = new Scene(root);
         stage.setScene(scene);
-        stage.show();
+        stage.show();*/
     }
 
     @Override
