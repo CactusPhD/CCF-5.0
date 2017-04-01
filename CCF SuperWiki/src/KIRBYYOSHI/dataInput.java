@@ -9,6 +9,7 @@ public class dataInput {
     publicArt art;
     ArrayList<publicArt> alist = new ArrayList<publicArt>();
     String line;
+    public dataInput(){}
     public void inputDataArt(){
 
         //Loop for data input from lafayette public art
