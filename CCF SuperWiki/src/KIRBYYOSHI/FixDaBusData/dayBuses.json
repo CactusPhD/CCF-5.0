@@ -1,0 +1,5206 @@
+{ "type": "FeatureCollection",    "features": [{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 315,
+      "StopName": "'JEFFERSON & SW THRUWAY'"},    "geometry": {
+      "x": 30.228506,
+      "y": -92.012655
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 3,
+      "StopName": "'12TH & PEACH'"},    "geometry": {
+      "x": 30.2231115,
+      "y": -92.006543
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 4,
+      "StopName": "'12TH & S. ORANGE'"},    "geometry": {
+      "x": 30.224305,
+      "y": -92.004846
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 5,
+      "StopName": "'12TH & ST. CHARLES'"},    "geometry": {
+      "x": 30.225592,
+      "y": -92.003682
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 6,
+      "StopName": "'12TH & SURREY'"},    "geometry": {
+      "x": 30.22673,
+      "y": -92.002583
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 7,
+      "StopName": "'12TH & HAZEL'"},    "geometry": {
+      "x": 30.228139,
+      "y": -92.001203
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 8,
+      "StopName": "'12TH & SIMCOE'"},    "geometry": {
+      "x": 30.229438,
+      "y": -91.9999
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 9,
+      "StopName": "'SIMCOE & GEN. MACARTHUR'"},    "geometry": {
+      "x": 30.228945,
+      "y": -91.998934
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 10,
+      "StopName": "'SIMCOE & FRANK'"},    "geometry": {
+      "x": 30.22783,
+      "y": -91.99758
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 11,
+      "StopName": "'SIMCOE & HAMNER'"},    "geometry": {
+      "x": 30.227179,
+      "y": -91.996461
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 12,
+      "StopName": "'PINHOOK & DORIAN'"},    "geometry": {
+      "x": 30.22709,
+      "y": -91.99411
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 13,
+      "StopName": "'PINHOOK & CLIFFORD'"},    "geometry": {
+      "x": 30.228677,
+      "y": -91.993554
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 14,
+      "StopName": "'PINHOOK & FRED'"},    "geometry": {
+      "x": 30.2323,
+      "y": -91.993021
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 15,
+      "StopName": "'CARMEL & COULE'"},    "geometry": {
+      "x": 30.233075,
+      "y": -91.990814
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 16,
+      "StopName": "'CARMEL & VILLAGE DU LAC'"},    "geometry": {
+      "x": 30.23255,
+      "y": -91.98818
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 17,
+      "StopName": "'VILLAGE DU LAC & RUE DU LAC'"},    "geometry": {
+      "x": 30.230038,
+      "y": -91.989142
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 18,
+      "StopName": "'RUE DU LAC AT DEAF ACTION CENTE'"},    "geometry": {
+      "x": 30.23015,
+      "y": -91.99064
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 19,
+      "StopName": "'RUE DU LAC & CLIFFORD'"},    "geometry": {
+      "x": 30.22866,
+      "y": -91.99095
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 20,
+      "StopName": "'CLIFFORD & PINHOOK'"},    "geometry": {
+      "x": 30.22886,
+      "y": -91.99344
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 21,
+      "StopName": "'PINHOOK & SIMCOE'"},    "geometry": {
+      "x": 30.22642,
+      "y": -91.99507
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 22,
+      "StopName": "'SIMCOE & ALSANDOR'"},    "geometry": {
+      "x": 30.224921,
+      "y": -91.993402
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 23,
+      "StopName": "'KATTIE & CO CIRCLE'"},    "geometry": {
+      "x": 30.22374,
+      "y": -91.99266
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 24,
+      "StopName": "'KATTIE & CO CIRCLE STOP 2'"},    "geometry": {
+      "x": 30.22325,
+      "y": -91.99327
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 25,
+      "StopName": "'KATTIE & ZIM CIRCLE'"},    "geometry": {
+      "x": 30.22241,
+      "y": -91.99416
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 26,
+      "StopName": "'KATTIE & SURREY'"},    "geometry": {
+      "x": 30.22153,
+      "y": -91.99494
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 27,
+      "StopName": "'SURREY AT OIL CITY CYCLES'"},    "geometry": {
+      "x": 30.22209,
+      "y": -91.99577
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 28,
+      "StopName": "'PINHOOK & SURREY'"},    "geometry": {
+      "x": 30.22347,
+      "y": -91.99852
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 29,
+      "StopName": "'PINHOOK & STERLING'"},    "geometry": {
+      "x": 30.22204,
+      "y": -91.99997
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 30,
+      "StopName": "'MAGNOLIA & PINHOOK'"},    "geometry": {
+      "x": 30.220895,
+      "y": -92.001434
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 31,
+      "StopName": "'MAGNOLIA & 15TH'"},    "geometry": {
+      "x": 30.22191,
+      "y": -92.00272
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 32,
+      "StopName": "'MAGNOLIA & 14TH'"},    "geometry": {
+      "x": 30.22246,
+      "y": -92.00339
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 33,
+      "StopName": "'MAGNOLIA & 13TH'"},    "geometry": {
+      "x": 30.2231,
+      "y": -92.00425
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 34,
+      "StopName": "'MAGNOLIA & 12TH'"},    "geometry": {
+      "x": 30.22378,
+      "y": -92.00509
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 35,
+      "StopName": "'12TH & PLUM'"},    "geometry": {
+      "x": 30.222932,
+      "y": -92.007222
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 36,
+      "StopName": "'12TH & SE THRUWAY STOP 2'"},    "geometry": {
+      "x": 30.222594,
+      "y": -92.008112
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 10,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 41,
+      "StopName": "'LEE & CYPRESS'"},    "geometry": {
+      "x": 30.225761,
+      "y": -92.01486
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 42,
+      "StopName": "'CYPRESS & 2ND'"},    "geometry": {
+      "x": 30.228834,
+      "y": -92.01653
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 44,
+      "StopName": "'W CONGRESS & LAFAYETTE'"},    "geometry": {
+      "x": 30.227029,
+      "y": -92.020701
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 45,
+      "StopName": "'W CONGRESS & ST JOHN'"},    "geometry": {
+      "x": 30.227039,
+      "y": -92.022703
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 46,
+      "StopName": "'W CONGRESS & S. BIENVILLE'"},    "geometry": {
+      "x": 30.22724,
+      "y": -92.02401
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 48,
+      "StopName": "'W CONGRESS & MYRTLE PLACE'"},    "geometry": {
+      "x": 30.22503,
+      "y": -92.03051
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 49,
+      "StopName": "'W CONGRESS & ST. JOSEPH'"},    "geometry": {
+      "x": 30.22362,
+      "y": -92.0332
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 50,
+      "StopName": "'W CONGRESS & ST. THOMAS'"},    "geometry": {
+      "x": 30.222731,
+      "y": -92.034629
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 51,
+      "StopName": "'W CONGRESS & BROOKSIDE'"},    "geometry": {
+      "x": 30.221997,
+      "y": -92.03625
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 52,
+      "StopName": "'W CONGRESS & CAJUNDOME'"},    "geometry": {
+      "x": 30.21925,
+      "y": -92.04081
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 53,
+      "StopName": "'UNIVERSITY HEALTH CENTER'"},    "geometry": {
+      "x": 30.21711,
+      "y": -92.04575
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 54,
+      "StopName": "'UNIVERSITY HEALTH CENTER - STOP 2'"},    "geometry": {
+      "x": 30.21635,
+      "y": -92.0469
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 55,
+      "StopName": "'DEVALCOURT AT LOUISIANA TECHNICAL COLLEGE'"},    "geometry": {
+      "x": 30.2172,
+      "y": -92.05132
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 56,
+      "StopName": "'DEVALCOURT AT SLCC - STOP 2'"},    "geometry": {
+      "x": 30.21622,
+      "y": -92.05316
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 57,
+      "StopName": "'BERTRAND & CONGRESS'"},    "geometry": {
+      "x": 30.21567,
+      "y": -92.04767
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 58,
+      "StopName": "'W CONGRESS AT TACO BELL'"},    "geometry": {
+      "x": 30.21399,
+      "y": -92.04852
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 502,
+      "StopName": "'W CONGRESS AT FREDS SUPER DOLLAR'"},    "geometry": {
+      "x": 30.211791,
+      "y": -92.050773
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 61,
+      "StopName": "'W CONGRESS & VITAL'"},    "geometry": {
+      "x": 30.20907,
+      "y": -92.05405
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 62,
+      "StopName": "'W CONGRESS AT LAFAYETTE HIGH'"},    "geometry": {
+      "x": 30.206526,
+      "y": -92.057863
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 63,
+      "StopName": "'W CONGRESS & MARIE ANTOINETTE'"},    "geometry": {
+      "x": 30.20578,
+      "y": -92.058942
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 64,
+      "StopName": "'W CONGRESS & WESTCHESTER'"},    "geometry": {
+      "x": 30.20462,
+      "y": -92.06077
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 65,
+      "StopName": "'W CONGRESS & MIMOSA'"},    "geometry": {
+      "x": 30.20338,
+      "y": -92.0626
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 66,
+      "StopName": "'CONGRESS AT PAPA JOHNS'"},    "geometry": {
+      "x": 30.201778,
+      "y": -92.064952
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 67,
+      "StopName": "'W CONGRESS AT ADRIENS'"},    "geometry": {
+      "x": 30.20028,
+      "y": -92.06715
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 68,
+      "StopName": "'W CONGRESS & EULA'"},    "geometry": {
+      "x": 30.19883,
+      "y": -92.06932
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 69,
+      "StopName": "'CONGRESS & INDEPENDENCE BLVD.'"},    "geometry": {
+      "x": 30.197494,
+      "y": -92.071904
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 71,
+      "StopName": "'CONGRESS AT REGIONAL MED CENTER'"},    "geometry": {
+      "x": 30.1969,
+      "y": -92.07634
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 72,
+      "StopName": "'AMBASSADOR CAFFERY & PRAIRIE ELEMETARY'"},    "geometry": {
+      "x": 30.1949,
+      "y": -92.07526
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 73,
+      "StopName": "'AMBASSADOR CAFFERY AT WALMART'"},    "geometry": {
+      "x": 30.18788,
+      "y": -92.07513
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 74,
+      "StopName": "'AMB. CAFFERY AT SAMS CLUB'"},    "geometry": {
+      "x": 30.18424,
+      "y": -92.07504
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 75,
+      "StopName": "'AMB. CAFFERY & TARGET LOOP'"},    "geometry": {
+      "x": 30.17928,
+      "y": -92.07508
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 753,
+      "StopName": "'AMB. CAFFERY @ LAFAYETTE SHOOTERS'"},    "geometry": {
+      "x": 30.176851,
+      "y": -92.073229
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 754,
+      "StopName": "'AMB. CAFFERY @ TSUBAKI'"},    "geometry": {
+      "x": 30.17507,
+      "y": -92.071074
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 755,
+      "StopName": "'AMB. CAFFERY @ UHAUL STORAGE'"},    "geometry": {
+      "x": 30.173218,
+      "y": -92.068831
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 513,
+      "StopName": "'AMB CAFFERY AT CHICK-FIL-A'"},    "geometry": {
+      "x": 30.17013,
+      "y": -92.06507
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 514,
+      "StopName": "'AMB CAFFERY & ENGLEWOOD'"},    "geometry": {
+      "x": 30.1682,
+      "y": -92.06263
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 770,
+      "StopName": "'DOVER at WELLS FARGO'"},    "geometry": {
+      "x": 30.167496,
+      "y": -92.060084
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 771,
+      "StopName": "'DOVER & BROADMOOR'"},    "geometry": {
+      "x": 30.169678,
+      "y": -92.059515
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 772,
+      "StopName": "'BROADMOOR at BROADMOOR ELEM'"},    "geometry": {
+      "x": 30.17217,
+      "y": -92.059699
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 773,
+      "StopName": "'BROADMOOR at HOLY CROSS'"},    "geometry": {
+      "x": 30.174165,
+      "y": -92.062117
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 774,
+      "StopName": "'ROBLEY at SUPER ONE FOODS'"},    "geometry": {
+      "x": 30.172152,
+      "y": -92.06531
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 775,
+      "StopName": "'AMB. CAFFERY AT SUPER ONE FOODS'"},    "geometry": {
+      "x": 30.171976,
+      "y": -92.067032
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 776,
+      "StopName": "'AMB. CAFFERY & DILLARD'"},    "geometry": {
+      "x": 30.174179,
+      "y": -92.069668
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 777,
+      "StopName": "'AMB. CAFFERY AT BIG LOTS'"},    "geometry": {
+      "x": 30.176561,
+      "y": -92.072582
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 778,
+      "StopName": "'AMB. CAFFERY AT ARBY'"},    "geometry": {
+      "x": 30.180425,
+      "y": -92.074903
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 779,
+      "StopName": "'AMB. CAFFERY AT UNITECH'"},    "geometry": {
+      "x": 30.183181,
+      "y": -92.074886
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 81,
+      "StopName": "'AMB. CAFFERY & LANDMARK'"},    "geometry": {
+      "x": 30.185366,
+      "y": -92.07491
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 82,
+      "StopName": "'AMB. CAFFERY & CURRAN'"},    "geometry": {
+      "x": 30.18829,
+      "y": -92.075
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 83,
+      "StopName": "'AMB. CAFFERY & CONGRESS'"},    "geometry": {
+      "x": 30.19555,
+      "y": -92.0751
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 84,
+      "StopName": "'CONGRESS AT ST. EDMONDS CHURCH'"},    "geometry": {
+      "x": 30.196515,
+      "y": -92.073509
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 85,
+      "StopName": "'W CONGRESS & GUILBEAU'"},    "geometry": {
+      "x": 30.19804,
+      "y": -92.07036
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 86,
+      "StopName": "'W CONGRESS & BELL DOWNS APTS'"},    "geometry": {
+      "x": 30.19915,
+      "y": -92.06855
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 87,
+      "StopName": "'W CONGRESS & PARLIMENT'"},    "geometry": {
+      "x": 30.201254,
+      "y": -92.065392
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 88,
+      "StopName": "'W CONGRESS & MIMOSA STOP 2'"},    "geometry": {
+      "x": 30.20332,
+      "y": -92.06242
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 89,
+      "StopName": "'W CONGRESS & FELICIE'"},    "geometry": {
+      "x": 30.204916,
+      "y": -92.06
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 90,
+      "StopName": "'W CONGRESS & FOREMAN'"},    "geometry": {
+      "x": 30.20712,
+      "y": -92.05664
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 91,
+      "StopName": "'W CONGRESS & MEADOW'"},    "geometry": {
+      "x": 30.20816,
+      "y": -92.05514
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 92,
+      "StopName": "'W CONGRESS AT CHECKERS'"},    "geometry": {
+      "x": 30.212338,
+      "y": -92.050165
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 93,
+      "StopName": "'CONGRESS AT ROUSES'"},    "geometry": {
+      "x": 30.21365,
+      "y": -92.04866
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 94,
+      "StopName": "'CONGRESS AT CAJUN FIELD GATE 3'"},    "geometry": {
+      "x": 30.215791,
+      "y": -92.045444
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 762,
+      "StopName": "'W CONGRESS @ CAJUNDOME - 2'"},    "geometry": {
+      "x": 30.219853,
+      "y": -92.039468
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 763,
+      "StopName": "'W CONGRESS @ SAINT THOMAS ST'"},    "geometry": {
+      "x": 30.22241,
+      "y": -92.034889
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 764,
+      "StopName": "'W CONGRESS @ SAINT MARY BLVD'"},    "geometry": {
+      "x": 30.224245,
+      "y": -92.031881
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 765,
+      "StopName": "'W CONGRESS @ JASMINE ST'"},    "geometry": {
+      "x": 30.225009,
+      "y": -92.030236
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 101,
+      "StopName": "'W CONGRESS & ST JOHN - STOP 2'"},    "geometry": {
+      "x": 30.226902,
+      "y": -92.02302
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 102,
+      "StopName": "'CONGRESS & E. CONGRESS'"},    "geometry": {
+      "x": 30.227246,
+      "y": -92.019232
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 103,
+      "StopName": "'CYPRESS & JEFFERSON'"},    "geometry": {
+      "x": 30.227785,
+      "y": -92.016129
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 15,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 41,
+      "StopName": "'LEE & CYPRESS'"},    "geometry": {
+      "x": 30.225761,
+      "y": -92.01486
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 42,
+      "StopName": "'CYPRESS & 2ND'"},    "geometry": {
+      "x": 30.228834,
+      "y": -92.01653
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 43,
+      "StopName": "'W CONGRESS AT S. PIERCE'"},    "geometry": {
+      "x": 30.228279,
+      "y": -92.018298
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 44,
+      "StopName": "'W CONGRESS & LAFAYETTE'"},    "geometry": {
+      "x": 30.227029,
+      "y": -92.020701
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 45,
+      "StopName": "'W CONGRESS & ST JOHN'"},    "geometry": {
+      "x": 30.227039,
+      "y": -92.022703
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 105,
+      "StopName": "'ST. JOHN & OLIVIER'"},    "geometry": {
+      "x": 30.229319,
+      "y": -92.022808
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 106,
+      "StopName": "'ST. JOHN & SIMCOE'"},    "geometry": {
+      "x": 30.23049,
+      "y": -92.022792
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 107,
+      "StopName": "'CAMERON & S BIENVILLE'"},    "geometry": {
+      "x": 30.231897,
+      "y": -92.023834
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 108,
+      "StopName": "'CAMERON & DELORD'"},    "geometry": {
+      "x": 30.232145,
+      "y": -92.025871
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 109,
+      "StopName": "'CAMERON & MARTHA'"},    "geometry": {
+      "x": 30.232247,
+      "y": -92.028455
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 111,
+      "StopName": "'CAMERON & UNIVERSITY'"},    "geometry": {
+      "x": 30.23239,
+      "y": -92.03179
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 112,
+      "StopName": "'CAMERON & S. LOOP'"},    "geometry": {
+      "x": 30.23245,
+      "y": -92.03405
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 114,
+      "StopName": "'CAMERON & ERASTE LANDRY'"},    "geometry": {
+      "x": 30.23246,
+      "y": -92.03927
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 115,
+      "StopName": "'CAMERON & ALLEY 2'"},    "geometry": {
+      "x": 30.23244,
+      "y": -92.04209
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 116,
+      "StopName": "'CAMERON & ALLEY 5'"},    "geometry": {
+      "x": 30.23248,
+      "y": -92.0467
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 117,
+      "StopName": "'MACOM AT SPEED SIGN'"},    "geometry": {
+      "x": 30.232046,
+      "y": -92.049829
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 118,
+      "StopName": "'MACON & ST. JULES'"},    "geometry": {
+      "x": 30.22862,
+      "y": -92.04983
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 119,
+      "StopName": "'MACON & ERASTE LANDRY'"},    "geometry": {
+      "x": 30.226285,
+      "y": -92.049865
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 120,
+      "StopName": "'ERASTE LANDRY & CHANNEL 3'"},    "geometry": {
+      "x": 30.224,
+      "y": -92.05571
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 121,
+      "StopName": "'ERASTE LANDRY & BANKS'"},    "geometry": {
+      "x": 30.22344,
+      "y": -92.06063
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 122,
+      "StopName": "'ERASTE LANDRY & LUKE'"},    "geometry": {
+      "x": 30.22244,
+      "y": -92.0617
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 123,
+      "StopName": "'ERASTE LANDRY AT OAK PARKS ESTATE'"},    "geometry": {
+      "x": 30.22025,
+      "y": -92.06386
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 124,
+      "StopName": "'ERASTE LANDRY AT ATMOS ENERGY'"},    "geometry": {
+      "x": 30.21932,
+      "y": -92.0669
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 125,
+      "StopName": "'ERASTE LANDRY AT COX CABLE'"},    "geometry": {
+      "x": 30.21922,
+      "y": -92.06929
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 126,
+      "StopName": "'AMB. CAFFERY & AVONDALE'"},    "geometry": {
+      "x": 30.2167,
+      "y": -92.07593
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 127,
+      "StopName": "'AMB. CAFFERY & DULLES'"},    "geometry": {
+      "x": 30.2112,
+      "y": -92.07586
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 128,
+      "StopName": "'AMB. CAFFERY AT COULEE BIDGE'"},    "geometry": {
+      "x": 30.20979,
+      "y": -92.07569
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 129,
+      "StopName": "'AMB. CAFFERY AT KFC'"},    "geometry": {
+      "x": 30.20712,
+      "y": -92.07549
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 130,
+      "StopName": "'AMB. CAFFERY AT DIAMOND LAKES APTS.'"},    "geometry": {
+      "x": 30.20065,
+      "y": -92.07533
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 131,
+      "StopName": "'AMB. CAFFERY & REGIONAL MED CENTER'"},    "geometry": {
+      "x": 30.19808,
+      "y": -92.07598
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 132,
+      "StopName": "'CONGRESS & ST. NICHOLAS'"},    "geometry": {
+      "x": 30.19603,
+      "y": -92.07972
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 133,
+      "StopName": "'CONGRESS AT SKATEZONE'"},    "geometry": {
+      "x": 30.19597,
+      "y": -92.08261
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 134,
+      "StopName": "'N. DOMINGUE & WINDHAVEN'"},    "geometry": {
+      "x": 30.19993,
+      "y": -92.08355
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 135,
+      "StopName": "'N. DOMINGUE & GUILBEAU'"},    "geometry": {
+      "x": 30.202564,
+      "y": -92.083554
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 136,
+      "StopName": "'N. DOMINGUE AT EVAGELINE VILLAGE APTS'"},    "geometry": {
+      "x": 30.203739,
+      "y": -92.083576
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 137,
+      "StopName": "'N. DOMINGUE AT N. WESTPOINTE'"},    "geometry": {
+      "x": 30.20535,
+      "y": -92.083596
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 138,
+      "StopName": "'N. DOMINGUE & DULLES'"},    "geometry": {
+      "x": 30.210447,
+      "y": -92.083709
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 139,
+      "StopName": "'DULLES AT MAGNOLIA PLACE'"},    "geometry": {
+      "x": 30.21051,
+      "y": -92.07704
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 140,
+      "StopName": "'DULLES AT CAR WASH'"},    "geometry": {
+      "x": 30.210598,
+      "y": -92.07467
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 141,
+      "StopName": "'DULLES & BLYTHWOOD'"},    "geometry": {
+      "x": 30.210697,
+      "y": -92.070057
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 142,
+      "StopName": "'DULLES & EPSILON'"},    "geometry": {
+      "x": 30.21158,
+      "y": -92.06726
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 143,
+      "StopName": "'EPSILON & MCDONALD'"},    "geometry": {
+      "x": 30.21008,
+      "y": -92.06589
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 144,
+      "StopName": "'MCDONALD & MARIE ANTOINETTE'"},    "geometry": {
+      "x": 30.21118,
+      "y": -92.06369
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 145,
+      "StopName": "'DULLES & FOREMAN'"},    "geometry": {
+      "x": 30.21395,
+      "y": -92.06361
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 146,
+      "StopName": "'DULLES AT BRIDGEWAY APTS'"},    "geometry": {
+      "x": 30.21699,
+      "y": -92.05951
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 147,
+      "StopName": "'DULLES AT ACADIANA COMPUTER SYSTEMS'"},    "geometry": {
+      "x": 30.2184,
+      "y": -92.0576
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 150,
+      "StopName": "'DULLES & BERTRAND'"},    "geometry": {
+      "x": 30.22176,
+      "y": -92.05284
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 151,
+      "StopName": "'BERTRAND & EARSTE LANDRY'"},    "geometry": {
+      "x": 30.22398,
+      "y": -92.05412
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 152,
+      "StopName": "'BERTRAND & TOLEDO'"},    "geometry": {
+      "x": 30.225712,
+      "y": -92.057516
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 153,
+      "StopName": "'BERTRAND & BANKS'"},    "geometry": {
+      "x": 30.22694,
+      "y": -92.06005
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 154,
+      "StopName": "'BERTRAND & AMB. CAFFERY'"},    "geometry": {
+      "x": 30.230807,
+      "y": -92.062378
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 155,
+      "StopName": "'AMB. CAFFERY & CAMERON'"},    "geometry": {
+      "x": 30.232058,
+      "y": -92.062374
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 156,
+      "StopName": "'AMB. CAFFERY & SAUL'"},    "geometry": {
+      "x": 30.23786,
+      "y": -92.06456
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 157,
+      "StopName": "'AMB. CAFFERY & WILLOW'"},    "geometry": {
+      "x": 30.24317,
+      "y": -92.06575
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 158,
+      "StopName": "'WILLOW & HEBERT'"},    "geometry": {
+      "x": 30.243574,
+      "y": -92.049876
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 159,
+      "StopName": "'HEBERT & WILLOW SPRINGS TRAILER PARK'"},    "geometry": {
+      "x": 30.23734,
+      "y": -92.04972
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 160,
+      "StopName": "'WALKER & UNIVERSITY'"},    "geometry": {
+      "x": 30.23587,
+      "y": -92.03254
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 161,
+      "StopName": "'CAMERON & EVANGELINE - STOP 2'"},    "geometry": {
+      "x": 30.232232,
+      "y": -92.03129
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 110,
+      "StopName": "'CAMERON & BEN-B'"},    "geometry": {
+      "x": 30.232194,
+      "y": -92.030112
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 162,
+      "StopName": "'CAMERON & POYDRAS - STOP 2'"},    "geometry": {
+      "x": 30.23211,
+      "y": -92.02717
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 163,
+      "StopName": "'CAMERON & ST. ANTOINE - STOP 2'"},    "geometry": {
+      "x": 30.232019,
+      "y": -92.025546
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 164,
+      "StopName": "'CAMERON & S BIENVILLE - STOP 2'"},    "geometry": {
+      "x": 30.231786,
+      "y": -92.023955
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 165,
+      "StopName": "'ST. JOHN & SIMCOE - RT20'"},    "geometry": {
+      "x": 30.230773,
+      "y": -92.022965
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 166,
+      "StopName": "'ST. JOHN & OLIVIER - STOP 2'"},    "geometry": {
+      "x": 30.229435,
+      "y": -92.022955
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 167,
+      "StopName": "'ST. JOHN & CONGRESS'"},    "geometry": {
+      "x": 30.2275,
+      "y": -92.02296
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 102,
+      "StopName": "'CONGRESS & E. CONGRESS'"},    "geometry": {
+      "x": 30.227246,
+      "y": -92.019232
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 103,
+      "StopName": "'CYPRESS & JEFFERSON'"},    "geometry": {
+      "x": 30.227785,
+      "y": -92.016129
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 20,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 169,
+      "StopName": "'JOHNSTON & E. VERMILLION'"},    "geometry": {
+      "x": 30.223256,
+      "y": -92.015313
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 170,
+      "StopName": "'JOHNSTON & E. MAIN'"},    "geometry": {
+      "x": 30.222078,
+      "y": -92.016062
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 171,
+      "StopName": "'JOHNSTON & STEWART'"},    "geometry": {
+      "x": 30.221356,
+      "y": -92.016508
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 172,
+      "StopName": "'JOHNSTON & JEFFERSON'"},    "geometry": {
+      "x": 30.22032,
+      "y": -92.01715
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 173,
+      "StopName": "'JOHNSTON & GEN. MOUTON'"},    "geometry": {
+      "x": 30.218728,
+      "y": -92.018214
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 174,
+      "StopName": "'JOHNSTON & U.L. HOUSE'"},    "geometry": {
+      "x": 30.21695,
+      "y": -92.01938
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 175,
+      "StopName": "'JOHNSTON & ST MARY'"},    "geometry": {
+      "x": 30.2146,
+      "y": -92.02174
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 176,
+      "StopName": "'JOHNSTON & W. LEWIS'"},    "geometry": {
+      "x": 30.212392,
+      "y": -92.025477
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 177,
+      "StopName": "'JOHNSTON & ST. JULIEN'"},    "geometry": {
+      "x": 30.21163,
+      "y": -92.026903
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 178,
+      "StopName": "'JOHNSTON AT UL HORTICULTURE CNTR'"},    "geometry": {
+      "x": 30.21048,
+      "y": -92.02978
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 179,
+      "StopName": "'JOHNSTON & COLISEUM'"},    "geometry": {
+      "x": 30.21002,
+      "y": -92.031438
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 180,
+      "StopName": "'JOHNSTON & ST. CHRISTOPHER'"},    "geometry": {
+      "x": 30.208878,
+      "y": -92.035229
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 181,
+      "StopName": "'JOHNSTON AT ALBERTSONS'"},    "geometry": {
+      "x": 30.207916,
+      "y": -92.037555
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 182,
+      "StopName": "'JOHNSTON & MEAUX'"},    "geometry": {
+      "x": 30.2069,
+      "y": -92.0391
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 183,
+      "StopName": "'JOHNSTON & BERTRAND'"},    "geometry": {
+      "x": 30.20598,
+      "y": -92.04068
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 184,
+      "StopName": "'JOHNSTON AT CYCLE GEAR'"},    "geometry": {
+      "x": 30.20499,
+      "y": -92.04266
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 185,
+      "StopName": "'JOHNSTON & HOLDEN'"},    "geometry": {
+      "x": 30.20458,
+      "y": -92.04419
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 186,
+      "StopName": "'JOHNSTON AT FUN JUMPS'"},    "geometry": {
+      "x": 30.20376,
+      "y": -92.04775
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 187,
+      "StopName": "'JOHNSTON & TREEHAVEN'"},    "geometry": {
+      "x": 30.20309,
+      "y": -92.0503
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 188,
+      "StopName": "'JOHNSTON & FOREMAN'"},    "geometry": {
+      "x": 30.20235,
+      "y": -92.05228
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 189,
+      "StopName": "'JOHNSTON & MARIE ANTOINETTE'"},    "geometry": {
+      "x": 30.20146,
+      "y": -92.05391
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 190,
+      "StopName": "'JOHNSTON & WESTCHESTER'"},    "geometry": {
+      "x": 30.19922,
+      "y": -92.05565
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 191,
+      "StopName": "'JOHNSTON & MIMOSA'"},    "geometry": {
+      "x": 30.19701,
+      "y": -92.05674
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 192,
+      "StopName": "'JOHNSTON AT AUTOZONE'"},    "geometry": {
+      "x": 30.19496,
+      "y": -92.05781
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 193,
+      "StopName": "'JOHNSTON AT FIESTA VILLAGE'"},    "geometry": {
+      "x": 30.19259,
+      "y": -92.05992
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 194,
+      "StopName": "'JOHNSTON AT OFFICE DEPOT'"},    "geometry": {
+      "x": 30.19019,
+      "y": -92.06232
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 195,
+      "StopName": "'JOHNSTON & LANA'"},    "geometry": {
+      "x": 30.18896,
+      "y": -92.06359
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 196,
+      "StopName": "'JOHNSTON AT RITE-AID'"},    "geometry": {
+      "x": 30.18724,
+      "y": -92.06534
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 197,
+      "StopName": "'JOHNSTON AT DOUG ASHYS'"},    "geometry": {
+      "x": 30.1847,
+      "y": -92.06794
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 198,
+      "StopName": "'JOHNSTON & WESTMARK'"},    "geometry": {
+      "x": 30.18263,
+      "y": -92.07018
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 199,
+      "StopName": "'JOHNSTON AT CENTERPIECE CENTER'"},    "geometry": {
+      "x": 30.180214,
+      "y": -92.072678
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 753,
+      "StopName": "'AMB. CAFFERY @ LAFAYETTE SHOOTERS'"},    "geometry": {
+      "x": 30.176851,
+      "y": -92.073229
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 754,
+      "StopName": "'AMB. CAFFERY @ TSUBAKI'"},    "geometry": {
+      "x": 30.17507,
+      "y": -92.071074
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 755,
+      "StopName": "'AMB. CAFFERY @ UHAUL STORAGE'"},    "geometry": {
+      "x": 30.173218,
+      "y": -92.068831
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 756,
+      "StopName": "'ROBLEY @ ANSLEY WALK APPT'"},    "geometry": {
+      "x": 30.164767,
+      "y": -92.073245
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 757,
+      "StopName": "'SOUTH CITY PKWY @ SOUTH LIBRARY'"},    "geometry": {
+      "x": 30.165807,
+      "y": -92.082159
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 758,
+      "StopName": "'JOHNSTON ST @ RESERVE DR'"},    "geometry": {
+      "x": 30.171507,
+      "y": -92.080662
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 759,
+      "StopName": "'JOHNSTON ST @ GOUDCHAUX DR'"},    "geometry": {
+      "x": 30.173198,
+      "y": -92.079162
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 760,
+      "StopName": "'JOHNSTON ST @ PEP BOYS'"},    "geometry": {
+      "x": 30.175832,
+      "y": -92.076507
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 761,
+      "StopName": "'JOHNSTON ST @ TIME PLAZA'"},    "geometry": {
+      "x": 30.178964,
+      "y": -92.07346
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 210,
+      "StopName": "'JOHNSTON AT HYUNDAI'"},    "geometry": {
+      "x": 30.18316,
+      "y": -92.06931
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 211,
+      "StopName": "'JOHNSTON & GEINEVIEVE'"},    "geometry": {
+      "x": 30.18456,
+      "y": -92.0679
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 212,
+      "StopName": "'JOHNSTON & GRAND'"},    "geometry": {
+      "x": 30.18649,
+      "y": -92.06593
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 213,
+      "StopName": "'JOHNSTON & LANA - STOP 2'"},    "geometry": {
+      "x": 30.188701,
+      "y": -92.063556
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 214,
+      "StopName": "'JOHNSTON AT PRINCESS NAILS'"},    "geometry": {
+      "x": 30.19009,
+      "y": -92.06221
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 215,
+      "StopName": "'JOHNSTON AT GATTI TOWN'"},    "geometry": {
+      "x": 30.19212,
+      "y": -92.060049
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 216,
+      "StopName": "'JOHNSTON & RENA'"},    "geometry": {
+      "x": 30.19425,
+      "y": -92.05812
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 217,
+      "StopName": "'JOHNSTON & BRENTWOOD'"},    "geometry": {
+      "x": 30.19569,
+      "y": -92.05723
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 218,
+      "StopName": "'JOHNSTON & MARILYN'"},    "geometry": {
+      "x": 30.1987,
+      "y": -92.0558
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 219,
+      "StopName": "'JOHNSTON AT ASBURY CHURCH'"},    "geometry": {
+      "x": 30.1996,
+      "y": -92.05531
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 220,
+      "StopName": "'JOHNSTON & ROSELAWN'"},    "geometry": {
+      "x": 30.20144,
+      "y": -92.05372
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 221,
+      "StopName": "'JOHNSTON AT GRAND THEATER'"},    "geometry": {
+      "x": 30.20361,
+      "y": -92.04775
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 222,
+      "StopName": "'JOHNSTON AT RIVERSTONE APTS.'"},    "geometry": {
+      "x": 30.20417,
+      "y": -92.04542
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 223,
+      "StopName": "'JOHNSTON & BERTRAND - STOP 2'"},    "geometry": {
+      "x": 30.20553,
+      "y": -92.04116
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 224,
+      "StopName": "'JOHNSTON & WEDGEWOOD'"},    "geometry": {
+      "x": 30.208193,
+      "y": -92.036514
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 225,
+      "StopName": "'JOHNSTON AT BEAU CHENES APTS'"},    "geometry": {
+      "x": 30.20877,
+      "y": -92.03487
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 226,
+      "StopName": "'JOHNSTON & RONALD'"},    "geometry": {
+      "x": 30.21,
+      "y": -92.03088
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 227,
+      "StopName": "'JOHNSTON & CATHERINE'"},    "geometry": {
+      "x": 30.210494,
+      "y": -92.029036
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 228,
+      "StopName": "'JOHNSTON & E. LEWIS'"},    "geometry": {
+      "x": 30.212125,
+      "y": -92.025473
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 229,
+      "StopName": "'JOHNSTON AT FRENCH HOUSE'"},    "geometry": {
+      "x": 30.21388,
+      "y": -92.02228
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 230,
+      "StopName": "'JOHNSTON & MAXIM DOUCET HALL'"},    "geometry": {
+      "x": 30.21515,
+      "y": -92.02102
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 231,
+      "StopName": "'JOHNSTON AT GIRARD HALL'"},    "geometry": {
+      "x": 30.21638,
+      "y": -92.01983
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 232,
+      "StopName": "'JOHNSTON & GEN. MOUTON - STOP 2'"},    "geometry": {
+      "x": 30.218445,
+      "y": -92.018162
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 233,
+      "StopName": "'JOHNSTON & E. CONVENT'"},    "geometry": {
+      "x": 30.22043,
+      "y": -92.01691
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 234,
+      "StopName": "'JOHNSTON & STEWART - STOP 2'"},    "geometry": {
+      "x": 30.221123,
+      "y": -92.016458
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 235,
+      "StopName": "'JOHNSTON & E. MAIN - STOP 2'"},    "geometry": {
+      "x": 30.221831,
+      "y": -92.016006
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 236,
+      "StopName": "'JOHNSTON & E. VERMILION'"},    "geometry": {
+      "x": 30.222956,
+      "y": -92.015276
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 25,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 41,
+      "StopName": "'LEE & CYPRESS'"},    "geometry": {
+      "x": 30.225761,
+      "y": -92.01486
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 238,
+      "StopName": "'LEE & VERMILION'"},    "geometry": {
+      "x": 30.224155,
+      "y": -92.016571
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 239,
+      "StopName": "'LEE & MAIN'"},    "geometry": {
+      "x": 30.222984,
+      "y": -92.017333
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 240,
+      "StopName": "'LEE AT CITY COUR'"},    "geometry": {
+      "x": 30.22192,
+      "y": -92.01824
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 241,
+      "StopName": "'LEE & AVE B'"},    "geometry": {
+      "x": 30.219252,
+      "y": -92.019963
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 242,
+      "StopName": "'UNIVERSITY & ST JOHN'"},    "geometry": {
+      "x": 30.220425,
+      "y": -92.023004
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 244,
+      "StopName": "'UNIVERSITY & VERSAILLES'"},    "geometry": {
+      "x": 30.224411,
+      "y": -92.027046
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 245,
+      "StopName": "'UNIVERSITY & CONGRESS'"},    "geometry": {
+      "x": 30.225863,
+      "y": -92.028009
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 246,
+      "StopName": "'UNIVERSITY & OAKLAWN'"},    "geometry": {
+      "x": 30.227516,
+      "y": -92.029147
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 247,
+      "StopName": "'UNIVERSITY & SIMCOE'"},    "geometry": {
+      "x": 30.229232,
+      "y": -92.030319
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 248,
+      "StopName": "'UNIVERSITY & JEANNE'"},    "geometry": {
+      "x": 30.231272,
+      "y": -92.031695
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 249,
+      "StopName": "'UNIVERSITY & CAMERON'"},    "geometry": {
+      "x": 30.232085,
+      "y": -92.032139
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 250,
+      "StopName": "'UNIVERSITY & PORTLOCK'"},    "geometry": {
+      "x": 30.237032,
+      "y": -92.032313
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 251,
+      "StopName": "'UNIVERSITY & MADELINE'"},    "geometry": {
+      "x": 30.23862,
+      "y": -92.03235
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 252,
+      "StopName": "'UNIVERSITY & ARTHUR'"},    "geometry": {
+      "x": 30.240302,
+      "y": -92.032337
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 253,
+      "StopName": "'UNIVERSITY & GILMAN'"},    "geometry": {
+      "x": 30.242954,
+      "y": -92.032331
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 254,
+      "StopName": "'UNIVERSITY & WILSHIRE'"},    "geometry": {
+      "x": 30.24601,
+      "y": -92.03338
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 255,
+      "StopName": "'MLK & HOLLYWOOD'"},    "geometry": {
+      "x": 30.24915,
+      "y": -92.03472
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 256,
+      "StopName": "'MLK & DAYS INN'"},    "geometry": {
+      "x": 30.250439,
+      "y": -92.034956
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 257,
+      "StopName": "'MLK & COOPER'"},    "geometry": {
+      "x": 30.250295,
+      "y": -92.031503
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 258,
+      "StopName": "'MLK & TOWNHOMES'"},    "geometry": {
+      "x": 30.250043,
+      "y": -92.029395
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 259,
+      "StopName": "'MLK & FOOT'"},    "geometry": {
+      "x": 30.249872,
+      "y": -92.027936
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 261,
+      "StopName": "'ST. ANTOINE & MLK'"},    "geometry": {
+      "x": 30.248891,
+      "y": -92.025386
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 262,
+      "StopName": "'ST. ANTOINE & BOSSIER'"},    "geometry": {
+      "x": 30.243935,
+      "y": -92.023686
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 263,
+      "StopName": "'ST. ANTOINE & GILMAN'"},    "geometry": {
+      "x": 30.242116,
+      "y": -92.024135
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 264,
+      "StopName": "'GILMAN & FRIENDSHIP'"},    "geometry": {
+      "x": 30.242239,
+      "y": -92.025614
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 265,
+      "StopName": "'GILMAN & CORA'"},    "geometry": {
+      "x": 30.24249,
+      "y": -92.02783
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 266,
+      "StopName": "'GILMAN & KENNEDY'"},    "geometry": {
+      "x": 30.24294,
+      "y": -92.031235
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 306,
+      "StopName": "'UNIVERSITY & KEELING'"},    "geometry": {
+      "x": 30.24153,
+      "y": -92.03248
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 268,
+      "StopName": "'UNIVERSITY & MADELINE STOP 2'"},    "geometry": {
+      "x": 30.239169,
+      "y": -92.032565
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 269,
+      "StopName": "'UNIVERSITY & PORTLOCK STOP 2'"},    "geometry": {
+      "x": 30.23738,
+      "y": -92.03251
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 270,
+      "StopName": "'UNIVERSITY & JEANNE STOP 2'"},    "geometry": {
+      "x": 30.231584,
+      "y": -92.03215
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 271,
+      "StopName": "'UNIVERSITY & AGNES'"},    "geometry": {
+      "x": 30.22932,
+      "y": -92.030555
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 272,
+      "StopName": "'UNIVERSITY & OAKLAWN STOP 2'"},    "geometry": {
+      "x": 30.227555,
+      "y": -92.029352
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 273,
+      "StopName": "'UNIVERSITY & VERSAILLES'"},    "geometry": {
+      "x": 30.224693,
+      "y": -92.027425
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 274,
+      "StopName": "'UNIVERSITY & PARKSIDE'"},    "geometry": {
+      "x": 30.222271,
+      "y": -92.025849
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 275,
+      "StopName": "'UNIVERSITY & ST. LANDRY STOP 2'"},    "geometry": {
+      "x": 30.220726,
+      "y": -92.023753
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 276,
+      "StopName": "'LEE & AVE B'"},    "geometry": {
+      "x": 30.219247,
+      "y": -92.019793
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 277,
+      "StopName": "'LEE & JEFFERSON'"},    "geometry": {
+      "x": 30.22095,
+      "y": -92.018961
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 278,
+      "StopName": "'LEE & MAIN STOP 2'"},    "geometry": {
+      "x": 30.222771,
+      "y": -92.017299
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 279,
+      "StopName": "'LEE & VERMILION STOP 2'"},    "geometry": {
+      "x": 30.223924,
+      "y": -92.016546
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 30,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 41,
+      "StopName": "'LEE & CYPRESS'"},    "geometry": {
+      "x": 30.225761,
+      "y": -92.01486
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 42,
+      "StopName": "'CYPRESS & 2ND'"},    "geometry": {
+      "x": 30.228834,
+      "y": -92.01653
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 43,
+      "StopName": "'W CONGRESS AT S. PIERCE'"},    "geometry": {
+      "x": 30.228279,
+      "y": -92.018298
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 44,
+      "StopName": "'W CONGRESS & LAFAYETTE'"},    "geometry": {
+      "x": 30.227029,
+      "y": -92.020701
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 45,
+      "StopName": "'W CONGRESS & ST JOHN'"},    "geometry": {
+      "x": 30.227039,
+      "y": -92.022703
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 46,
+      "StopName": "'W CONGRESS & S. BIENVILLE'"},    "geometry": {
+      "x": 30.22724,
+      "y": -92.02401
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 282,
+      "StopName": "'ST. ANTOINE & VOORHIES'"},    "geometry": {
+      "x": 30.22802,
+      "y": -92.02488
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 283,
+      "StopName": "'ST. ANTOINE & SIMCOE'"},    "geometry": {
+      "x": 30.230407,
+      "y": -92.02487
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 284,
+      "StopName": "'ST. ANTOINE & CAMERON'"},    "geometry": {
+      "x": 30.23189,
+      "y": -92.0249
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 285,
+      "StopName": "'ST. ANTOINE & HOPKINS'"},    "geometry": {
+      "x": 30.233,
+      "y": -92.02491
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 286,
+      "StopName": "'ST. ANTOINE & MORGAN'"},    "geometry": {
+      "x": 30.23454,
+      "y": -92.0249
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 287,
+      "StopName": "'ST. ANTOINE & MORSE'"},    "geometry": {
+      "x": 30.23603,
+      "y": -92.02487
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 288,
+      "StopName": "'ST. ANTOINE & DEWEY'"},    "geometry": {
+      "x": 30.23714,
+      "y": -92.02487
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 289,
+      "StopName": "'MADELINE & HELEN'"},    "geometry": {
+      "x": 30.23834,
+      "y": -92.02606
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 290,
+      "StopName": "'MADELINE & JACK'"},    "geometry": {
+      "x": 30.23867,
+      "y": -92.02886
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 291,
+      "StopName": "'MADELINE & IRENE'"},    "geometry": {
+      "x": 30.23912,
+      "y": -92.03185
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 269,
+      "StopName": "'UNIVERSITY & PORTLOCK STOP 2'"},    "geometry": {
+      "x": 30.23738,
+      "y": -92.03251
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 292,
+      "StopName": "'WALKER RD & TOURNOIR'"},    "geometry": {
+      "x": 30.235719,
+      "y": -92.035359
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 293,
+      "StopName": "'WALKER RD & NEWPORT'"},    "geometry": {
+      "x": 30.2357,
+      "y": -92.03611
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 294,
+      "StopName": "'WALKER RD & LEROY'"},    "geometry": {
+      "x": 30.2357,
+      "y": -92.03744
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 295,
+      "StopName": "'ORCHID AT HOUSE 501'"},    "geometry": {
+      "x": 30.23615,
+      "y": -92.03921
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 296,
+      "StopName": "'ORCHID & DAISY'"},    "geometry": {
+      "x": 30.23783,
+      "y": -92.03902
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 297,
+      "StopName": "'ORCHID & MARIGOLD'"},    "geometry": {
+      "x": 30.23978,
+      "y": -92.03972
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 298,
+      "StopName": "'ORCHID & DAFFODIL LOOP'"},    "geometry": {
+      "x": 30.2413,
+      "y": -92.04015
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 299,
+      "StopName": "'ORCHID & ASTER'"},    "geometry": {
+      "x": 30.24303,
+      "y": -92.0409
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 300,
+      "StopName": "'ASTER & WILLOW'"},    "geometry": {
+      "x": 30.24433,
+      "y": -92.04191
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 301,
+      "StopName": "'WILLOW AT RUSSELLS SPECIALTY'"},    "geometry": {
+      "x": 30.24457,
+      "y": -92.03922
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 302,
+      "StopName": "'WILLOW AT ASH INDUSTRIES'"},    "geometry": {
+      "x": 30.24446,
+      "y": -92.03851
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 303,
+      "StopName": "'WILLOW AT WILLOWBROOKE II'"},    "geometry": {
+      "x": 30.24431,
+      "y": -92.03679
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 304,
+      "StopName": "'WILLOW AT WILLOWBROOKE'"},    "geometry": {
+      "x": 30.24414,
+      "y": -92.03554
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 305,
+      "StopName": "'UNIVERSITY & GILMAN'"},    "geometry": {
+      "x": 30.24305,
+      "y": -92.03251
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 306,
+      "StopName": "'UNIVERSITY & KEELING'"},    "geometry": {
+      "x": 30.24153,
+      "y": -92.03248
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 307,
+      "StopName": "'MADELINE & CELESTE'"},    "geometry": {
+      "x": 30.238409,
+      "y": -92.02746
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 308,
+      "StopName": "'MADELINE & ST. ANTOINE'"},    "geometry": {
+      "x": 30.23815,
+      "y": -92.02517
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 309,
+      "StopName": "'ST. ANTOINE & MARIE'"},    "geometry": {
+      "x": 30.2372,
+      "y": -92.02499
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 310,
+      "StopName": "'ST. ANTOINE & HUVAL'"},    "geometry": {
+      "x": 30.23527,
+      "y": -92.02499
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 311,
+      "StopName": "'ST. ANTOINE & CAMERON - STOP 2'"},    "geometry": {
+      "x": 30.23212,
+      "y": -92.02498
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 312,
+      "StopName": "'ST. ANTOINE & SIMCOE - STOP 2'"},    "geometry": {
+      "x": 30.23068,
+      "y": -92.02498
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 313,
+      "StopName": "'ST. ANTOINE & VOORHIES - STOP 2'"},    "geometry": {
+      "x": 30.22833,
+      "y": -92.02498
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 101,
+      "StopName": "'W CONGRESS & ST JOHN - STOP 2'"},    "geometry": {
+      "x": 30.226902,
+      "y": -92.02302
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 102,
+      "StopName": "'CONGRESS & E. CONGRESS'"},    "geometry": {
+      "x": 30.227246,
+      "y": -92.019232
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 103,
+      "StopName": "'CYPRESS & JEFFERSON'"},    "geometry": {
+      "x": 30.227785,
+      "y": -92.016129
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 35,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 315,
+      "StopName": "'JEFFERSON & SW THRUWAY'"},    "geometry": {
+      "x": 30.228506,
+      "y": -92.012655
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 316,
+      "StopName": "'JEFFERSON & S ORANGE'"},    "geometry": {
+      "x": 30.229245,
+      "y": -92.010865
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 317,
+      "StopName": "'JEFFERSON & S. STERLING'"},    "geometry": {
+      "x": 30.229608,
+      "y": -92.009979
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 318,
+      "StopName": "'MOSS & MUDD'"},    "geometry": {
+      "x": 30.23238,
+      "y": -92.00876
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 319,
+      "StopName": "'MOSS & CHOPIN'"},    "geometry": {
+      "x": 30.23427,
+      "y": -92.00839
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 320,
+      "StopName": "'MOSS & TISSINGTON'"},    "geometry": {
+      "x": 30.23697,
+      "y": -92.0078
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 321,
+      "StopName": "'MOSS & DEVA'"},    "geometry": {
+      "x": 30.23987,
+      "y": -92.00715
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 322,
+      "StopName": "'MOSS & CHAPPIUS'"},    "geometry": {
+      "x": 30.24105,
+      "y": -92.00764
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 323,
+      "StopName": "'CHAPPIUS & NE FRONTAGE'"},    "geometry": {
+      "x": 30.24165,
+      "y": -92.01174
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 324,
+      "StopName": "'NE FRONTAGE AT MCDONALDS'"},    "geometry": {
+      "x": 30.24391,
+      "y": -92.01128
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 325,
+      "StopName": "'WILLOW & ARMENTOR'"},    "geometry": {
+      "x": 30.24425,
+      "y": -92.00991
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 326,
+      "StopName": "'WILLOW & MOSS'"},    "geometry": {
+      "x": 30.24374,
+      "y": -92.0066
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 791,
+      "StopName": "'Moss at Pine - Northside Engine'"},    "geometry": {
+      "x": 30.245789,
+      "y": -92.006142
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 781,
+      "StopName": "'CASTILLE AT NORTHGATE MALL'"},    "geometry": {
+      "x": 30.248444,
+      "y": -92.007132
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 782,
+      "StopName": "'CASTILLE AT WILLOW CHARTER ACADEMY'"},    "geometry": {
+      "x": 30.24888,
+      "y": -92.010072
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 783,
+      "StopName": "'FRONTAGE AT RAMADA'"},    "geometry": {
+      "x": 30.250273,
+      "y": -92.013065
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 784,
+      "StopName": "'FRONTAGE AT WAFFLE HOUSE'"},    "geometry": {
+      "x": 30.252751,
+      "y": -92.013626
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 785,
+      "StopName": "'FRONTAGE AT SUPER 8'"},    "geometry": {
+      "x": 30.254477,
+      "y": -92.014029
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 786,
+      "StopName": "'ALEXANDER & FRONTAGE'"},    "geometry": {
+      "x": 30.255956,
+      "y": -92.013582
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 787,
+      "StopName": "'ALEXANDER & DALE'"},    "geometry": {
+      "x": 30.255763,
+      "y": -92.011563
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 788,
+      "StopName": "'ALEXANDEDR & MACKLYN ST'"},    "geometry": {
+      "x": 30.255699,
+      "y": -92.010492
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 789,
+      "StopName": "'ALEXANDER & SONNY ST'"},    "geometry": {
+      "x": 30.255622,
+      "y": -92.007628
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 790,
+      "StopName": "'ALEXANDER & AZELIE ST'"},    "geometry": {
+      "x": 30.2556,
+      "y": -92.006539
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 357,
+      "StopName": "'MOSS & GLENHILL'"},    "geometry": {
+      "x": 30.26101,
+      "y": -92.00723
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 356,
+      "StopName": "'MOSS & MORELAN'"},    "geometry": {
+      "x": 30.26706,
+      "y": -92.00818
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 355,
+      "StopName": "'MOSS AT DOLLAR GENERAL'"},    "geometry": {
+      "x": 30.268722,
+      "y": -92.008205
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 337,
+      "StopName": "'MOSS AT WINN-DIXIE'"},    "geometry": {
+      "x": 30.273563,
+      "y": -92.007986
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 338,
+      "StopName": "'SIDNEY MARTIN AT CORNERSTONE'"},    "geometry": {
+      "x": 30.27752,
+      "y": -92.01076
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 339,
+      "StopName": "'TORONTO & MORNING GLORY'"},    "geometry": {
+      "x": 30.27648,
+      "y": -92.01382
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 340,
+      "StopName": "'TORONTO & HIGH MEADOWS'"},    "geometry": {
+      "x": 30.27629,
+      "y": -92.01568
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 342,
+      "StopName": "'HIGH MEADOWS & LARKSPUR'"},    "geometry": {
+      "x": 30.278629,
+      "y": -92.016094
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 343,
+      "StopName": "'HIGH MEADOWS & CLEMATIS'"},    "geometry": {
+      "x": 30.280188,
+      "y": -92.016617
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 344,
+      "StopName": "'NE FRONTAGE AT METRO BINGO'"},    "geometry": {
+      "x": 30.28881,
+      "y": -92.02245
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 345,
+      "StopName": "'NE FRONTAGE AT CHILLIS'"},    "geometry": {
+      "x": 30.29333,
+      "y": -92.0237
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 346,
+      "StopName": "'GLORIA SWITCH AT LOWES'"},    "geometry": {
+      "x": 30.29549,
+      "y": -92.02278
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 347,
+      "StopName": "'GLORIA SWITCH & AMESBURY'"},    "geometry": {
+      "x": 30.295298,
+      "y": -92.019037
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 348,
+      "StopName": "'GLORIA SWITCH & MOSS'"},    "geometry": {
+      "x": 30.294,
+      "y": -92.00733
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 349,
+      "StopName": "'MOSS & RAIN TREE TRAIL'"},    "geometry": {
+      "x": 30.29238,
+      "y": -92.00718
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 350,
+      "StopName": "'MOSS & BUTCHER SWITCH RD'"},    "geometry": {
+      "x": 30.28669,
+      "y": -92.0067
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 351,
+      "StopName": "'MOSS AT ACADIAN MIDDLE'"},    "geometry": {
+      "x": 30.28445,
+      "y": -92.00675
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 352,
+      "StopName": "'MOSS & NOVA SCOTIA'"},    "geometry": {
+      "x": 30.28034,
+      "y": -92.00779
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 353,
+      "StopName": "'MOSS & SIDNEY MARTIN'"},    "geometry": {
+      "x": 30.27713,
+      "y": -92.008
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 336,
+      "StopName": "'PONT DES MOUTON AT BROWN PARK'"},    "geometry": {
+      "x": 30.27259,
+      "y": -91.99626
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 335,
+      "StopName": "'LOUISIANA AVE & TARGET'"},    "geometry": {
+      "x": 30.264116,
+      "y": -91.994118
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 334,
+      "StopName": "'LOUISIANA AT ACADEMY'"},    "geometry": {
+      "x": 30.26121,
+      "y": -91.995073
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 333,
+      "StopName": "'LOUISIANA AT RAINTREE TOWNHOMES'"},    "geometry": {
+      "x": 30.2565,
+      "y": -91.99929
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 487,
+      "StopName": "'E ALEXANDER AT 327 E ALEXANDER'"},    "geometry": {
+      "x": 30.255367,
+      "y": -92.000795
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 488,
+      "StopName": "'E ALEXANDER & BREAUXS MART'"},    "geometry": {
+      "x": 30.25564,
+      "y": -92.004675
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 489,
+      "StopName": "'MOSS AT SOULIER'"},    "geometry": {
+      "x": 30.254341,
+      "y": -92.005379
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 490,
+      "StopName": "'MOSS & DUNAND'"},    "geometry": {
+      "x": 30.250794,
+      "y": -92.005594
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 370,
+      "StopName": "'MOSS AT NORTHGATE MALL'"},    "geometry": {
+      "x": 30.247105,
+      "y": -92.006183
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 371,
+      "StopName": "'MOSS and W. EVERGREEN'"},    "geometry": {
+      "x": 30.245606,
+      "y": -92.006345
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 372,
+      "StopName": "'MOSS & WILLOW'"},    "geometry": {
+      "x": 30.24395,
+      "y": -92.00648
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 373,
+      "StopName": "'MOSS AT CVS'"},    "geometry": {
+      "x": 30.24309,
+      "y": -92.00659
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 374,
+      "StopName": "'MOSS & CARLTON'"},    "geometry": {
+      "x": 30.24213,
+      "y": -92.00683
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 375,
+      "StopName": "'MOSS & CHAPPIUS - STOP 2'"},    "geometry": {
+      "x": 30.24103,
+      "y": -92.00707
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 376,
+      "StopName": "'MOSS & DONLON'"},    "geometry": {
+      "x": 30.23963,
+      "y": -92.00734
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 377,
+      "StopName": "'MOSS & SOPHIE'"},    "geometry": {
+      "x": 30.23769,
+      "y": -92.00774
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 378,
+      "StopName": "'MOSS & BELLOT'"},    "geometry": {
+      "x": 30.23616,
+      "y": -92.00809
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 379,
+      "StopName": "'MOSS & CHOPIN - STOP 2'"},    "geometry": {
+      "x": 30.23455,
+      "y": -92.00847
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 380,
+      "StopName": "'MOSS & MUDD - STOP 2'"},    "geometry": {
+      "x": 30.23253,
+      "y": -92.00888
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 381,
+      "StopName": "'MOSS & SIMCOE - STOP 2'"},    "geometry": {
+      "x": 30.23076,
+      "y": -92.00918
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 382,
+      "StopName": "'JEFFERSON & STERLING'"},    "geometry": {
+      "x": 30.229823,
+      "y": -92.009876
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 383,
+      "StopName": "'JEFFERSON & N ORANGE'"},    "geometry": {
+      "x": 30.229464,
+      "y": -92.010807
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 384,
+      "StopName": "'JEFFERSON & NW THRUWAY'"},    "geometry": {
+      "x": 30.22874,
+      "y": -92.01245
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 45,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 41,
+      "StopName": "'LEE & CYPRESS'"},    "geometry": {
+      "x": 30.225761,
+      "y": -92.01486
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 42,
+      "StopName": "'CYPRESS & 2ND'"},    "geometry": {
+      "x": 30.228834,
+      "y": -92.01653
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 43,
+      "StopName": "'W CONGRESS AT S. PIERCE'"},    "geometry": {
+      "x": 30.228279,
+      "y": -92.018298
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 386,
+      "StopName": "'OLIVIER & PIERCE'"},    "geometry": {
+      "x": 30.22936,
+      "y": -92.01867
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 387,
+      "StopName": "'PIERCE & SIMCOE'"},    "geometry": {
+      "x": 30.23023,
+      "y": -92.01871
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 388,
+      "StopName": "'PIERCE & SHERMAN'"},    "geometry": {
+      "x": 30.23205,
+      "y": -92.018921
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 389,
+      "StopName": "'PIERCE & CAMERON'"},    "geometry": {
+      "x": 30.232891,
+      "y": -92.019039
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 390,
+      "StopName": "'NORTHSIDE WALMART'"},    "geometry": {
+      "x": 30.238496,
+      "y": -92.015458
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 391,
+      "StopName": "'BUCHANAN & PIERCE'"},    "geometry": {
+      "x": 30.238113,
+      "y": -92.019896
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 392,
+      "StopName": "'PIERCE & AMBROISE'"},    "geometry": {
+      "x": 30.241787,
+      "y": -92.018846
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 393,
+      "StopName": "'PIERCE & LENA'"},    "geometry": {
+      "x": 30.242888,
+      "y": -92.018559
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 394,
+      "StopName": "'PIERCE AT PRIDE PLAZA'"},    "geometry": {
+      "x": 30.24433,
+      "y": -92.01821
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 395,
+      "StopName": "'WILLOW & ST. ANTOINE'"},    "geometry": {
+      "x": 30.24567,
+      "y": -92.02329
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 396,
+      "StopName": "'N ST ANTIONE @ MLK'"},    "geometry": {
+      "x": 30.249078,
+      "y": -92.025297
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 397,
+      "StopName": "'MLK & LINCOLN'"},    "geometry": {
+      "x": 30.24951,
+      "y": -92.02471
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 398,
+      "StopName": "'MLK & HIMBOLA MANOR'"},    "geometry": {
+      "x": 30.249372,
+      "y": -92.023486
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 399,
+      "StopName": "'PATTERSON AT ALICE BOUCHER'"},    "geometry": {
+      "x": 30.249318,
+      "y": -92.020408
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 400,
+      "StopName": "'PATTERSON & ROE'"},    "geometry": {
+      "x": 30.251256,
+      "y": -92.020058
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 401,
+      "StopName": "'HAMMOND & ANTELOPE'"},    "geometry": {
+      "x": 30.25208,
+      "y": -92.02095
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 402,
+      "StopName": "'S. RICTHER AT HOUSE 151'"},    "geometry": {
+      "x": 30.2527,
+      "y": -92.02153
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 403,
+      "StopName": "'S RICHTER & JESSICA'"},    "geometry": {
+      "x": 30.255093,
+      "y": -92.021134
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 404,
+      "StopName": "'JUSTIN & PATTERSON'"},    "geometry": {
+      "x": 30.255528,
+      "y": -92.019427
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 405,
+      "StopName": "'JUSTIN & BERANDA'"},    "geometry": {
+      "x": 30.25546,
+      "y": -92.01785
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 406,
+      "StopName": "'JUSTIN & FRONTAGE'"},    "geometry": {
+      "x": 30.255313,
+      "y": -92.015172
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 407,
+      "StopName": "'FRONTAGE AT FAIRFIELD INN'"},    "geometry": {
+      "x": 30.25408,
+      "y": -92.01474
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 408,
+      "StopName": "'FRONTAGE & CHALMETTE'"},    "geometry": {
+      "x": 30.25256,
+      "y": -92.01438
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 409,
+      "StopName": "'FRONTAGE & PARKWAY PLAZA'"},    "geometry": {
+      "x": 30.25101,
+      "y": -92.01411
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 410,
+      "StopName": "'FRONTAGE & MLK'"},    "geometry": {
+      "x": 30.24844,
+      "y": -92.01359
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 411,
+      "StopName": "'FRONTAGE AT ROYAL INN'"},    "geometry": {
+      "x": 30.24695,
+      "y": -92.01363
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 412,
+      "StopName": "'WILLOW AT COMM. SERVICES'"},    "geometry": {
+      "x": 30.24526,
+      "y": -92.01625
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 413,
+      "StopName": "'PIERCE AT PRIDE PLAZA - STOP 2'"},    "geometry": {
+      "x": 30.24453,
+      "y": -92.01822
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 414,
+      "StopName": "'PIERCE & LENA - STOP 2'"},    "geometry": {
+      "x": 30.24306,
+      "y": -92.01861
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 415,
+      "StopName": "'PIERCE & GILMAN'"},    "geometry": {
+      "x": 30.241624,
+      "y": -92.019041
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 416,
+      "StopName": "'PIERCE & MADELINE'"},    "geometry": {
+      "x": 30.23822,
+      "y": -92.02001
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 417,
+      "StopName": "'PIERCE & MARTIN'"},    "geometry": {
+      "x": 30.236624,
+      "y": -92.020016
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 418,
+      "StopName": "'PIERCE & CAMERON - STOP 2'"},    "geometry": {
+      "x": 30.23334,
+      "y": -92.01916
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 419,
+      "StopName": "'PIERCE & SHERMAN - STOP 2'"},    "geometry": {
+      "x": 30.232133,
+      "y": -92.019046
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 420,
+      "StopName": "'PIERCE & SIMCOE - STOP 2'"},    "geometry": {
+      "x": 30.231078,
+      "y": -92.018941
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 421,
+      "StopName": "'PIERCE & OLIVIER - STOP 2'"},    "geometry": {
+      "x": 30.22949,
+      "y": -92.01886
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 103,
+      "StopName": "'CYPRESS & JEFFERSON'"},    "geometry": {
+      "x": 30.227785,
+      "y": -92.016129
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 50,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 41,
+      "StopName": "'LEE & CYPRESS'"},    "geometry": {
+      "x": 30.225761,
+      "y": -92.01486
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 548,
+      "StopName": "'GARFIELD & GORDON'"},    "geometry": {
+      "x": 30.22339,
+      "y": -92.01321
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 700,
+      "StopName": "'LAMAR @ VERMILLION'"},    "geometry": {
+      "x": 30.221453,
+      "y": -92.012372
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 701,
+      "StopName": "'LAMAR @ VERMILLION'"},    "geometry": {
+      "x": 30.220827,
+      "y": -92.012815
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 702,
+      "StopName": "'LAMAR @ MAIN'"},    "geometry": {
+      "x": 30.220098,
+      "y": -92.013284
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 703,
+      "StopName": "'STEWART @ BRAINARD'"},    "geometry": {
+      "x": 30.2185,
+      "y": -92.012772
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 704,
+      "StopName": "'E TAFT ST @ E CONVENT'"},    "geometry": {
+      "x": 30.216535,
+      "y": -92.011131
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 705,
+      "StopName": "'GENERAL MOUTON AVE @ WILSON ST'"},    "geometry": {
+      "x": 30.213999,
+      "y": -92.011287
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 706,
+      "StopName": "'GENERAL MOUTON AVE @ COOLIDGE'"},    "geometry": {
+      "x": 30.213014,
+      "y": -92.009646
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 707,
+      "StopName": "'COOLIDGE ST @ STEVENSON ST'"},    "geometry": {
+      "x": 30.212396,
+      "y": -92.010054
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 708,
+      "StopName": "'COOLIDGE ST @ STEVENSON ST'"},    "geometry": {
+      "x": 30.211837,
+      "y": -92.010412
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 709,
+      "StopName": "'E UNIVERSITY AVE @ HARDING ST'"},    "geometry": {
+      "x": 30.211795,
+      "y": -92.011484
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 710,
+      "StopName": "'MC KINLEY ST @ BOUCHER DR'"},    "geometry": {
+      "x": 30.213506,
+      "y": -92.015742
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 711,
+      "StopName": "'MC KINLEY ST @ E SAINT MARY BLVD'"},    "geometry": {
+      "x": 30.212669,
+      "y": -92.016581
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 712,
+      "StopName": "'GIRARD PARK CIRCLE @ E SAINT MARY BLVD'"},    "geometry": {
+      "x": 30.210228,
+      "y": -92.019427
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 713,
+      "StopName": "'GIRARD PARK CIRCLE @ E LEWIS ST'"},    "geometry": {
+      "x": 30.206688,
+      "y": -92.021972
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 714,
+      "StopName": "'GIRARD PARK CIRCLE @ VERLANDER CIRCLE'"},    "geometry": {
+      "x": 30.204085,
+      "y": -92.021085
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 715,
+      "StopName": "'GIRARD PARK CIRCLE @ S COLLEGE RD'"},    "geometry": {
+      "x": 30.200407,
+      "y": -92.023461
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 542,
+      "StopName": "'S COLLEGE & LASSERE'"},    "geometry": {
+      "x": 30.200162,
+      "y": -92.028054
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 543,
+      "StopName": "'S COLLEGE & HORSESHOE'"},    "geometry": {
+      "x": 30.202784,
+      "y": -92.032341
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 544,
+      "StopName": "'S COLLEGE & DERANEY'"},    "geometry": {
+      "x": 30.204157,
+      "y": -92.034424
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 545,
+      "StopName": "'S COLLEGE & JOHNSTON'"},    "geometry": {
+      "x": 30.20702,
+      "y": -92.03788
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 716,
+      "StopName": "'N COLLEGE RD @ MEAUX BLVD'"},    "geometry": {
+      "x": 30.208283,
+      "y": -92.039652
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 717,
+      "StopName": "'N COLLEGE RD @ REINHARDT DR'"},    "geometry": {
+      "x": 30.21187,
+      "y": -92.044308
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 718,
+      "StopName": "'N COLLEGE RD @ THEATRE DR'"},    "geometry": {
+      "x": 30.213753,
+      "y": -92.045971
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 94,
+      "StopName": "'CONGRESS AT CAJUN FIELD GATE 3'"},    "geometry": {
+      "x": 30.215791,
+      "y": -92.045444
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 720,
+      "StopName": "'CAJUNDOME BLVD @ REINHARDT DR'"},    "geometry": {
+      "x": 30.213624,
+      "y": -92.037496
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 721,
+      "StopName": "'CAJUNDOME BLVD @ JOHNSTON ST'"},    "geometry": {
+      "x": 30.211012,
+      "y": -92.035276
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 226,
+      "StopName": "'JOHNSTON & RONALD'"},    "geometry": {
+      "x": 30.21,
+      "y": -92.03088
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 227,
+      "StopName": "'JOHNSTON & CATHERINE'"},    "geometry": {
+      "x": 30.210494,
+      "y": -92.029036
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 228,
+      "StopName": "'JOHNSTON & E. LEWIS'"},    "geometry": {
+      "x": 30.212125,
+      "y": -92.025473
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 229,
+      "StopName": "'JOHNSTON AT FRENCH HOUSE'"},    "geometry": {
+      "x": 30.21388,
+      "y": -92.02228
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 230,
+      "StopName": "'JOHNSTON & MAXIM DOUCET HALL'"},    "geometry": {
+      "x": 30.21515,
+      "y": -92.02102
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 231,
+      "StopName": "'JOHNSTON AT GIRARD HALL'"},    "geometry": {
+      "x": 30.21638,
+      "y": -92.01983
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 232,
+      "StopName": "'JOHNSTON & GEN. MOUTON - STOP 2'"},    "geometry": {
+      "x": 30.218445,
+      "y": -92.018162
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 233,
+      "StopName": "'JOHNSTON & E. CONVENT'"},    "geometry": {
+      "x": 30.22043,
+      "y": -92.01691
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 234,
+      "StopName": "'JOHNSTON & STEWART - STOP 2'"},    "geometry": {
+      "x": 30.221123,
+      "y": -92.016458
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 235,
+      "StopName": "'JOHNSTON & E. MAIN - STOP 2'"},    "geometry": {
+      "x": 30.221831,
+      "y": -92.016006
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 236,
+      "StopName": "'JOHNSTON & E. VERMILION'"},    "geometry": {
+      "x": 30.222956,
+      "y": -92.015276
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 55,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 2,
+      "StopName": "'LOUISIANA & SE THRUWAY'"},    "geometry": {
+      "x": 30.224748,
+      "y": -92.009526
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 474,
+      "StopName": "'LOUISIANA & PLUM'"},    "geometry": {
+      "x": 30.225113,
+      "y": -92.008672
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 475,
+      "StopName": "'LOUISIANA & STERLING'"},    "geometry": {
+      "x": 30.2267,
+      "y": -92.0067
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 476,
+      "StopName": "'LOUISIANA & SURREY'"},    "geometry": {
+      "x": 30.228081,
+      "y": -92.00462661
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 477,
+      "StopName": "'LOUISIANA & SIMCOE'"},    "geometry": {
+      "x": 30.229829,
+      "y": -92.003
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 478,
+      "StopName": "'SIMCOE & CROCKETT'"},    "geometry": {
+      "x": 30.22977,
+      "y": -92.0019
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 479,
+      "StopName": "'12TH & DIAZ'"},    "geometry": {
+      "x": 30.229909,
+      "y": -91.999613
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 480,
+      "StopName": "'12TH & PERSHING'"},    "geometry": {
+      "x": 30.231992,
+      "y": -91.999289
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 481,
+      "StopName": "'12TH & CARMEL'"},    "geometry": {
+      "x": 30.234071,
+      "y": -91.998942
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 482,
+      "StopName": "'CARMEL & VERDUN'"},    "geometry": {
+      "x": 30.234489,
+      "y": -92.00108
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 483,
+      "StopName": "'LOUISIANA AT FAMILY DOLLAR'"},    "geometry": {
+      "x": 30.235,
+      "y": -92.00212
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 484,
+      "StopName": "'LOUISIANA AT HOLY FAMILY APTS'"},    "geometry": {
+      "x": 30.23747,
+      "y": -92.00169
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 485,
+      "StopName": "'LOUISIANA & CENTER'"},    "geometry": {
+      "x": 30.23996,
+      "y": -92.00102
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 486,
+      "StopName": "'LOUISIANA & RANDOLPH'"},    "geometry": {
+      "x": 30.24257,
+      "y": -92.00057
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 329,
+      "StopName": "'LOUISIANA & WALLACE'"},    "geometry": {
+      "x": 30.244777,
+      "y": -92.000286
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 330,
+      "StopName": "'LOUISIANA AT FAULK ELEMENTARY SCHOOL'"},    "geometry": {
+      "x": 30.247615,
+      "y": -91.999985
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 331,
+      "StopName": "'LOUISIANA & NORTHSIDE HIGH'"},    "geometry": {
+      "x": 30.250754,
+      "y": -91.999707
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 332,
+      "StopName": "'LOUISIANA & E. ALEXANDER'"},    "geometry": {
+      "x": 30.25472,
+      "y": -91.99941
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 487,
+      "StopName": "'E ALEXANDER AT 327 E ALEXANDER'"},    "geometry": {
+      "x": 30.255367,
+      "y": -92.000795
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 488,
+      "StopName": "'E ALEXANDER & BREAUXS MART'"},    "geometry": {
+      "x": 30.25564,
+      "y": -92.004675
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 489,
+      "StopName": "'MOSS AT SOULIER'"},    "geometry": {
+      "x": 30.254341,
+      "y": -92.005379
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 490,
+      "StopName": "'MOSS & DUNAND'"},    "geometry": {
+      "x": 30.250794,
+      "y": -92.005594
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 370,
+      "StopName": "'MOSS AT NORTHGATE MALL'"},    "geometry": {
+      "x": 30.247105,
+      "y": -92.006183
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 371,
+      "StopName": "'MOSS and W. EVERGREEN'"},    "geometry": {
+      "x": 30.245606,
+      "y": -92.006345
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 327,
+      "StopName": "'WILLOW & E. CEDAR'"},    "geometry": {
+      "x": 30.244019,
+      "y": -92.004209
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 328,
+      "StopName": "'WILLOW & E. EVERGREEN'"},    "geometry": {
+      "x": 30.244833,
+      "y": -92.002826
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 491,
+      "StopName": "'WILLOW & LOUISIANA'"},    "geometry": {
+      "x": 30.245425,
+      "y": -92.000569
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 492,
+      "StopName": "'LOUISIANA & RANDOLPH STOP 2'"},    "geometry": {
+      "x": 30.24293,
+      "y": -92.0008
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 493,
+      "StopName": "'LOUISIANA & CENTER - STOP 2'"},    "geometry": {
+      "x": 30.24011,
+      "y": -92.00118
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 494,
+      "StopName": "'LOUISIANA AT HOLY FAMILY - STOP 2'"},    "geometry": {
+      "x": 30.23766,
+      "y": -92.00186
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 495,
+      "StopName": "'LOUISIANA & CARMEL'"},    "geometry": {
+      "x": 30.23492,
+      "y": -92.00244
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 496,
+      "StopName": "'LOUISIANA & PERSHING'"},    "geometry": {
+      "x": 30.23258,
+      "y": -92.00259
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 497,
+      "StopName": "'LOUISIANA & SIMCOE - RT60'"},    "geometry": {
+      "x": 30.23006,
+      "y": -92.00306
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 498,
+      "StopName": "'LOUISIANA & SURREY - RT60'"},    "geometry": {
+      "x": 30.228353,
+      "y": -92.004582
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 499,
+      "StopName": "'LOUISIANA & STERLING - RT60'"},    "geometry": {
+      "x": 30.22704,
+      "y": -92.0065
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 500,
+      "StopName": "'LOUISIANA & SE THRUWAY'"},    "geometry": {
+      "x": 30.224999,
+      "y": -92.009375
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 60,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 41,
+      "StopName": "'LEE & CYPRESS'"},    "geometry": {
+      "x": 30.225761,
+      "y": -92.01486
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 169,
+      "StopName": "'JOHNSTON & E. VERMILLION'"},    "geometry": {
+      "x": 30.223256,
+      "y": -92.015313
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 170,
+      "StopName": "'JOHNSTON & E. MAIN'"},    "geometry": {
+      "x": 30.222078,
+      "y": -92.016062
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 171,
+      "StopName": "'JOHNSTON & STEWART'"},    "geometry": {
+      "x": 30.221356,
+      "y": -92.016508
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 172,
+      "StopName": "'JOHNSTON & JEFFERSON'"},    "geometry": {
+      "x": 30.22032,
+      "y": -92.01715
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 173,
+      "StopName": "'JOHNSTON & GEN. MOUTON'"},    "geometry": {
+      "x": 30.218728,
+      "y": -92.018214
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 174,
+      "StopName": "'JOHNSTON & U.L. HOUSE'"},    "geometry": {
+      "x": 30.21695,
+      "y": -92.01938
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 175,
+      "StopName": "'JOHNSTON & ST MARY'"},    "geometry": {
+      "x": 30.2146,
+      "y": -92.02174
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 176,
+      "StopName": "'JOHNSTON & W. LEWIS'"},    "geometry": {
+      "x": 30.212392,
+      "y": -92.025477
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 177,
+      "StopName": "'JOHNSTON & ST. JULIEN'"},    "geometry": {
+      "x": 30.21163,
+      "y": -92.026903
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 178,
+      "StopName": "'JOHNSTON AT UL HORTICULTURE CNTR'"},    "geometry": {
+      "x": 30.21048,
+      "y": -92.02978
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 179,
+      "StopName": "'JOHNSTON & COLISEUM'"},    "geometry": {
+      "x": 30.21002,
+      "y": -92.031438
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 722,
+      "StopName": "'CAJUNDOME BLVD @ REINHARDT DR'"},    "geometry": {
+      "x": 30.213645,
+      "y": -92.037007
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 723,
+      "StopName": "'CAJUNDOME BLVD @ REINHARDT DR'"},    "geometry": {
+      "x": 30.215713,
+      "y": -92.038747
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 53,
+      "StopName": "'UNIVERSITY HEALTH CENTER'"},    "geometry": {
+      "x": 30.21711,
+      "y": -92.04575
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 54,
+      "StopName": "'UNIVERSITY HEALTH CENTER - STOP 2'"},    "geometry": {
+      "x": 30.21635,
+      "y": -92.0469
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 728,
+      "StopName": "'BERTRAND DR @ THEATRE DR'"},    "geometry": {
+      "x": 30.212882,
+      "y": -92.045739
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 729,
+      "StopName": "'N COLLEGE RD @ MEAUX BLVD'"},    "geometry": {
+      "x": 30.20825,
+      "y": -92.040021
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 182,
+      "StopName": "'JOHNSTON & MEAUX'"},    "geometry": {
+      "x": 30.2069,
+      "y": -92.0391
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 183,
+      "StopName": "'JOHNSTON & BERTRAND'"},    "geometry": {
+      "x": 30.20598,
+      "y": -92.04068
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 184,
+      "StopName": "'JOHNSTON AT CYCLE GEAR'"},    "geometry": {
+      "x": 30.20499,
+      "y": -92.04266
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 185,
+      "StopName": "'JOHNSTON & HOLDEN'"},    "geometry": {
+      "x": 30.20458,
+      "y": -92.04419
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 186,
+      "StopName": "'JOHNSTON AT FUN JUMPS'"},    "geometry": {
+      "x": 30.20376,
+      "y": -92.04775
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 187,
+      "StopName": "'JOHNSTON & TREEHAVEN'"},    "geometry": {
+      "x": 30.20309,
+      "y": -92.0503
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 188,
+      "StopName": "'JOHNSTON & FOREMAN'"},    "geometry": {
+      "x": 30.20235,
+      "y": -92.05228
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 189,
+      "StopName": "'JOHNSTON & MARIE ANTOINETTE'"},    "geometry": {
+      "x": 30.20146,
+      "y": -92.05391
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 190,
+      "StopName": "'JOHNSTON & WESTCHESTER'"},    "geometry": {
+      "x": 30.19922,
+      "y": -92.05565
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 191,
+      "StopName": "'JOHNSTON & MIMOSA'"},    "geometry": {
+      "x": 30.19701,
+      "y": -92.05674
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 192,
+      "StopName": "'JOHNSTON AT AUTOZONE'"},    "geometry": {
+      "x": 30.19496,
+      "y": -92.05781
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 193,
+      "StopName": "'JOHNSTON AT FIESTA VILLAGE'"},    "geometry": {
+      "x": 30.19259,
+      "y": -92.05992
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 194,
+      "StopName": "'JOHNSTON AT OFFICE DEPOT'"},    "geometry": {
+      "x": 30.19019,
+      "y": -92.06232
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 195,
+      "StopName": "'JOHNSTON & LANA'"},    "geometry": {
+      "x": 30.18896,
+      "y": -92.06359
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 196,
+      "StopName": "'JOHNSTON AT RITE-AID'"},    "geometry": {
+      "x": 30.18724,
+      "y": -92.06534
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 197,
+      "StopName": "'JOHNSTON AT DOUG ASHYS'"},    "geometry": {
+      "x": 30.1847,
+      "y": -92.06794
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 198,
+      "StopName": "'JOHNSTON & WESTMARK'"},    "geometry": {
+      "x": 30.18263,
+      "y": -92.07018
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 199,
+      "StopName": "'JOHNSTON AT CENTERPIECE CENTER'"},    "geometry": {
+      "x": 30.180214,
+      "y": -92.072678
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 753,
+      "StopName": "'AMB. CAFFERY @ LAFAYETTE SHOOTERS'"},    "geometry": {
+      "x": 30.176851,
+      "y": -92.073229
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 754,
+      "StopName": "'AMB. CAFFERY @ TSUBAKI'"},    "geometry": {
+      "x": 30.17507,
+      "y": -92.071074
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 755,
+      "StopName": "'AMB. CAFFERY @ UHAUL STORAGE'"},    "geometry": {
+      "x": 30.173218,
+      "y": -92.068831
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 513,
+      "StopName": "'AMB CAFFERY AT CHICK-FIL-A'"},    "geometry": {
+      "x": 30.17013,
+      "y": -92.06507
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 514,
+      "StopName": "'AMB CAFFERY & ENGLEWOOD'"},    "geometry": {
+      "x": 30.1682,
+      "y": -92.06263
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 515,
+      "StopName": "'AMB. CAFFERY & DOVER'"},    "geometry": {
+      "x": 30.16692,
+      "y": -92.06108
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 516,
+      "StopName": "'AMB CAFFERY AT GABRIELS ROW'"},    "geometry": {
+      "x": 30.16461,
+      "y": -92.05829
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 517,
+      "StopName": "'AMB CAFFERY AT KOHLS'"},    "geometry": {
+      "x": 30.1591,
+      "y": -92.0516
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 518,
+      "StopName": "'AMB CAFFERY AT ALBERTSONS'"},    "geometry": {
+      "x": 30.15817,
+      "y": -92.0505
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 519,
+      "StopName": "'AMB. CAFFERY AT WHITNEY BANK'"},    "geometry": {
+      "x": 30.1548,
+      "y": -92.04636
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 520,
+      "StopName": "'FREM BOUSTANY AT LOURDES'"},    "geometry": {
+      "x": 30.15185,
+      "y": -92.03868
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 521,
+      "StopName": "'OUR LADY OF LOURDES HOSPITAL'"},    "geometry": {
+      "x": 30.14951,
+      "y": -92.03794
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 584,
+      "StopName": "'FREM BOUSTANY & FARREL ROAD'"},    "geometry": {
+      "x": 30.14848,
+      "y": -92.04252
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 585,
+      "StopName": "'FARRELL AT WOMEN & CHILDRENS HOSPITAL'"},    "geometry": {
+      "x": 30.15155,
+      "y": -92.04642
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 586,
+      "StopName": "'FARRELL AT SUITES DE MAISON'"},    "geometry": {
+      "x": 30.15332,
+      "y": -92.04854
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 587,
+      "StopName": "'FARRELL & KALISTE SALOOM'"},    "geometry": {
+      "x": 30.15459,
+      "y": -92.05001
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 588,
+      "StopName": "'KALISTE SALOOM & AMBASSADOR CAFFERY'"},    "geometry": {
+      "x": 30.15588,
+      "y": -92.04879
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 522,
+      "StopName": "'KALISTE SALOOM AT SONIC'"},    "geometry": {
+      "x": 30.15756,
+      "y": -92.04715
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 523,
+      "StopName": "'KALISTE SALOOM & REPUBLIC'"},    "geometry": {
+      "x": 30.16123,
+      "y": -92.04352
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 524,
+      "StopName": "'KALISTE SALOOM AT LAFAYETTE GOLF ACADEMY'"},    "geometry": {
+      "x": 30.16262,
+      "y": -92.04218
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 525,
+      "StopName": "'KALISTE SALOOM & E MARTIAL'"},    "geometry": {
+      "x": 30.1644,
+      "y": -92.04028
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 526,
+      "StopName": "'KALISTE SALOOM & QUAIL'"},    "geometry": {
+      "x": 30.16519,
+      "y": -92.03906
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 527,
+      "StopName": "'KALISTE SALOOM AT PLANTATION ELEMENTARY'"},    "geometry": {
+      "x": 30.168918,
+      "y": -92.033736
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 591,
+      "StopName": "'KALISTE SALOOM & STEINER STOP 2'"},    "geometry": {
+      "x": 30.17066,
+      "y": -92.03181
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 529,
+      "StopName": "'KALISTE SALOOM AT FIVE H PLAZA'"},    "geometry": {
+      "x": 30.17177,
+      "y": -92.03073
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 530,
+      "StopName": "'KALISTE SALOOM AT LAFAYETTE SURGICAL'"},    "geometry": {
+      "x": 30.17563,
+      "y": -92.02793
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 531,
+      "StopName": "'KALISTE SALOOM & MIGUEL'"},    "geometry": {
+      "x": 30.17794,
+      "y": -92.02708
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 532,
+      "StopName": "'KALISTE SALOOM & GREENTREE'"},    "geometry": {
+      "x": 30.18108,
+      "y": -92.01909
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 533,
+      "StopName": "'KALISTE SALOOM & E BAYOU'"},    "geometry": {
+      "x": 30.18249,
+      "y": -92.0176
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 730,
+      "StopName": "'KALISTE SALOOM RD @ RUE DE JEAN'"},    "geometry": {
+      "x": 30.191434,
+      "y": -92.011822
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 446,
+      "StopName": "'KALISTE SALOOM & S COLLEGE'"},    "geometry": {
+      "x": 30.19329,
+      "y": -92.00989
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 731,
+      "StopName": "'S COLLEGE RD @ LA RUE FRANCE'"},    "geometry": {
+      "x": 30.19446,
+      "y": -92.010418
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 732,
+      "StopName": "'LA RUE FRANCE @  RUE JEAN LAFITTE'"},    "geometry": {
+      "x": 30.194532,
+      "y": -92.012093
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 733,
+      "StopName": "'LA RUE FRANCE @ W PINHOOK RD'"},    "geometry": {
+      "x": 30.194474,
+      "y": -92.015557
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 537,
+      "StopName": "'PINHOOK AT HILTON'"},    "geometry": {
+      "x": 30.19702,
+      "y": -92.01632
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 538,
+      "StopName": "'PINHOOK & CALCO'"},    "geometry": {
+      "x": 30.19807,
+      "y": -92.016354
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 608,
+      "StopName": "'PINHOOK & S. COLLEGE'"},    "geometry": {
+      "x": 30.20056,
+      "y": -92.01556
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 539,
+      "StopName": "'S COLLEGE & HEYMANN'"},    "geometry": {
+      "x": 30.20184,
+      "y": -92.016731
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 540,
+      "StopName": "'S COLLEGE AT HEYMANN CENTER'"},    "geometry": {
+      "x": 30.201026,
+      "y": -92.020651
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 541,
+      "StopName": "'S COLLEGE & GIRARD PARK'"},    "geometry": {
+      "x": 30.200152,
+      "y": -92.02305
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 542,
+      "StopName": "'S COLLEGE & LASSERE'"},    "geometry": {
+      "x": 30.200162,
+      "y": -92.028054
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 543,
+      "StopName": "'S COLLEGE & HORSESHOE'"},    "geometry": {
+      "x": 30.202784,
+      "y": -92.032341
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 544,
+      "StopName": "'S COLLEGE & DERANEY'"},    "geometry": {
+      "x": 30.204157,
+      "y": -92.034424
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 545,
+      "StopName": "'S COLLEGE & JOHNSTON'"},    "geometry": {
+      "x": 30.20702,
+      "y": -92.03788
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 224,
+      "StopName": "'JOHNSTON & WEDGEWOOD'"},    "geometry": {
+      "x": 30.208193,
+      "y": -92.036514
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 225,
+      "StopName": "'JOHNSTON AT BEAU CHENES APTS'"},    "geometry": {
+      "x": 30.20877,
+      "y": -92.03487
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 226,
+      "StopName": "'JOHNSTON & RONALD'"},    "geometry": {
+      "x": 30.21,
+      "y": -92.03088
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 227,
+      "StopName": "'JOHNSTON & CATHERINE'"},    "geometry": {
+      "x": 30.210494,
+      "y": -92.029036
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 228,
+      "StopName": "'JOHNSTON & E. LEWIS'"},    "geometry": {
+      "x": 30.212125,
+      "y": -92.025473
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 229,
+      "StopName": "'JOHNSTON AT FRENCH HOUSE'"},    "geometry": {
+      "x": 30.21388,
+      "y": -92.02228
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 230,
+      "StopName": "'JOHNSTON & MAXIM DOUCET HALL'"},    "geometry": {
+      "x": 30.21515,
+      "y": -92.02102
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 231,
+      "StopName": "'JOHNSTON AT GIRARD HALL'"},    "geometry": {
+      "x": 30.21638,
+      "y": -92.01983
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 232,
+      "StopName": "'JOHNSTON & GEN. MOUTON - STOP 2'"},    "geometry": {
+      "x": 30.218445,
+      "y": -92.018162
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 233,
+      "StopName": "'JOHNSTON & E. CONVENT'"},    "geometry": {
+      "x": 30.22043,
+      "y": -92.01691
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 234,
+      "StopName": "'JOHNSTON & STEWART - STOP 2'"},    "geometry": {
+      "x": 30.221123,
+      "y": -92.016458
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 235,
+      "StopName": "'JOHNSTON & E. MAIN - STOP 2'"},    "geometry": {
+      "x": 30.221831,
+      "y": -92.016006
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 236,
+      "StopName": "'JOHNSTON & E. VERMILION'"},    "geometry": {
+      "x": 30.222956,
+      "y": -92.015276
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 65,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 1,
+      "StopName": "'ROSA PARKS TRANSPORTATION CENTER'"},    "geometry": {
+      "x": 30.226622,
+      "y": -92.014454
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 41,
+      "StopName": "'LEE & CYPRESS'"},    "geometry": {
+      "x": 30.225761,
+      "y": -92.01486
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 548,
+      "StopName": "'GARFIELD & GORDON'"},    "geometry": {
+      "x": 30.22339,
+      "y": -92.01321
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 549,
+      "StopName": "'GARFIELD & WALTON'"},    "geometry": {
+      "x": 30.22115,
+      "y": -92.0115
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 550,
+      "StopName": "'VERMILLION & TAFT'"},    "geometry": {
+      "x": 30.21907,
+      "y": -92.00978
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 551,
+      "StopName": "'VERMILLION & FORREST'"},    "geometry": {
+      "x": 30.21779,
+      "y": -92.00782
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 552,
+      "StopName": "'VERMILLION & PINHOOK'"},    "geometry": {
+      "x": 30.21659,
+      "y": -92.00602
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 553,
+      "StopName": "'PINHOOK & REFINERY'"},    "geometry": {
+      "x": 30.21552,
+      "y": -92.00666
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 554,
+      "StopName": "'PINHOOK & GEN MOUTON'"},    "geometry": {
+      "x": 30.21258,
+      "y": -92.00861
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 555,
+      "StopName": "'PINHOOK & UNIVERSITY'"},    "geometry": {
+      "x": 30.21121,
+      "y": -92.00946
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 556,
+      "StopName": "'PINHOOK & TULANE'"},    "geometry": {
+      "x": 30.20946,
+      "y": -92.01053
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 557,
+      "StopName": "'PINHOOK & AUBURN'"},    "geometry": {
+      "x": 30.20826,
+      "y": -92.01124
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 558,
+      "StopName": "'PINHOOK & ST. MARY'"},    "geometry": {
+      "x": 30.20714,
+      "y": -92.01183
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 559,
+      "StopName": "'PINHOOK & OIL CENTER DRIVE'"},    "geometry": {
+      "x": 30.20546,
+      "y": -92.01282
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 560,
+      "StopName": "'PINHOOK & TRAVIS'"},    "geometry": {
+      "x": 30.20437,
+      "y": -92.01352
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 561,
+      "StopName": "'PINHOOK & AUDUBON - STOP 2'"},    "geometry": {
+      "x": 30.20314,
+      "y": -92.01418
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 562,
+      "StopName": "'PINHOOK & S COLLEGE'"},    "geometry": {
+      "x": 30.2012,
+      "y": -92.01531
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 441,
+      "StopName": "'PINHOOK & BENDEL'"},    "geometry": {
+      "x": 30.199326,
+      "y": -92.016386
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 442,
+      "StopName": "'PINHOOK & MARJORIE'"},    "geometry": {
+      "x": 30.19783,
+      "y": -92.01659
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 443,
+      "StopName": "'PINHOOK AT HILTON'"},    "geometry": {
+      "x": 30.196192,
+      "y": -92.016466
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 444,
+      "StopName": "'PINHOOK AT ENTERPRISE'"},    "geometry": {
+      "x": 30.19189,
+      "y": -92.01591
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 766,
+      "StopName": "'PINHOOK @ POUPART BAKERY'"},    "geometry": {
+      "x": 30.187929,
+      "y": -92.013447
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 563,
+      "StopName": "'PINHOOK & CORPORATE BOULEVARD'"},    "geometry": {
+      "x": 30.18478,
+      "y": -92.00963
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 744,
+      "StopName": "'CORPORATE @ SOCIAL SECURITY OFFICE'"},    "geometry": {
+      "x": 30.183815,
+      "y": -92.010573
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 564,
+      "StopName": "'PINHOOK & ENERGY PARKWAY'"},    "geometry": {
+      "x": 30.18362,
+      "y": -92.0082
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 565,
+      "StopName": "'PINHOOK & PROUCTION'"},    "geometry": {
+      "x": 30.1812,
+      "y": -92.00524
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 566,
+      "StopName": "'PINHOOK AT WALMART'"},    "geometry": {
+      "x": 30.17969,
+      "y": -92.00389
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 567,
+      "StopName": "'PINHOOK & AMYAR COMEAUX'"},    "geometry": {
+      "x": 30.17797,
+      "y": -92.00306
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 568,
+      "StopName": "'VEROT SCHOOL AT WAL-MART'"},    "geometry": {
+      "x": 30.17679,
+      "y": -92.00451
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 569,
+      "StopName": "'VEROT SCHOOL AT POST OFFICE'"},    "geometry": {
+      "x": 30.17593,
+      "y": -92.00622
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 570,
+      "StopName": "'VEROT SCHOOL AT EARLS GROCERY'"},    "geometry": {
+      "x": 30.17352,
+      "y": -92.0103
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 571,
+      "StopName": "'S BEADLE AT CYPRESS SHADOW APTS.'"},    "geometry": {
+      "x": 30.17614,
+      "y": -92.01758
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 572,
+      "StopName": "'S BEADLE AT BRANDYWINE'"},    "geometry": {
+      "x": 30.17863,
+      "y": -92.0206
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 573,
+      "StopName": "'KALISTE SALOOM AT SIR LIBBON PLAZA'"},    "geometry": {
+      "x": 30.17979,
+      "y": -92.02484
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 574,
+      "StopName": "'KALISTE SALOOM & FAUBOURG'"},    "geometry": {
+      "x": 30.17708,
+      "y": -92.02774
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 575,
+      "StopName": "'KALISTE SALOOM & 1132 KALISTE SALOOM RD'"},    "geometry": {
+      "x": 30.17335,
+      "y": -92.02943
+    }
+  },{
+    "attributes": {
+      "RouteNumber": 70,
+      "StopNumber": 576,
+      "StopName": "'KALISTE SALOOM & CANEBROKE'"},    "geometry": {
+      "x": 30.17213,
