@@ -3,6 +3,8 @@ package fixdabusdata;
 
 import java.util.*;
 import java.io.*;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class FixDaBusData {
 
@@ -13,6 +15,12 @@ public class FixDaBusData {
         String listWBus, listSBus;
         BusRoute[] NightBuses = new BusRoute[348];
         BusRoute[]WeekBuses = new BusRoute[700];
+        File dayBus = new File("dayBuses.json");
+        try {
+            PrintWriter output = new PrintWriter(dayBus);
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(FixDaBusData.class.getName()).log(Level.SEVERE, null, ex);
+        }
         try {
             File WBus = new File("WeekDayBus.txt");
             File SBus = new File("SatBus.txt");
