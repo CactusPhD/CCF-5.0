@@ -5,18 +5,19 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
 <?import javafx.scene.shape.Rectangle?>
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
 <AnchorPane fx:id="anchor" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ccf.superwiki.Liv1Controller">
    <children>
-      <ImageView fitHeight="600.0" fitWidth="800.0" layoutX="268.0" layoutY="171.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <ImageView fitHeight="600.0" layoutX="268.0" layoutY="171.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <image>
-            <Image url="@../../Resources/Rec.JPG" />
+            <Image url="@../../Resources/liv.jpg" />
          </image>
       </ImageView>
-      <Region layoutX="245.0" layoutY="165.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: rgba(255,255,255,0.7);" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
+      <Region layoutX="245.0" layoutY="165.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: rgba(255,255,255,0.85);" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
       <Pane fx:id="back" onMouseClicked="#back" prefHeight="38.0" prefWidth="100.0" style="-fx-background-color: rgba(255,0,0,0.8); -fx-background-radius: 5; -fx-border-color: Black; -fx-border-radius: 4;" AnchorPane.leftAnchor="28.0" AnchorPane.topAnchor="28.0">
          <children>
             <Text layoutX="42.0" layoutY="26.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Back">
@@ -29,5 +30,190 @@
             <Rectangle arcHeight="5.0" arcWidth="5.0" height="3.0" layoutX="4.0" layoutY="12.0" rotate="-45.0" stroke="BLACK" strokeType="INSIDE" width="16.0" />
          </children>
       </Pane>
+      <Text layoutX="300.0" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Weather">
+         <font>
+            <Font name="French Script MT" size="80.0" />
+         </font>
+      </Text>
+      <ImageView fx:id="icon" fitHeight="180.0" fitWidth="280.0" layoutX="51.0" layoutY="120.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="40.0" AnchorPane.topAnchor="120.0" />
+      <Text fx:id="sumText" layoutX="169.0" layoutY="341.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font name="Century Schoolbook" size="24.0" />
+         </font>
+      </Text>
+      <Text fx:id="temp" layoutX="40.0" layoutY="370.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font name="Century Schoolbook" size="24.0" />
+         </font>
+      </Text>
+      <Text fx:id="humid" layoutX="40.0" layoutY="399.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font name="Century Schoolbook" size="24.0" />
+         </font>
+      </Text>
+      <Text fx:id="visible" layoutX="40.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font name="Century Schoolbook" size="24.0" />
+         </font>
+      </Text>
+      <Text fx:id="windsp" layoutX="40.0" layoutY="457.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font name="Century Schoolbook" size="24.0" />
+         </font>
+      </Text>
+      <Text fx:id="ozone" layoutX="40.0" layoutY="486.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font name="Century Schoolbook" size="24.0" />
+         </font>
+      </Text>
+      <VBox fx:id="vb" layoutX="400.0" layoutY="132.0" prefHeight="438.0" prefWidth="370.0" AnchorPane.bottomAnchor="30.0" AnchorPane.rightAnchor="35.0" AnchorPane.topAnchor="132.0">
+         <children>
+            <AnchorPane prefHeight="29.0" prefWidth="370.0">
+               <children>
+                  <Text fx:id="temp1" layoutX="14.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="date1" layoutX="281.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="JUSTIFY" AnchorPane.rightAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="10.0" layoutY="10.0" prefHeight="30.0" prefWidth="370.0">
+               <children>
+                  <Text fx:id="temp2" layoutX="14.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="date2" layoutX="281.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="JUSTIFY" AnchorPane.rightAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="10.0" layoutY="65.0" prefHeight="30.0" prefWidth="370.0">
+               <children>
+                  <Text fx:id="temp3" layoutX="14.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="date3" layoutX="281.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="JUSTIFY" AnchorPane.rightAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="10.0" layoutY="120.0" prefHeight="30.0" prefWidth="370.0">
+               <children>
+                  <Text fx:id="temp4" layoutX="14.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="date4" layoutX="281.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="JUSTIFY" AnchorPane.rightAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="10.0" layoutY="175.0" prefHeight="30.0" prefWidth="370.0">
+               <children>
+                  <Text fx:id="temp5" layoutX="14.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="date5" layoutX="281.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="JUSTIFY" AnchorPane.rightAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="10.0" layoutY="120.0" prefHeight="30.0" prefWidth="370.0">
+               <children>
+                  <Text fx:id="temp6" layoutX="14.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="date6" layoutX="281.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="JUSTIFY" AnchorPane.rightAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="10.0" layoutY="120.0" prefHeight="30.0" prefWidth="370.0">
+               <children>
+                  <Text fx:id="temp7" layoutX="14.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="date7" layoutX="281.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="JUSTIFY" AnchorPane.rightAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="10.0" layoutY="65.0" prefHeight="30.0" prefWidth="370.0">
+               <children>
+                  <Text fx:id="temp8" layoutX="14.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="date8" layoutX="281.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="JUSTIFY" AnchorPane.rightAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="10.0" layoutY="65.0" prefHeight="30.0" prefWidth="370.0">
+               <children>
+                  <Text fx:id="temp9" layoutX="14.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="date9" layoutX="281.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="JUSTIFY" AnchorPane.rightAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="10.0" layoutY="60.0" prefHeight="30.0" prefWidth="370.0">
+               <children>
+                  <Text fx:id="temp10" layoutX="14.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.leftAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="date10" layoutX="281.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="JUSTIFY" AnchorPane.rightAnchor="5.0">
+                     <font>
+                        <Font name="Century Schoolbook" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+         </children>
+      </VBox>
+      <Text layoutX="490.0" layoutY="129.0" strokeType="OUTSIDE" strokeWidth="0.0" text="10 hour forecast">
+         <font>
+            <Font name="Century Schoolbook" size="24.0" />
+         </font>
+      </Text>
    </children>
 </AnchorPane>

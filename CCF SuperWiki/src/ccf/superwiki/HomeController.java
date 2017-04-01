@@ -7,6 +7,8 @@ package ccf.superwiki;
 
 import java.io.IOException;
 import java.net.URL;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.ResourceBundle;
 import javafx.event.ActionEvent;
 import javafx.fxml.Initializable;
@@ -69,7 +71,7 @@ public class HomeController implements Initializable {
 
     @FXML
     private Text recText3;
-    
+
     @FXML
     private Arc livButton3;
 
@@ -87,7 +89,7 @@ public class HomeController implements Initializable {
 
     @FXML
     private Text livText3;
-    
+
     @FXML
     private Arc tranButton1;
 
@@ -105,6 +107,11 @@ public class HomeController implements Initializable {
 
     @FXML
     private Text tranText3;
+    @FXML
+    private Text time;
+
+    @FXML
+    private Text date;
 
     @FXML
     void recMenu(MouseEvent event) {
@@ -209,6 +216,7 @@ public class HomeController implements Initializable {
         stage.setScene(scene);
         stage.show();
     }
+
     @FXML
     void tranMenu(MouseEvent event) {
         recButton.setVisible(tranOn);
@@ -263,7 +271,10 @@ public class HomeController implements Initializable {
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
-
+        SimpleDateFormat dateFormat = new SimpleDateFormat("h:mm a");
+        time.setText(dateFormat.format(new Date()).toString());
+        dateFormat =new SimpleDateFormat("MMMM d, y");
+        date.setText(dateFormat.format(new Date()).toString());
     }
 
 }

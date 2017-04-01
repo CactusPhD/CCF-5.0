@@ -13,7 +13,7 @@
    <children>
       <ImageView fitHeight="600.0" fitWidth="800.0" layoutX="268.0" layoutY="171.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <image>
-            <Image url="@../../Resources/trans.jgp" />
+            <Image url="@../../Resources/trans.jpg" />
          </image>
       </ImageView>
       <Region layoutX="245.0" layoutY="165.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: rgba(255,255,255,0.7);" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />

@@ -93,5 +93,15 @@
             <Font name="Century Schoolbook" size="24.0" />
          </font>
       </Text>
+      <Text fx:id="time" layoutX="37.0" layoutY="557.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.bottomAnchor="40.0" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font name="Century Gothic" size="24.0" />
+         </font>
+      </Text>
+      <Text fx:id="date" layoutX="50.0" layoutY="564.0" strokeType="OUTSIDE" strokeWidth="0.0" AnchorPane.bottomAnchor="40.0" AnchorPane.rightAnchor="40.0">
+         <font>
+            <Font name="Century Gothic" size="24.0" />
+         </font>
+      </Text>
    </children>
 </AnchorPane>
