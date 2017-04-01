@@ -1,7 +1,7 @@
 {
 	"type": "FeatureCollection",
 	"features": [{
-		"properties": {
+		"attributes": {
 			"NAME": "WHITFIELD HOUSE",
 			"ADDRESS": "305 FAILLA RD",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -13,7 +13,7 @@
 			"y": 30.151528474605886
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "POCHÉ BUILDING",
 			"ADDRESS": "203 W VERMILION ST",
 			"ARCH_TYPE": "COMMERCIAL VERNACULAR",
@@ -25,7 +25,7 @@
 			"y": 30.223882567314305
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "GRÖHEIM",
 			"ADDRESS": "204 VERSAILLES BLVD",
 			"ARCH_TYPE": "NORMANDY REVIVAL",
@@ -38,7 +38,7 @@
 			"y": 30.225000469797891
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "POLLINGUE-BROWN-TOWN HOUSE",
 			"ADDRESS": "323 E UNIVERSITY AVE",
 			"ARCH_TYPE": "ECLECTIC",
@@ -50,7 +50,7 @@
 			"y": 30.215911434878258
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "HAMILTON HOUSE",
 			"ADDRESS": "100 HAMILTON PL",
 			"ARCH_TYPE": "AMERICAN BUNGALOW",
@@ -62,7 +62,7 @@
 			"y": 30.220683847536076
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "WHITTINGTON-GUENIERE HOUSE",
 			"ADDRESS": "2250 JOHNSTON ST",
 			"ARCH_TYPE": "COLONIAL REVIVAL",
@@ -74,7 +74,7 @@
 			"y": 30.210346987680797
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "FREDRICK TOLSON HOUSE",
 			"ADDRESS": "840 BOURQUE RD",
 			"ARCH_TYPE": "COLONIAL REVIVAL",
@@ -86,7 +86,7 @@
 			"y": 30.13816756504912
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "HANLEY-GUENO HOUSE",
 			"ADDRESS": "406 N STERLING ST",
 			"ARCH_TYPE": "AMERICAN FOURSQUARE",
@@ -98,7 +98,7 @@
 			"y": 30.232807907531651
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "ELOI GIRARD HOUSE",
 			"ADDRESS": "500 E UNIVERSITY AVE",
 			"ARCH_TYPE": "ENGLISH TUDOR REVIVAL",
@@ -110,7 +110,7 @@
 			"y": 30.213829585458743
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "BARRIOS HOUSE",
 			"ADDRESS": "411 N STERLING ST",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -122,7 +122,7 @@
 			"y": 30.233187490215808
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "SAINT MARY'S ORPHANAGE",
 			"ADDRESS": "605 W SAINT MARY BLVD",
 			"ARCH_TYPE": "SPANISH REVIVAL",
@@ -134,7 +134,7 @@
 			"y": 30.217333015003323
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "NP MOSS SCHOOL",
 			"ADDRESS": "801 MUDD AVE",
 			"ARCH_TYPE": "JACOBEAN REVIVAL",
@@ -146,7 +146,7 @@
 			"y": 30.232919938145066
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "MARTIN HOUSE",
 			"ADDRESS": "112 DUNREATH ST",
 			"ARCH_TYPE": "MODIFIED QUEEN ANNE REVIVAL",
@@ -158,7 +158,7 @@
 			"y": 30.219337714309454
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "WALTER FRANKLIN MILLS HOUSE",
 			"ADDRESS": "312 S PIERCE ST",
 			"ARCH_TYPE": "AMERICAN FOURSQUARE",
@@ -170,7 +170,7 @@
 			"y": 30.23151846295724
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "JEANMARD HOUSE",
 			"ADDRESS": "306 S PIERCE ST",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -182,7 +182,7 @@
 			"y": 30.231781941680516
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "LO CLARK HOUSE",
 			"ADDRESS": "112 CLARK CT",
 			"ARCH_TYPE": "ECLECTIC REVIVALISM",
@@ -194,7 +194,7 @@
 			"y": 30.212935447405059
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "1304 SAINT JOHN STREET HOUSE",
 			"ADDRESS": "1304 SAINT JOHN ST",
 			"ARCH_TYPE": "AMERICAN BUNGALOW",
@@ -206,7 +206,7 @@
 			"y": 30.219179424998249
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "CROW GIRARD HOUSE",
 			"ADDRESS": "217 W UNIVERSITY AVE",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -218,7 +218,7 @@
 			"y": 30.218100670354431
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "CYPRESS HOUSE",
 			"ADDRESS": "203 MYRTLE PL",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -230,7 +230,7 @@
 			"y": 30.220862555097217
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "MOST HOLY SACRAMENT CONVENT",
 			"ADDRESS": "409 W SAINT MARY BLVD",
 			"ARCH_TYPE": "SPANISH REVIVAL",
@@ -242,7 +242,7 @@
 			"y": 30.21633021298145
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "CAFFERY HOUSE",
 			"ADDRESS": "233 GARFIELD ST",
 			"ARCH_TYPE": "FRENCH COLONIAL",
@@ -254,7 +254,7 @@
 			"y": 30.22578794977845
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "KOURY LAW OFFICE",
 			"ADDRESS": "120 E THIRD ST",
 			"ARCH_TYPE": "EASTLAKE",
@@ -266,7 +266,7 @@
 			"y": 30.228921490550647
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "CLAYTON MARTIN HOUSE",
 			"ADDRESS": "416 W MAIN ST",
 			"ARCH_TYPE": "EASTLAKE",
@@ -278,7 +278,7 @@
 			"y": 30.223157761616175
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "SAUCIER-BARES HOUSE",
 			"ADDRESS": "205 W UNIVERSITY AVE",
 			"ARCH_TYPE": "AMERICAN FOURSQUARE",
@@ -290,7 +290,7 @@
 			"y": 30.217811888995939
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "SOULIER HOUSE",
 			"ADDRESS": "1220 JOHNSTON ST",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -302,7 +302,7 @@
 			"y": 30.216936760576466
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "LEVY-LEBLANC HOUSE",
 			"ADDRESS": "111 MICHAEL ALLEN BLVD",
 			"ARCH_TYPE": "FOLK VICTORIAN",
@@ -314,7 +314,7 @@
 			"y": 30.221021711553472
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "LOUIS BAZIN HOUSE",
 			"ADDRESS": "210 N MAGNOLIA ST",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -326,7 +326,7 @@
 			"y": 30.230446004787986
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "J ARTHUR ROY HOUSE",
 			"ADDRESS": "1204 JOHNSTON ST",
 			"ARCH_TYPE": "EASTLAKE",
@@ -338,7 +338,7 @@
 			"y": 30.217358661819016
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "DR JD TRAHAN HOUSE",
 			"ADDRESS": "814 S WASHINGTON ST",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -350,7 +350,7 @@
 			"y": 30.225545138785222
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "ONEZIPHORE COMEAUX HOUSE",
 			"ADDRESS": "1905 VEROT SCHOOL RD",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -362,7 +362,7 @@
 			"y": 30.160091411614903
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "MOSS BUILDING",
 			"ADDRESS": "557 JEFFERSON ST",
 			"ARCH_TYPE": "ITALIANATE",
@@ -374,7 +374,7 @@
 			"y": 30.224230083680474
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "GREENHOUSE SENIOR CENTER",
 			"ADDRESS": "110 NE EVANGELINE THWY",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -386,7 +386,7 @@
 			"y": 30.229852140176575
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "CAILLOUET HOUSE",
 			"ADDRESS": "120 CAILLOUET PL",
 			"ARCH_TYPE": "FRENCH COLONIAL",
@@ -399,7 +399,7 @@
 			"y": 30.220158552070966
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "DAUTERIVE HOUSE",
 			"ADDRESS": "117 CAILLOUET PL",
 			"ARCH_TYPE": "AMERICAN FOURSQUARE",
@@ -411,7 +411,7 @@
 			"y": 30.220153264640754
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "CHARGOIS HOUSE",
 			"ADDRESS": "309 POLK ST",
 			"ARCH_TYPE": "MODIFIED COLONIAL REVIVAL",
@@ -423,7 +423,7 @@
 			"y": 30.223660977663066
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "YANDLE HOUSE",
 			"ADDRESS": "200 CHERRY ST",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -435,7 +435,7 @@
 			"y": 30.21801017918526
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "GOOD HOPE HALL",
 			"ADDRESS": "300 STEWART ST",
 			"ARCH_TYPE": "MODIFIED COLONIAL REVIVAL",
@@ -447,7 +447,7 @@
 			"y": 30.219879316579934
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "CAFÉ VERMILIONVILLE",
 			"ADDRESS": "1304 W PINHOOK RD",
 			"ARCH_TYPE": "FRENCH COLONIAL",
@@ -459,7 +459,7 @@
 			"y": 30.200559603098782
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "CHARLES MOUTON PLANTATION HOUSE",
 			"ADDRESS": "338 N STERLING ST",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -471,7 +471,7 @@
 			"y": 30.232219780359102
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "LAFAYETTE MIDDLE SCHOOL",
 			"ADDRESS": "1301 W UNIVERSITY AVE",
 			"ARCH_TYPE": "COLLEGIATE GOTHIC",
@@ -483,7 +483,7 @@
 			"y": 30.224559962987421
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "LAFAYETTE HARDWARE STORE",
 			"ADDRESS": "121 W VERMILION ST",
 			"ARCH_TYPE": "ITALIANATE",
@@ -495,7 +495,7 @@
 			"y": 30.223873307968592
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "SAINT JOHN RECTORY",
 			"ADDRESS": "914 SAINT JOHN ST",
 			"ARCH_TYPE": "SPANISH REVIVAL",
@@ -507,7 +507,7 @@
 			"y": 30.222407007600435
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "SAINT JOHN CATHEDRAL & PROPERTY",
 			"ADDRESS": "914 SAINT JOHN ST",
 			"ARCH_TYPE": "DUTCH ROMANESQUE REVIVAL",
@@ -519,7 +519,7 @@
 			"y": 30.222905748733805
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "JEAN BATISTE MOUTON HOUSE",
 			"ADDRESS": "310 SIDNEY MARTIN RD",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -532,7 +532,7 @@
 			"y": 30.278356103643521
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "ALEXANDRE LATIOLAIS HOUSE",
 			"ADDRESS": "900 E BUTCHER SWITCH RD",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -544,7 +544,7 @@
 			"y": 30.286052914046778
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "FIRST UNITED METHODIST CHURCH",
 			"ADDRESS": "703 LEE AVE",
 			"ARCH_TYPE": "NEO-CLASSICAL",
@@ -556,7 +556,7 @@
 			"y": 30.222555173929354
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "OLD CITY HALL",
 			"ADDRESS": "217 W MAIN ST",
 			"ARCH_TYPE": "ITALIANATE",
@@ -568,7 +568,7 @@
 			"y": 30.222481829043133
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "OLD GUARANTY BANK",
 			"ADDRESS": "500 JEFFERSON ST",
 			"ARCH_TYPE": "NEO-CLASSICAL",
@@ -580,7 +580,7 @@
 			"y": 30.225712459903054
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "ALEXANDRE MOUTON HOUSE",
 			"ADDRESS": "1122 LAFAYETTE ST",
 			"ARCH_TYPE": "FRENCH COLONIAL",
@@ -592,7 +592,7 @@
 			"y": 30.220887145901958
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "HOPE LODGE #145",
 			"ADDRESS": "116 E VERMILION ST",
 			"ARCH_TYPE": "GOTHIC REVIVAL",
@@ -604,7 +604,7 @@
 			"y": 30.223867368745726
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "SHADY BROOK HOUSE",
 			"ADDRESS": "127 CHERRY ST",
 			"ARCH_TYPE": "COLONIAL REVIVAL",
@@ -616,7 +616,7 @@
 			"y": 30.218100473948137
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "LA MAISON ACADIENNE FRANÇAISE",
 			"ADDRESS": "1511 JOHNSTON ST",
 			"ARCH_TYPE": "COLONIAL REVIVAL",
@@ -628,7 +628,7 @@
 			"y": 30.213916441125452
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "HOHORST HOUSE",
 			"ADDRESS": "112 AZALEA ST",
 			"ARCH_TYPE": "AMERICAN FOURSQUARE",
@@ -640,7 +640,7 @@
 			"y": 30.221103408175868
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "WILLIAM BRANDT HOUSE",
 			"ADDRESS": "614 MADISON ST",
 			"ARCH_TYPE": "GREEK REVIVAL",
@@ -652,7 +652,7 @@
 			"y": 30.227577025741745
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "LAFAYETTE TRAIN DEPOT",
 			"ADDRESS": "100 LEE AVE",
 			"ARCH_TYPE": "EARLY 20TH CENTURY MOVEMENT",
@@ -664,7 +664,7 @@
 			"y": 30.226639786045777
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "MAURICE HEYMANN BUILDING",
 			"ADDRESS": "433 JEFFERSON ST",
 			"ARCH_TYPE": "ITALIAN RENAISSANCE REVIVAL",
@@ -676,7 +676,7 @@
 			"y": 30.225729901161014
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "SANS SOUCI",
 			"ADDRESS": "219 E VERMILION ST",
 			"ARCH_TYPE": "COMMERCIAL VERNACULAR",
@@ -688,7 +688,7 @@
 			"y": 30.224260602618923
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "CIRCA 1900 HOUSE",
 			"ADDRESS": "1300 DUGAS RD",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -700,7 +700,7 @@
 			"y": 30.283610601188641
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "DENBO-MONTGOMERY HOUSE",
 			"ADDRESS": "106 VERLANDER CIR",
 			"ARCH_TYPE": "AMERICAN BUNGALOW",
@@ -712,7 +712,7 @@
 			"y": 30.20470406318837
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "LOUIS ARCENEAUX HOUSE",
 			"ADDRESS": "300 FISHER RD",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -724,7 +724,7 @@
 			"y": 30.215098681984117
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "ARMAND BROUSSARD HOUSE",
 			"ADDRESS": "300 FISHER RD",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -736,7 +736,7 @@
 			"y": 30.216121240208818
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "JOSEPH BULLER HOUSE",
 			"ADDRESS": "300 FISHER RD",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -749,7 +749,7 @@
 			"y": 30.215082397343092
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "JOSEPH FIRNBERG HOUSE",
 			"ADDRESS": "300 FISHER RD",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -761,7 +761,7 @@
 			"y": 30.215680595799284
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "LAGRANGE FAMILY HOUSE",
 			"ADDRESS": "300 FISHER RD",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -773,7 +773,7 @@
 			"y": 30.215427102995658
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "JUDICE INN",
 			"ADDRESS": "3134 JOHNSTON ST",
 			"ARCH_TYPE": "COMMERCIAL VERNACULAR",
@@ -785,7 +785,7 @@
 			"y": 30.20400866867217
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "OSCAR DAIGLE HOUSE",
 			"ADDRESS": "512 W CONVENT ST",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -797,7 +797,7 @@
 			"y": 30.221931939433553
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "COURET HOUSE",
 			"ADDRESS": "2763 NW EVANGELINE THWY",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -809,7 +809,7 @@
 			"y": 30.268661768596584
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "PRUDHOMME-BEGNAUD HOUSE",
 			"ADDRESS": "708 JEFFERSON BLVD",
 			"ARCH_TYPE": "COLONIAL REVIVAL",
@@ -821,7 +821,7 @@
 			"y": 30.229911189972146
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "DR JOHN & EDITH MILES HOUSE",
 			"ADDRESS": "614 CALDER ST",
 			"ARCH_TYPE": "COLONIAL REVIVAL",
@@ -833,7 +833,7 @@
 			"y": 30.218560708510637
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "CARVER HOUSE",
 			"ADDRESS": "114 FLORIDA CT",
 			"ARCH_TYPE": "ENGLISH COTTAGE REVIVAL",
@@ -845,7 +845,7 @@
 			"y": 30.212086904607492
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "CUNNINGHAM HOUSE",
 			"ADDRESS": "120 CLARK CT",
 			"ARCH_TYPE": "ECLECTIC REVIVALISM",
@@ -857,7 +857,7 @@
 			"y": 30.212715212609808
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "LAFAYETTE'S SECOND CITY HALL",
 			"ADDRESS": "735 JEFFERSON ST",
 			"ARCH_TYPE": "ART DECO",
@@ -869,7 +869,7 @@
 			"y": 30.221838999778839
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "GRADO BUILDING",
 			"ADDRESS": "631 JEFFERSON ST",
 			"ARCH_TYPE": "COMMERCIAL VERNACULAR",
@@ -881,7 +881,7 @@
 			"y": 30.223157881500544
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "EMELIE JUDICE MOUTON HOUSE",
 			"ADDRESS": "215 VERSAILLES BLVD",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -893,7 +893,7 @@
 			"y": 30.224426094692081
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "CIRCA 1901 HOUSE",
 			"ADDRESS": "523 SAINT JULIEN AVE",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -905,7 +905,7 @@
 			"y": 30.2153118057055
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "HEYMANN FOOD CENTER",
 			"ADDRESS": "201 E CONGRESS ST",
 			"ARCH_TYPE": "ART DECO",
@@ -917,7 +917,7 @@
 			"y": 30.225154412760517
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "SOUTHERN BELL TELEPHONE & TELEGRAPH EXCHANGE",
 			"ADDRESS": "100 CENTRAL ST",
 			"ARCH_TYPE": "COMMERCIAL",
@@ -929,7 +929,7 @@
 			"y": 30.225463578160856
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "FOURNET HOUSE",
 			"ADDRESS": "111 DUNREATH ST",
 			"ARCH_TYPE": "ECLECTIC",
@@ -941,7 +941,7 @@
 			"y": 30.219123790873269
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "NICKERSON-CHAPPUIS HOUSE",
 			"ADDRESS": "631 E SIMCOE ST",
 			"ARCH_TYPE": "AMERICAN BUNGALOW",
@@ -953,7 +953,7 @@
 			"y": 30.231019147324218
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "COLOMB-CHAUVIN HOUSE",
 			"ADDRESS": "424 E VERMILION ST",
 			"ARCH_TYPE": "AMERICAN BUNGALOW",
@@ -965,7 +965,7 @@
 			"y": 30.223304649737941
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "MOSS HOUSE",
 			"ADDRESS": "212 SAINT CHARLES ST",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -977,7 +977,7 @@
 			"y": 30.228325016724291
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "TRIBUNE BUILDING",
 			"ADDRESS": "212 E VERMILION ST",
 			"ARCH_TYPE": "ECLECTIC",
@@ -989,7 +989,7 @@
 			"y": 30.223932278804057
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "GARFIELD HOUSE",
 			"ADDRESS": "402 GARFIELD ST",
 			"ARCH_TYPE": "AMERICAN FOURSQUARE",
@@ -1001,7 +1001,7 @@
 			"y": 30.22506331619773
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "SAINT ANNE'S INFIRMARY",
 			"ADDRESS": "1317 JEFFERSON ST",
 			"ARCH_TYPE": "ECLECTIC",
@@ -1013,7 +1013,7 @@
 			"y": 30.218985913283944
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "GIVENS TOWNHOUSE",
 			"ADDRESS": "324 N STERLING ST",
 			"ARCH_TYPE": "EASTLAKE",
@@ -1025,7 +1025,7 @@
 			"y": 30.231728226256603
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "DR LOUIS B LONG HOUSE",
 			"ADDRESS": "115 FLORIDA CT",
 			"ARCH_TYPE": "ENGLISH TUDOR REVIVAL",
@@ -1037,7 +1037,7 @@
 			"y": 30.21181466454745
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "KELLER'S BAKERY",
 			"ADDRESS": "1012 JEFFERSON ST",
 			"ARCH_TYPE": "MODERN",
@@ -1049,7 +1049,7 @@
 			"y": 30.220225364910956
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "FRANK JEANMARD HOUSE",
 			"ADDRESS": "202 DUNREATH ST",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -1061,7 +1061,7 @@
 			"y": 30.218614763425315
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "JOHN MONTGOMERY HOUSE",
 			"ADDRESS": "120 DUNREATH ST",
 			"ARCH_TYPE": "AMERICAN BUNGALOW",
@@ -1073,7 +1073,7 @@
 			"y": 30.219151735830909
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "MCFADDIN HOUSE",
 			"ADDRESS": "351 ELIZABETH AVE",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -1085,7 +1085,7 @@
 			"y": 30.234710942553562
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "JOHN NICKERSON HOUSE",
 			"ADDRESS": "310 N STERLING ST",
 			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
@@ -1097,7 +1097,7 @@
 			"y": 30.231199940238223
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "DR THOMAS B HOPKINS HOUSE",
 			"ADDRESS": "317 S PIERCE ST",
 			"ARCH_TYPE": "FRENCH COLONIAL",
@@ -1109,7 +1109,7 @@
 			"y": 30.231470562934994
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "JUDICE MIDDLE SCHOOL",
 			"ADDRESS": "2645 S FIELDSPAN RD",
 			"ARCH_TYPE": "JACOBEAN REVIVAL",
@@ -1121,7 +1121,7 @@
 			"y": 30.167348865230224
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "MAISON ACADIENNE",
 			"ADDRESS": "300 FISHER RD",
 			"ARCH_TYPE": "FRENCH CREOLE",
@@ -1133,7 +1133,7 @@
 			"y": 30.215523283379749
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "MAISON REVILLON",
 			"ADDRESS": "1012 S WASHINGTON ST",
 			"ARCH_TYPE": "GREEK REVIVAL",
@@ -1145,7 +1145,7 @@
 			"y": 30.222362736688012
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "EVANGELINE HOTEL",
 			"ADDRESS": "302 JEFFERSON ST",
 			"ARCH_TYPE": "ITALIAN RENAISSANCE REVIVAL",
@@ -1157,7 +1157,7 @@
 			"y": 30.227163341041564
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "MAURICE POLLINGUE HOUSE",
 			"ADDRESS": "126 DUNREATH ST",
 			"ARCH_TYPE": "AMERICAN BUNGALOW",
@@ -1169,7 +1169,7 @@
 			"y": 30.219010611169324
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "GEORGE BERNARD HOUSE",
 			"ADDRESS": "221 DUNREATH ST",
 			"ARCH_TYPE": "AMERICAN BUNGALOW",
@@ -1181,7 +1181,7 @@
 			"y": 30.217845354547109
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "LOUISE & MILDRED MANN HOUSE",
 			"ADDRESS": "314 DUNREATH ST",
 			"ARCH_TYPE": "ENGLISH COTTAGE REVIVAL",
@@ -1193,7 +1193,7 @@
 			"y": 30.217372206663644
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "SAINT PAUL CONVENT",
 			"ADDRESS": "518 HOPKINS ST",
 			"ARCH_TYPE": "AMERICAN FOURSQUARE",
@@ -1205,7 +1205,7 @@
 			"y": 30.233410217792382
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "GOOD HOPE CHAPEL",
 			"ADDRESS": "301 E CONVENT ST",
 			"ARCH_TYPE": "GOTHIC REVIVAL",
@@ -1217,7 +1217,7 @@
 			"y": 30.219678137795725
 		}
 	}, {
-		"properties": {
+		"attributes": {
 			"NAME": "LAFAYETTE WHOLESALE GROCERY WAREHOUSE",
 			"ADDRESS": "333 MONROE ST",
 			"ARCH_TYPE": "COMMERCIAL VERNACULAR",

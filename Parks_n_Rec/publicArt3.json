@@ -1,7 +1,7 @@
 {
 	"type":	"FeatureCollection",
   "features": [{
-    "properties": {
+    "attributes": {
       "Venue": "9/11 Memorial",
       "Street_Add": "201 E. Vermilion Street",
       "Type": "Sculpture",
@@ -13,7 +13,7 @@
       "y": 30.224517999999993
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Downtown Reawakening",
       "Street_Add": "121 E. Vermilion Street",
       "Type": "Mural",
@@ -25,7 +25,7 @@
       "y": 30.224281999999988
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Dwyer's Café",
       "Street_Add": "323 Jefferson Street",
       "Type": "Mural",
@@ -37,7 +37,7 @@
       "y": 30.226550400000004
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Ex-Garage",
       "Street_Add": "556 Jefferson Street",
       "Type": "Mural",
@@ -49,7 +49,7 @@
       "y": 30.224297799999992
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Firefighter Statue",
       "Street_Add": "300 E. Vermilion Street",
       "Type": "Statue",
@@ -61,7 +61,7 @@
       "y": 30.223883999999991
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Horizon",
       "Street_Add": "200 W. Vermilion Street",
       "Type": "Mural",
@@ -73,7 +73,7 @@
       "y": 30.224241999999983
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Inflourescence Blooming Flower",
       "Street_Add": "556 Jefferson Street",
       "Type": "Sculpture",
@@ -85,7 +85,7 @@
       "y": 30.224297799999992
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Marquis de La Fayette",
       "Street_Add": "705 W. University",
       "Type": "Statue",
@@ -97,7 +97,7 @@
       "y": 30.220573999999996
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Premier, Dernier et Toujours",
       "Street_Add": "700 Block of Jefferson Street",
       "Type": "Mural",
@@ -109,7 +109,7 @@
       "y": 30.222069600000005
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Rosa Parks Statue",
       "Street_Add": "100 Lee Ave",
       "Type": "Statue",
@@ -121,7 +121,7 @@
       "y": 30.226715999999993
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Saint Philomena: Patron Saint of Skateboarders",
       "Street_Add": "311 Jefferson Street",
       "Type": "Mural",
@@ -133,7 +133,7 @@
       "y": 30.226483999999992
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Stereo Prairie",
       "Street_Add": "201 E. Congress Street",
       "Type": "Mural",
@@ -145,7 +145,7 @@
       "y": 30.225137099999994
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Thalassa",
       "Street_Add": "113 Clinton Street",
       "Type": "Mural",
@@ -157,7 +157,7 @@
       "y": 30.224521899999985
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Til All That's Left is a Postcard",
       "Street_Add": "407 Jefferson Street",
       "Type": "Mural",
@@ -169,7 +169,7 @@
       "y": 30.226314000000006
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Twisted Loop",
       "Street_Add": "300 Block of W. Congress St.",
       "Type": "Sculpture",
@@ -181,7 +181,7 @@
       "y": 30.226313899999997
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Urns of Justice",
       "Street_Add": "800 Lafayette Street",
       "Type": "Sculpture",
@@ -193,7 +193,7 @@
       "y": 30.224710799999997
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "ArtWalk Wayfinding Street Art",
       "Street_Add": "200 W Congress Street",
       "Type": "Street art",
@@ -205,7 +205,7 @@
       "y": 30.226242000000003
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Azalea Bench",
       "Street_Add": "605 Jefferson Street",
       "Type": "Bench",
@@ -217,7 +217,7 @@
       "y": 30.223497999999992
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Bicycle Sculptures",
       "Street_Add": "201 E Vermilion Street",
       "Type": "Sculpture",
@@ -229,7 +229,7 @@
       "y": 30.22408299999999
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Cross Your Heart Walk Crosswalk",
       "Street_Add": "735 Jefferson Street",
       "Type": "Street art",
@@ -241,7 +241,7 @@
       "y": 30.221769999999978
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Dinosaur Pole Sculptures at the Lafayette Science Museum",
       "Street_Add": "433 Jefferson Street",
       "Type": "Sculpture",
@@ -253,7 +253,7 @@
       "y": 30.225614999999991
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Downtown Gateway at Cypress and Jefferson",
       "Street_Add": "200 Jefferson Street",
       "Type": "Sculpture",
@@ -265,7 +265,7 @@
       "y": 30.227346999999995
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Downtown Street Banners",
       "Street_Add": "557 Jefferson Street",
       "Type": "Sculpture",
@@ -277,7 +277,7 @@
       "y": 30.224343
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Fields of Study at the Lafayette Science Museum",
       "Street_Add": "433 Jefferson Street",
       "Type": "Mural",
@@ -289,7 +289,7 @@
       "y": 30.22543799999999
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Freetown-Port Rico Neighborhood Plaques",
       "Street_Add": "625 Garfield Street",
       "Type": "Ceramic",
@@ -301,7 +301,7 @@
       "y": 30.223176999999996
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Gateway Plaza Banners",
       "Street_Add": "735 Jefferson Street",
       "Type": "Sculpture",
@@ -313,7 +313,7 @@
       "y": 30.221316
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Giant Scrabble Game",
       "Street_Add": "800 Lafayette Street",
       "Type": "Interactive Art",
@@ -325,7 +325,7 @@
       "y": 30.224704999999993
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Iris",
       "Street_Add": "500 Jefferson Street",
       "Type": "Mural",
@@ -337,7 +337,7 @@
       "y": 30.225418
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Lafayette Louisiana Moss Art",
       "Street_Add": "715 Jefferson Street",
       "Type": "Plant Art",
@@ -349,7 +349,7 @@
       "y": 30.222278999999993
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "L-A-F-A-Y-E-T-T-E Sign",
       "Street_Add": "201 E Vermilion Street",
       "Type": "Interactive Art",
@@ -361,7 +361,7 @@
       "y": 30.224480999999997
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Little Cajun Band Sculpture",
       "Street_Add": "101 W Vermilion Street",
       "Type": "Sculpture",
@@ -373,7 +373,7 @@
       "y": 30.224032999999995
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "McComb-Veazey Neighborhood Living Legends Wall",
       "Street_Add": "713 LA 728-8",
       "Type": "Mural",
@@ -385,7 +385,7 @@
       "y": 30.22692099999999
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "North End Street Pole Flowers",
       "Street_Add": "323 Jefferson Street",
       "Type": "Sculpture",
@@ -397,7 +397,7 @@
       "y": 30.226537999999991
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Painted Benches at Parc Putnam",
       "Street_Add": "800 Lafayette Street",
       "Type": "Bench",
@@ -409,7 +409,7 @@
       "y": 30.224835
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Painted Benches at Parc Sans Souci",
       "Street_Add": "201 E Vermilion Street",
       "Type": "Bench",
@@ -421,7 +421,7 @@
       "y": 30.224083999999994
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Painted Bike Racks",
       "Street_Add": "201 E Vermilion Street",
       "Type": "Bike rack",
@@ -433,7 +433,7 @@
       "y": 30.224125000000004
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "South End Street Pole Flowers",
       "Street_Add": "812 Jefferson Street",
       "Type": "Sculpture",
@@ -445,7 +445,7 @@
       "y": 30.221718000000003
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Souvenir Heights Neighborhood Mural",
       "Street_Add": "100 Cedar Crest Court",
       "Type": "Mural",
@@ -457,7 +457,7 @@
       "y": 30.225570999999995
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Speak French Vocabulary Bubbles",
       "Street_Add": "201 E Vermilion Street",
       "Type": "Street art",
@@ -469,7 +469,7 @@
       "y": 30.224086999999994
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Stained Glass Greeting at Rosa Parks Transportation Center",
       "Street_Add": "101 Jefferson Street",
       "Type": "Stained Glass",
@@ -481,7 +481,7 @@
       "y": 30.226287999999993
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Swing Sculptures",
       "Street_Add": "201 E Vermilion Street",
       "Type": "Sculpture",
@@ -493,7 +493,7 @@
       "y": 30.224105999999992
     }
   }, {
-    "properties": {
+    "attributes": {
       "Venue": "Downtown Parclet",
       "Street_Add": "735 Jefferson Street",
       "Type": "Interactive Art",
