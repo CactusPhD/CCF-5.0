@@ -5,6 +5,7 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Arc?>
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
@@ -13,9 +14,10 @@
    <children>
       <ImageView fitHeight="600.0" fitWidth="800.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
          <image>
+            <Image url="@../../Resources/Lafayette.jpg" />
          </image>
       </ImageView>
-      <Pane layoutX="300.0" layoutY="200.0" opacity="0.7" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: White;" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0">
+      <Pane layoutX="26.0" layoutY="20.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: rgba(255,255,255,0.7);" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0">
          <opaqueInsets>
             <Insets />
          </opaqueInsets>
@@ -23,6 +25,24 @@
             <Text layoutX="277.0" layoutY="81.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-size: 80px;" text="Welcome" textAlignment="CENTER">
                <font>
                   <Font name="French Script MT" size="12.0" />
+               </font>
+            </Text>
+            <Arc fx:id="recButton" fill="RED" layoutX="380.0" layoutY="306.0" length="120.0" onMouseClicked="#recMenu" opacity="0.8" radiusX="150.0" radiusY="150.0" startAngle="30.0" stroke="BLACK" strokeType="INSIDE" type="ROUND" />
+            <Arc fx:id="livButton" fill="RED" layoutX="374.0" layoutY="318.0" length="120.0" opacity="0.8" radiusX="150.0" radiusY="150.0" startAngle="150.0" stroke="BLACK" strokeType="INSIDE" type="ROUND" />
+            <Arc fx:id="tranButton" fill="RED" layoutX="386.0" layoutY="318.0" length="120.0" opacity="0.8" radiusX="150.0" radiusY="150.0" startAngle="270.0" stroke="BLACK" strokeType="INSIDE" style="visibility: true;" type="ROUND" />
+            <Text fx:id="recText" layoutX="312.0" layoutY="235.0" onMouseClicked="#recMenu" strokeType="OUTSIDE" strokeWidth="0.0" text="Recreation">
+               <font>
+                  <Font name="Baskerville Old Face" size="32.0" />
+               </font>
+            </Text>
+            <Text fx:id="livText" layoutX="251.0" layoutY="368.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Living">
+               <font>
+                  <Font name="Century Schoolbook" size="32.0" />
+               </font>
+            </Text>
+            <Text fx:id="tranText" layoutX="406.0" layoutY="368.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Transit">
+               <font>
+                  <Font name="Century Schoolbook" size="32.0" />
                </font>
             </Text>
          </children>
