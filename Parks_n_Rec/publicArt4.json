@@ -1,0 +1,466 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "attributes": {
+      "FID": 1,
+      "Venue": "9/11 Memorial",
+      "Street_Add": "201 E. Vermilion Street",
+      "Type": "Sculpture",
+      "Descriptio": "Salvaged from the World Trade Center in New York City after the attacks in 2001.",
+      "Image": "http://www.downtownlafayette.org/arts/11memorial.jpeg",
+      "Latitude": 30.224518,
+      "Longitude": -92.017437
+    }
+  }, {
+    "attributes": {
+      "FID": 2,
+      "Venue": "Downtown Reawakening",
+      "Street_Add": "121 E. Vermilion Street",
+      "Type": "Mural",
+      "Descriptio": "Mural painted in 1984 by artist Tanya Falgout.",
+      "Image": "http://www.downtownlafayette.org/arts/downtownreawakening.jpeg",
+      "Latitude": 30.224282,
+      "Longitude": -92.0188165
+    }
+  }, {
+    "attributes": {
+      "FID": 3,
+      "Venue": "Dwyer's Café",
+      "Street_Add": "323 Jefferson Street",
+      "Type": "Mural",
+      "Descriptio": "Mural painted by artist Robert Dafford.",
+      "Image": "http://www.downtownlafayette.org/arts/dwyersmural.jpg",
+      "Latitude": 30.2265504,
+      "Longitude": -92.0193632
+    }
+  }, {
+    "attributes": {
+      "FID": 4,
+      "Venue": "Ex-Garage",
+      "Street_Add": "556 Jefferson Street",
+      "Type": "Mural",
+      "Descriptio": "Created by artist Robert Dafford in 1982.",
+      "Image": "http://www.downtownlafayette.org/arts/exgaragemural.jpg",
+      "Latitude": 30.2242978,
+      "Longitude": -92.0191693
+    }
+  }, {
+    "attributes": {
+      "FID": 5,
+      "Venue": "Firefighter Statue",
+      "Street_Add": "300 E. Vermilion Street",
+      "Type": "Statue",
+      "Descriptio": "Created by two firemen in 1970.",
+      "Image": "http://www.downtownlafayette.org/arts/fireman.jpeg",
+      "Latitude": 30.223884,
+      "Longitude": -92.016952
+    }
+  }, {
+    "attributes": {
+      "FID": 6,
+      "Venue": "Horizon",
+      "Street_Add": "200 W. Vermilion Street",
+      "Type": "Mural",
+      "Descriptio": "Created by artist Robert Dafford in 1988.",
+      "Image": "http://www.downtownlafayette.org/arts/horizon.jpg",
+      "Latitude": 30.224242,
+      "Longitude": -92.019916
+    }
+  }, {
+    "attributes": {
+      "FID": 7,
+      "Venue": "Inflourescence Blooming Flower",
+      "Street_Add": "556 Jefferson Street",
+      "Type": "Sculpture",
+      "Descriptio": "Created by artist Robert Wiggs in 1983. Also known as Octaplex.",
+      "Image": "http://www.downtownlafayette.org/arts/octaplex.jpeg",
+      "Latitude": 30.2242978,
+      "Longitude": -92.0191693
+    }
+  }, {
+    "attributes": {
+      "FID": 8,
+      "Venue": "Marquis de La Fayette",
+      "Street_Add": "705 W. University",
+      "Type": "Statue",
+      "Descriptio": "Created by Charles Correia and dedicated in 1987.",
+      "Image": "http://www.downtownlafayette.org/arts/marquisstatue.jpg",
+      "Latitude": 30.220574,
+      "Longitude": -92.024614
+    }
+  }, {
+    "attributes": {
+      "FID": 9,
+      "Venue": "Premier, Dernier et Toujours",
+      "Street_Add": "700 Block of Jefferson Street",
+      "Type": "Mural",
+      "Descriptio": "Created by artist Robert Dafford in 1996.",
+      "Image": "http://www.downtownlafayette.org/arts/PremierDernieretToujours.jpg",
+      "Latitude": 30.2220696,
+      "Longitude": -92.018768
+    }
+  }, {
+    "attributes": {
+      "FID": 10,
+      "Venue": "Rosa Parks Statue",
+      "Street_Add": "100 Lee Ave",
+      "Type": "Statue",
+      "Descriptio": "Created by artist Erik Blome in 2011.",
+      "Image": "http://www.downtownlafayette.org/arts/rosastatue.jpg",
+      "Latitude": 30.226716,
+      "Longitude": -92.0142725
+    }
+  }, {
+    "attributes": {
+      "FID": 11,
+      "Venue": "Saint Philomena: Patron Saint of Skateboarders",
+      "Street_Add": "311 Jefferson Street",
+      "Type": "Mural",
+      "Descriptio": "Created by artist Susan David in 2016.",
+      "Image": "http://www.downtownlafayette.org/arts/stphilomena.jpg",
+      "Latitude": 30.226484,
+      "Longitude": -92.0188321
+    }
+  }, {
+    "attributes": {
+      "FID": 12,
+      "Venue": "Stereo Prairie",
+      "Street_Add": "201 E. Congress Street",
+      "Type": "Mural",
+      "Descriptio": "Created by artist Robert Dafford in 1994.",
+      "Image": "http://www.downtownlafayette.org/arts/stereoprairie.jpeg",
+      "Latitude": 30.2251371,
+      "Longitude": -92.0173329
+    }
+  }, {
+    "attributes": {
+      "FID": 13,
+      "Venue": "Thalassa",
+      "Street_Add": "113 Clinton Street",
+      "Type": "Mural",
+      "Descriptio": "Created by artist Susan David in 2016.",
+      "Image": "http://www.downtownlafayette.org/arts/Thalassa.jpg",
+      "Latitude": 30.2245219,
+      "Longitude": -92.0155183
+    }
+  }, {
+    "attributes": {
+      "FID": 14,
+      "Venue": "Til All That's Left is a Postcard",
+      "Street_Add": "407 Jefferson Street",
+      "Type": "Mural",
+      "Descriptio": "Created by artist Robert Dafford in 1984.",
+      "Image": "http://www.downtownlafayette.org/arts/postcard.jpg",
+      "Latitude": 30.226314,
+      "Longitude": -92.0174849
+    }
+  }, {
+    "attributes": {
+      "FID": 15,
+      "Venue": "Twisted Loop",
+      "Street_Add": "300 Block of W. Congress St.",
+      "Type": "Sculpture",
+      "Descriptio": "Created by artist Robert Wiggs in 1969.",
+      "Image": "http://www.downtownlafayette.org/arts/twistedloop.jpg",
+      "Latitude": 30.2263139,
+      "Longitude": -92.0191783
+    }
+  }, {
+    "attributes": {
+      "FID": 16,
+      "Venue": "Urns of Justice",
+      "Street_Add": "800 Lafayette Street",
+      "Type": "Sculpture",
+      "Descriptio": "Created by artist Dianna Moore in 1999.",
+      "Image": "http://www.downtownlafayette.org/arts/urnsofjustice.jpg",
+      "Latitude": 30.2247108,
+      "Longitude": -92.0216179
+    }
+  }, {
+    "attributes": {
+      "FID": 17,
+      "Venue": "ArtWalk Wayfinding Street Art",
+      "Street_Add": "200 W Congress Street",
+      "Type": "Street art",
+      "Descriptio": "Completed in 2015 with UL Students.",
+      "Image": "https://www.instagram.com/p/6QasixGXz6/",
+      "Latitude": 30.226242,
+      "Longitude": -92.019045
+    }
+  }, {
+    "attributes": {
+      "FID": 18,
+      "Venue": "Azalea Bench",
+      "Street_Add": "605 Jefferson Street",
+      "Type": "Bench",
+      "Descriptio": "Completed in 2014 by Louisiana State Art Teachers.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/azaleabench.jpg",
+      "Latitude": 30.223498,
+      "Longitude": -92.018767
+    }
+  }, {
+    "attributes": {
+      "FID": 19,
+      "Venue": "Bicycle Sculptures",
+      "Street_Add": "201 E Vermilion Street",
+      "Type": "Sculpture",
+      "Descriptio": "Completed in 2014 by artist Pat Juneau.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/tuesbikesbyjuneau.JPG",
+      "Latitude": 30.224083,
+      "Longitude": -92.017513
+    }
+  }, {
+    "attributes": {
+      "FID": 20,
+      "Venue": "Cross Your Heart Walk Crosswalk",
+      "Street_Add": "735 Jefferson Street",
+      "Type": "Street art",
+      "Descriptio": "Completed in 2014 by Kate Durio.",
+      "Image": "http://www.downtownlafayette.com/arts/creativityeverywhere/crossheartwalk.jpg",
+      "Latitude": 30.22177,
+      "Longitude": -92.018761
+    }
+  }, {
+    "attributes": {
+      "FID": 21,
+      "Venue": "Dinosaur Pole Sculptures at the Lafayette Science Museum",
+      "Street_Add": "433 Jefferson Street",
+      "Type": "Sculpture",
+      "Descriptio": "Completed in 2014 by artist Pat Juneau.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/tueslsmdinos.JPG",
+      "Latitude": 30.225615,
+      "Longitude": -92.0184
+    }
+  }, {
+    "attributes": {
+      "FID": 22,
+      "Venue": "Downtown Gateway at Cypress and Jefferson",
+      "Street_Add": "200 Jefferson Street",
+      "Type": "Sculpture",
+      "Descriptio": "Completed in 2016 and designed by Geoff Dyer.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/gatewaysign.jpg",
+      "Latitude": 30.227347,
+      "Longitude": -92.015833
+    }
+  }, {
+    "attributes": {
+      "FID": 23,
+      "Venue": "Downtown Street Banners",
+      "Street_Add": "557 Jefferson Street",
+      "Type": "Sculpture",
+      "Descriptio": "Completed in 2015 by artist Pat Juneau.",
+      "Image": "https://www.instagram.com/p/7JIlWamX-Y/",
+      "Latitude": 30.224343,
+      "Longitude": -92.018797
+    }
+  }, {
+    "attributes": {
+      "FID": 24,
+      "Venue": "Fields of Study at the Lafayette Science Museum",
+      "Street_Add": "433 Jefferson Street",
+      "Type": "Mural",
+      "Descriptio": "Completed in 2016 by artist Chris Pavilk.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/lsmpavlik-01.png",
+      "Latitude": 30.225438,
+      "Longitude": -92.018015
+    }
+  }, {
+    "attributes": {
+      "FID": 25,
+      "Venue": "Freetown-Port Rico Neighborhood Plaques",
+      "Street_Add": "625 Garfield Street",
+      "Type": "Ceramic",
+      "Descriptio": "Completed in 2015 by neighbors at Pottery Alley.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/fprplates.jpg",
+      "Latitude": 30.223177,
+      "Longitude": -92.012838
+    }
+  }, {
+    "attributes": {
+      "FID": 26,
+      "Venue": "Gateway Plaza Banners",
+      "Street_Add": "735 Jefferson Street",
+      "Type": "Sculpture",
+      "Descriptio": "Completed in 2014 by artist Pat Juneau.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/tuesgatewaybanners.JPG",
+      "Latitude": 30.221316,
+      "Longitude": -92.018718
+    }
+  }, {
+    "attributes": {
+      "FID": 27,
+      "Venue": "Giant Scrabble Game",
+      "Street_Add": "800 Lafayette Street",
+      "Type": "Interactive Art",
+      "Descriptio": "Completed in 2014 with UL Students.",
+      "Image": "https://www.instagram.com/p/tdY-zBGX5S/",
+      "Latitude": 30.224705,
+      "Longitude": -92.020806
+    }
+  }, {
+    "attributes": {
+      "FID": 28,
+      "Venue": "Iris",
+      "Street_Add": "500 Jefferson Street",
+      "Type": "Mural",
+      "Descriptio": "Mural completed in 2016 by artist Kellie Smith.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/iriskelliesmith.jpg",
+      "Latitude": 30.225418,
+      "Longitude": -92.018745
+    }
+  }, {
+    "attributes": {
+      "FID": 29,
+      "Venue": "Lafayette Louisiana Moss Art",
+      "Street_Add": "715 Jefferson Street",
+      "Type": "Plant Art",
+      "Descriptio": "Moss art created by UL Students in 2015.",
+      "Image": "https://www.instagram.com/p/9Zjqn_GX7X/",
+      "Latitude": 30.222279,
+      "Longitude": -92.018717
+    }
+  }, {
+    "attributes": {
+      "FID": 30,
+      "Venue": "L-A-F-A-Y-E-T-T-E Sign",
+      "Street_Add": "201 E Vermilion Street",
+      "Type": "Interactive Art",
+      "Descriptio": "Completed in 2014 and repainted regularly.",
+      "Image": "https://www.instagram.com/explore/tags/ylafayette/",
+      "Latitude": 30.224481,
+      "Longitude": -92.017397
+    }
+  }, {
+    "attributes": {
+      "FID": 31,
+      "Venue": "Little Cajun Band Sculpture",
+      "Street_Add": "101 W Vermilion Street",
+      "Type": "Sculpture",
+      "Descriptio": "Completed in 2014 by artist Pat Juneau.",
+      "Image": "https://www.instagram.com/p/raPp-uGX9M/",
+      "Latitude": 30.224033,
+      "Longitude": -92.018733
+    }
+  }, {
+    "attributes": {
+      "FID": 32,
+      "Venue": "McComb-Veazey Neighborhood Living Legends Wall",
+      "Street_Add": "713 LA 728-8",
+      "Type": "Mural",
+      "Descriptio": "Completed in 2016 by artist Adrian Fulton.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/mccombmural.jpg",
+      "Latitude": 30.226921,
+      "Longitude": -92.002758
+    }
+  }, {
+    "attributes": {
+      "FID": 33,
+      "Venue": "North End Street Pole Flowers",
+      "Street_Add": "323 Jefferson Street",
+      "Type": "Sculpture",
+      "Descriptio": "Completed in 2014 by artist Pat Juneau.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/juneauflowers.jpg",
+      "Latitude": 30.226538,
+      "Longitude": -92.017319
+    }
+  }, {
+    "attributes": {
+      "FID": 34,
+      "Venue": "Painted Benches at Parc Putnam",
+      "Street_Add": "800 Lafayette Street",
+      "Type": "Bench",
+      "Descriptio": "Completed in 2016 by winners of K-12 student art competition.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/parcputnambenches.jpg",
+      "Latitude": 30.224835,
+      "Longitude": -92.020798
+    }
+  }, {
+    "attributes": {
+      "FID": 35,
+      "Venue": "Painted Benches at Parc Sans Souci",
+      "Street_Add": "201 E Vermilion Street",
+      "Type": "Bench",
+      "Descriptio": "Completed in 2015 by winners of K-12 student art competition.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/pssbenchesshot.png",
+      "Latitude": 30.224084,
+      "Longitude": -92.017394
+    }
+  }, {
+    "attributes": {
+      "FID": 36,
+      "Venue": "Painted Bike Racks",
+      "Street_Add": "201 E Vermilion Street",
+      "Type": "Bike rack",
+      "Descriptio": "Completed in 2014 with UL Students.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/bikeracks.jpg",
+      "Latitude": 30.224125,
+      "Longitude": -92.017356
+    }
+  }, {
+    "attributes": {
+      "FID": 37,
+      "Venue": "South End Street Pole Flowers",
+      "Street_Add": "812 Jefferson Street",
+      "Type": "Sculpture",
+      "Descriptio": "Completed in 2015 by artist Pat Juneau.",
+      "Image": "https://www.instagram.com/p/5FN-1OGX1Z/",
+      "Latitude": 30.221718,
+      "Longitude": -92.018798
+    }
+  }, {
+    "attributes": {
+      "FID": 38,
+      "Venue": "Souvenir Heights Neighborhood Mural",
+      "Street_Add": "100 Cedar Crest Court",
+      "Type": "Mural",
+      "Descriptio": "Completed in 2014 with neighbors from the neighborhood.",
+      "Image": "https://www.instagram.com/p/sDSNYRmX4X/",
+      "Latitude": 30.225571,
+      "Longitude": -92.025129
+    }
+  }, {
+    "attributes": {
+      "FID": 39,
+      "Venue": "Speak French Vocabulary Bubbles",
+      "Street_Add": "201 E Vermilion Street",
+      "Type": "Street art",
+      "Descriptio": "Completed in 2015 with UL Students and the Council for the Development of French in Louisiana.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/tuescherefrenchfriendly.JPG",
+      "Latitude": 30.224087,
+      "Longitude": -92.017448
+    }
+  }, {
+    "attributes": {
+      "FID": 40,
+      "Venue": "Stained Glass Greeting at Rosa Parks Transportation Center",
+      "Street_Add": "101 Jefferson Street",
+      "Type": "Stained Glass",
+      "Descriptio": "Completed in 2016 by artist Craig McCullen.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/stainedglass.jpg",
+      "Latitude": 30.226288,
+      "Longitude": -92.01469
+    }
+  }, {
+    "attributes": {
+      "FID": 41,
+      "Venue": "Swing Sculptures",
+      "Street_Add": "201 E Vermilion Street",
+      "Type": "Sculpture",
+      "Descriptio": "Completed in 2014 by artist Pat Juneau.",
+      "Image": "https://www.instagram.com/p/rcayX0mX4Y/",
+      "Latitude": 30.224106,
+      "Longitude": -92.017556
+    }
+  }, {
+    "attributes": {
+      "FID": 42,
+      "Venue": "Downtown Parclet",
+      "Street_Add": "735 Jefferson Street",
+      "Type": "Interactive Art",
+      "Descriptio": "Completed in 2014 and funded by Downtown Supporters.",
+      "Image": "http://www.downtownlafayette.org/arts/creativityeverywhere/downtownparklet.jpg",
+      "Latitude": 30.221977,
+      "Longitude": -92.018732
+    }
+  }]
+}
