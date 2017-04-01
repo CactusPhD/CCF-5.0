@@ -1,710 +1,710 @@
-StopID10[ 0]=[10,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
-StopID10[ 1]=[10,315,30.228506,-92.012655,'/map/images/NewBusStop3.png','JEFFERSON & SW THRUWAY'];
-StopID10[ 2]=[10,3,30.2231115,-92.006543,'/map/images/NewBusStop3.png','12TH & PEACH'];
-StopID10[ 3]=[10,4,30.224305,-92.004846,'/map/images/NewBusStop3.png','12TH & S. ORANGE'];
-StopID10[ 4]=[10,5,30.225592,-92.003682,'/map/images/NewBusStop3.png','12TH & ST. CHARLES'];
-StopID10[ 5]=[10,6,30.22673,-92.002583,'/map/images/NewBusStop3.png','12TH & SURREY'];
-StopID10[ 6]=[10,7,30.228139,-92.001203,'/map/images/NewBusStop3.png','12TH & HAZEL'];
-StopID10[ 7]=[10,8,30.229438,-91.9999,'/map/images/NewBusStop3.png','12TH & SIMCOE'];
-StopID10[ 8]=[10,9,30.228945,-91.998934,'/map/images/NewBusStop3.png','SIMCOE & GEN. MACARTHUR'];
-StopID10[ 9]=[10,10,30.22783,-91.99758,'/map/images/NewBusStop3.png','SIMCOE & FRANK'];
-StopID10[ 10]=[10,11,30.227179,-91.996461,'/map/images/NewBusStop3.png','SIMCOE & HAMNER'];
-StopID10[ 11]=[10,12,30.22709,-91.99411,'/map/images/NewBusStop3.png','PINHOOK & DORIAN'];
-StopID10[ 12]=[10,13,30.228677,-91.993554,'/map/images/NewBusStop3.png','PINHOOK & CLIFFORD'];
-StopID10[ 13]=[10,14,30.2323,-91.993021,'/map/images/NewBusStop3.png','PINHOOK & FRED'];
-StopID10[ 14]=[10,15,30.233075,-91.990814,'/map/images/NewBusStop3.png','CARMEL & COULE'];
-StopID10[ 15]=[10,16,30.23255,-91.98818,'/map/images/NewBusStop3.png','CARMEL & VILLAGE DU LAC'];
-StopID10[ 16]=[10,17,30.230038,-91.989142,'/map/images/NewBusStop3.png','VILLAGE DU LAC & RUE DU LAC'];
-StopID10[ 17]=[10,18,30.23015,-91.99064,'/map/images/NewBusStop3.png','RUE DU LAC AT DEAF ACTION CENTE'];
-StopID10[ 18]=[10,19,30.22866,-91.99095,'/map/images/NewBusStop3.png','RUE DU LAC & CLIFFORD'];
-StopID10[ 19]=[10,20,30.22886,-91.99344,'/map/images/NewBusStop3.png','CLIFFORD & PINHOOK'];
-StopID10[ 20]=[10,21,30.22642,-91.99507,'/map/images/NewBusStop3.png','PINHOOK & SIMCOE'];
-StopID10[ 21]=[10,22,30.224921,-91.993402,'/map/images/NewBusStop3.png','SIMCOE & ALSANDOR'];
-StopID10[ 22]=[10,23,30.22374,-91.99266,'/map/images/NewBusStop3.png','KATTIE & CO CIRCLE'];
-StopID10[ 23]=[10,24,30.22325,-91.99327,'/map/images/NewBusStop3.png','KATTIE & CO CIRCLE STOP 2'];
-StopID10[ 24]=[10,25,30.22241,-91.99416,'/map/images/NewBusStop3.png','KATTIE & ZIM CIRCLE'];
-StopID10[ 25]=[10,26,30.22153,-91.99494,'/map/images/NewBusStop3.png','KATTIE & SURREY'];
-StopID10[ 26]=[10,27,30.22209,-91.99577,'/map/images/NewBusStop3.png','SURREY AT OIL CITY CYCLES'];
-StopID10[ 27]=[10,28,30.22347,-91.99852,'/map/images/NewBusStop3.png','PINHOOK & SURREY'];
-StopID10[ 28]=[10,29,30.22204,-91.99997,'/map/images/NewBusStop3.png','PINHOOK & STERLING'];
-StopID10[ 29]=[10,30,30.220895,-92.001434,'/map/images/NewBusStop3.png','MAGNOLIA & PINHOOK'];
-StopID10[ 30]=[10,31,30.22191,-92.00272,'/map/images/NewBusStop3.png','MAGNOLIA & 15TH'];
-StopID10[ 31]=[10,32,30.22246,-92.00339,'/map/images/NewBusStop3.png','MAGNOLIA & 14TH'];
-StopID10[ 32]=[10,33,30.2231,-92.00425,'/map/images/NewBusStop3.png','MAGNOLIA & 13TH'];
-StopID10[ 33]=[10,34,30.22378,-92.00509,'/map/images/NewBusStop3.png','MAGNOLIA & 12TH'];
-StopID10[ 34]=[10,35,30.222932,-92.007222,'/map/images/NewBusStop3.png','12TH & PLUM'];
-StopID10[ 35]=[10,36,30.222594,-92.008112,'/map/images/NewBusStop3.png','12TH & SE THRUWAY STOP 2'];
-StopID10[ 36]=[10,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
+10,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
+10,315,30.228506,-92.012655,'/map/images/NewBusStop3.png','JEFFERSON & SW THRUWAY'
+10,3,30.2231115,-92.006543,'/map/images/NewBusStop3.png','12TH & PEACH'
+10,4,30.224305,-92.004846,'/map/images/NewBusStop3.png','12TH & S. ORANGE'
+10,5,30.225592,-92.003682,'/map/images/NewBusStop3.png','12TH & ST. CHARLES'
+10,6,30.22673,-92.002583,'/map/images/NewBusStop3.png','12TH & SURREY'
+10,7,30.228139,-92.001203,'/map/images/NewBusStop3.png','12TH & HAZEL'
+10,8,30.229438,-91.9999,'/map/images/NewBusStop3.png','12TH & SIMCOE'
+10,9,30.228945,-91.998934,'/map/images/NewBusStop3.png','SIMCOE & GEN. MACARTHUR'
+10,10,30.22783,-91.99758,'/map/images/NewBusStop3.png','SIMCOE & FRANK'
+10,11,30.227179,-91.996461,'/map/images/NewBusStop3.png','SIMCOE & HAMNER'
+10,12,30.22709,-91.99411,'/map/images/NewBusStop3.png','PINHOOK & DORIAN'
+10,13,30.228677,-91.993554,'/map/images/NewBusStop3.png','PINHOOK & CLIFFORD'
+10,14,30.2323,-91.993021,'/map/images/NewBusStop3.png','PINHOOK & FRED'
+10,15,30.233075,-91.990814,'/map/images/NewBusStop3.png','CARMEL & COULE'
+10,16,30.23255,-91.98818,'/map/images/NewBusStop3.png','CARMEL & VILLAGE DU LAC'
+10,17,30.230038,-91.989142,'/map/images/NewBusStop3.png','VILLAGE DU LAC & RUE DU LAC'
+10,18,30.23015,-91.99064,'/map/images/NewBusStop3.png','RUE DU LAC AT DEAF ACTION CENTE'
+10,19,30.22866,-91.99095,'/map/images/NewBusStop3.png','RUE DU LAC & CLIFFORD'
+10,20,30.22886,-91.99344,'/map/images/NewBusStop3.png','CLIFFORD & PINHOOK'
+10,21,30.22642,-91.99507,'/map/images/NewBusStop3.png','PINHOOK & SIMCOE'
+10,22,30.224921,-91.993402,'/map/images/NewBusStop3.png','SIMCOE & ALSANDOR'
+10,23,30.22374,-91.99266,'/map/images/NewBusStop3.png','KATTIE & CO CIRCLE'
+10,24,30.22325,-91.99327,'/map/images/NewBusStop3.png','KATTIE & CO CIRCLE STOP 2'
+10,25,30.22241,-91.99416,'/map/images/NewBusStop3.png','KATTIE & ZIM CIRCLE'
+10,26,30.22153,-91.99494,'/map/images/NewBusStop3.png','KATTIE & SURREY'
+10,27,30.22209,-91.99577,'/map/images/NewBusStop3.png','SURREY AT OIL CITY CYCLES'
+10,28,30.22347,-91.99852,'/map/images/NewBusStop3.png','PINHOOK & SURREY'
+10,29,30.22204,-91.99997,'/map/images/NewBusStop3.png','PINHOOK & STERLING'
+10,30,30.220895,-92.001434,'/map/images/NewBusStop3.png','MAGNOLIA & PINHOOK'
+10,31,30.22191,-92.00272,'/map/images/NewBusStop3.png','MAGNOLIA & 15TH'
+10,32,30.22246,-92.00339,'/map/images/NewBusStop3.png','MAGNOLIA & 14TH'
+10,33,30.2231,-92.00425,'/map/images/NewBusStop3.png','MAGNOLIA & 13TH'
+10,34,30.22378,-92.00509,'/map/images/NewBusStop3.png','MAGNOLIA & 12TH'
+10,35,30.222932,-92.007222,'/map/images/NewBusStop3.png','12TH & PLUM'
+10,36,30.222594,-92.008112,'/map/images/NewBusStop3.png','12TH & SE THRUWAY STOP 2'
+10,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
 
-StopID15[ 0]=[15,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
-StopID15[ 1]=[15,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'];
-StopID15[ 2]=[15,42,30.228834,-92.01653,'/map/images/NewBusStop3.png','CYPRESS & 2ND'];
-StopID15[ 3]=[15,44,30.227029,-92.020701,'/map/images/NewBusStop3.png','W CONGRESS & LAFAYETTE'];
-StopID15[ 4]=[15,45,30.227039,-92.022703,'/map/images/NewBusStop3.png','W CONGRESS & ST JOHN'];
-StopID15[ 5]=[15,46,30.22724,-92.02401,'/map/images/NewBusStop3.png','W CONGRESS & S. BIENVILLE'];
-StopID15[ 6]=[15,48,30.22503,-92.03051,'/map/images/NewBusStop3.png','W CONGRESS & MYRTLE PLACE'];
-StopID15[ 7]=[15,49,30.22362,-92.0332,'/map/images/NewBusStop3.png','W CONGRESS & ST. JOSEPH'];
-StopID15[ 8]=[15,50,30.222731,-92.034629,'/map/images/NewBusStop3.png','W CONGRESS & ST. THOMAS'];
-StopID15[ 9]=[15,51,30.221997,-92.03625,'/map/images/NewBusStop3.png','W CONGRESS & BROOKSIDE'];
-StopID15[ 10]=[15,52,30.21925,-92.04081,'/map/images/NewBusStop3.png','W CONGRESS & CAJUNDOME'];
-StopID15[ 11]=[15,53,30.21711,-92.04575,'/map/images/NewBusStop3.png','UNIVERSITY HEALTH CENTER'];
-StopID15[ 12]=[15,54,30.21635,-92.0469,'/map/images/NewBusStop3.png','UNIVERSITY HEALTH CENTER - STOP 2'];
-StopID15[ 13]=[15,55,30.2172,-92.05132,'/map/images/NewBusStop3.png','DEVALCOURT AT LOUISIANA TECHNICAL COLLEGE'];
-StopID15[ 14]=[15,56,30.21622,-92.05316,'/map/images/NewBusStop3.png','DEVALCOURT AT SLCC - STOP 2'];
-StopID15[ 15]=[15,57,30.21567,-92.04767,'/map/images/NewBusStop3.png','BERTRAND & CONGRESS'];
-StopID15[ 16]=[15,58,30.21399,-92.04852,'/map/images/NewBusStop3.png','W CONGRESS AT TACO BELL'];
-StopID15[ 17]=[15,502,30.211791,-92.050773,'/map/images/NewBusStop3.png','W CONGRESS AT FREDS SUPER DOLLAR'];
-StopID15[ 18]=[15,61,30.20907,-92.05405,'/map/images/NewBusStop3.png','W CONGRESS & VITAL'];
-StopID15[ 19]=[15,62,30.206526,-92.057863,'/map/images/NewBusStop3.png','W CONGRESS AT LAFAYETTE HIGH'];
-StopID15[ 20]=[15,63,30.20578,-92.058942,'/map/images/NewBusStop3.png','W CONGRESS & MARIE ANTOINETTE'];
-StopID15[ 21]=[15,64,30.20462,-92.06077,'/map/images/NewBusStop3.png','W CONGRESS & WESTCHESTER'];
-StopID15[ 22]=[15,65,30.20338,-92.0626,'/map/images/NewBusStop3.png','W CONGRESS & MIMOSA'];
-StopID15[ 23]=[15,66,30.201778,-92.064952,'/map/images/NewBusStop3.png','CONGRESS AT PAPA JOHNS'];
-StopID15[ 24]=[15,67,30.20028,-92.06715,'/map/images/NewBusStop3.png','W CONGRESS AT ADRIENS'];
-StopID15[ 25]=[15,68,30.19883,-92.06932,'/map/images/NewBusStop3.png','W CONGRESS & EULA'];
-StopID15[ 26]=[15,69,30.197494,-92.071904,'/map/images/NewBusStop3.png','CONGRESS & INDEPENDENCE BLVD.'];
-StopID15[ 27]=[15,71,30.1969,-92.07634,'/map/images/NewBusStop3.png','CONGRESS AT REGIONAL MED CENTER'];
-StopID15[ 28]=[15,72,30.1949,-92.07526,'/map/images/NewBusStop3.png','AMBASSADOR CAFFERY & PRAIRIE ELEMETARY'];
-StopID15[ 29]=[15,73,30.18788,-92.07513,'/map/images/NewBusStop3.png','AMBASSADOR CAFFERY AT WALMART'];
-StopID15[ 30]=[15,74,30.18424,-92.07504,'/map/images/NewBusStop3.png','AMB. CAFFERY AT SAMS CLUB'];
-StopID15[ 31]=[15,75,30.17928,-92.07508,'/map/images/NewBusStop3.png','AMB. CAFFERY & TARGET LOOP'];
-StopID15[ 32]=[15,753,30.176851,-92.073229,'/map/images/NewBusStop3.png','AMB. CAFFERY @ LAFAYETTE SHOOTERS'];
-StopID15[ 33]=[15,754,30.17507,-92.071074,'/map/images/NewBusStop3.png','AMB. CAFFERY @ TSUBAKI'];
-StopID15[ 34]=[15,755,30.173218,-92.068831,'/map/images/NewBusStop3.png','AMB. CAFFERY @ UHAUL STORAGE'];
-StopID15[ 35]=[15,513,30.17013,-92.06507,'/map/images/NewBusStop3.png','AMB CAFFERY AT CHICK-FIL-A'];
-StopID15[ 36]=[15,514,30.1682,-92.06263,'/map/images/NewBusStop3.png','AMB CAFFERY & ENGLEWOOD'];
-StopID15[ 37]=[15,770,30.167496,-92.060084,'/map/images/NewBusStop3.png','DOVER at WELLS FARGO'];
-StopID15[ 38]=[15,771,30.169678,-92.059515,'/map/images/NewBusStop3.png','DOVER & BROADMOOR'];
-StopID15[ 39]=[15,772,30.17217,-92.059699,'/map/images/NewBusStop3.png','BROADMOOR at BROADMOOR ELEM'];
-StopID15[ 40]=[15,773,30.174165,-92.062117,'/map/images/NewBusStop3.png','BROADMOOR at HOLY CROSS'];
-StopID15[ 41]=[15,774,30.172152,-92.06531,'/map/images/NewBusStop3.png','ROBLEY at SUPER ONE FOODS'];
-StopID15[ 42]=[15,775,30.171976,-92.067032,'/map/images/NewBusStop3.png','AMB. CAFFERY AT SUPER ONE FOODS'];
-StopID15[ 43]=[15,776,30.174179,-92.069668,'/map/images/NewBusStop3.png','AMB. CAFFERY & DILLARD'];
-StopID15[ 44]=[15,777,30.176561,-92.072582,'/map/images/NewBusStop3.png','AMB. CAFFERY AT BIG LOTS'];
-StopID15[ 45]=[15,778,30.180425,-92.074903,'/map/images/NewBusStop3.png','AMB. CAFFERY AT ARBY'];
-StopID15[ 46]=[15,779,30.183181,-92.074886,'/map/images/NewBusStop3.png','AMB. CAFFERY AT UNITECH'];
-StopID15[ 47]=[15,81,30.185366,-92.07491,'/map/images/NewBusStop3.png','AMB. CAFFERY & LANDMARK'];
-StopID15[ 48]=[15,82,30.18829,-92.075,'/map/images/NewBusStop3.png','AMB. CAFFERY & CURRAN'];
-StopID15[ 49]=[15,83,30.19555,-92.0751,'/map/images/NewBusStop3.png','AMB. CAFFERY & CONGRESS'];
-StopID15[ 50]=[15,84,30.196515,-92.073509,'/map/images/NewBusStop3.png','CONGRESS AT ST. EDMONDS CHURCH'];
-StopID15[ 51]=[15,85,30.19804,-92.07036,'/map/images/NewBusStop3.png','W CONGRESS & GUILBEAU'];
-StopID15[ 52]=[15,86,30.19915,-92.06855,'/map/images/NewBusStop3.png','W CONGRESS & BELL DOWNS APTS'];
-StopID15[ 53]=[15,87,30.201254,-92.065392,'/map/images/NewBusStop3.png','W CONGRESS & PARLIMENT'];
-StopID15[ 54]=[15,88,30.20332,-92.06242,'/map/images/NewBusStop3.png','W CONGRESS & MIMOSA STOP 2'];
-StopID15[ 55]=[15,89,30.204916,-92.06,'/map/images/NewBusStop3.png','W CONGRESS & FELICIE'];
-StopID15[ 56]=[15,90,30.20712,-92.05664,'/map/images/NewBusStop3.png','W CONGRESS & FOREMAN'];
-StopID15[ 57]=[15,91,30.20816,-92.05514,'/map/images/NewBusStop3.png','W CONGRESS & MEADOW'];
-StopID15[ 58]=[15,92,30.212338,-92.050165,'/map/images/NewBusStop3.png','W CONGRESS AT CHECKERS'];
-StopID15[ 59]=[15,93,30.21365,-92.04866,'/map/images/NewBusStop3.png','CONGRESS AT ROUSES'];
-StopID15[ 60]=[15,94,30.215791,-92.045444,'/map/images/NewBusStop3.png','CONGRESS AT CAJUN FIELD GATE 3'];
-StopID15[ 61]=[15,762,30.219853,-92.039468,'/map/images/NewBusStop3.png','W CONGRESS @ CAJUNDOME - 2'];
-StopID15[ 62]=[15,763,30.22241,-92.034889,'/map/images/NewBusStop3.png','W CONGRESS @ SAINT THOMAS ST'];
-StopID15[ 63]=[15,764,30.224245,-92.031881,'/map/images/NewBusStop3.png','W CONGRESS @ SAINT MARY BLVD'];
-StopID15[ 64]=[15,765,30.225009,-92.030236,'/map/images/NewBusStop3.png','W CONGRESS @ JASMINE ST'];
-StopID15[ 65]=[15,101,30.226902,-92.02302,'/map/images/NewBusStop3.png','W CONGRESS & ST JOHN - STOP 2'];
-StopID15[ 66]=[15,102,30.227246,-92.019232,'/map/images/NewBusStop3.png','CONGRESS & E. CONGRESS'];
-StopID15[ 67]=[15,103,30.227785,-92.016129,'/map/images/NewBusStop3.png','CYPRESS & JEFFERSON'];
-StopID15[ 68]=[15,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
+15,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
+15,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'
+15,42,30.228834,-92.01653,'/map/images/NewBusStop3.png','CYPRESS & 2ND'
+15,44,30.227029,-92.020701,'/map/images/NewBusStop3.png','W CONGRESS & LAFAYETTE'
+15,45,30.227039,-92.022703,'/map/images/NewBusStop3.png','W CONGRESS & ST JOHN'
+15,46,30.22724,-92.02401,'/map/images/NewBusStop3.png','W CONGRESS & S. BIENVILLE'
+15,48,30.22503,-92.03051,'/map/images/NewBusStop3.png','W CONGRESS & MYRTLE PLACE'
+15,49,30.22362,-92.0332,'/map/images/NewBusStop3.png','W CONGRESS & ST. JOSEPH'
+15,50,30.222731,-92.034629,'/map/images/NewBusStop3.png','W CONGRESS & ST. THOMAS'
+15,51,30.221997,-92.03625,'/map/images/NewBusStop3.png','W CONGRESS & BROOKSIDE'
+15,52,30.21925,-92.04081,'/map/images/NewBusStop3.png','W CONGRESS & CAJUNDOME'
+15,53,30.21711,-92.04575,'/map/images/NewBusStop3.png','UNIVERSITY HEALTH CENTER'
+15,54,30.21635,-92.0469,'/map/images/NewBusStop3.png','UNIVERSITY HEALTH CENTER - STOP 2'
+15,55,30.2172,-92.05132,'/map/images/NewBusStop3.png','DEVALCOURT AT LOUISIANA TECHNICAL COLLEGE'
+15,56,30.21622,-92.05316,'/map/images/NewBusStop3.png','DEVALCOURT AT SLCC - STOP 2'
+15,57,30.21567,-92.04767,'/map/images/NewBusStop3.png','BERTRAND & CONGRESS'
+15,58,30.21399,-92.04852,'/map/images/NewBusStop3.png','W CONGRESS AT TACO BELL'
+15,502,30.211791,-92.050773,'/map/images/NewBusStop3.png','W CONGRESS AT FREDS SUPER DOLLAR'
+15,61,30.20907,-92.05405,'/map/images/NewBusStop3.png','W CONGRESS & VITAL'
+15,62,30.206526,-92.057863,'/map/images/NewBusStop3.png','W CONGRESS AT LAFAYETTE HIGH'
+15,63,30.20578,-92.058942,'/map/images/NewBusStop3.png','W CONGRESS & MARIE ANTOINETTE'
+15,64,30.20462,-92.06077,'/map/images/NewBusStop3.png','W CONGRESS & WESTCHESTER'
+15,65,30.20338,-92.0626,'/map/images/NewBusStop3.png','W CONGRESS & MIMOSA'
+15,66,30.201778,-92.064952,'/map/images/NewBusStop3.png','CONGRESS AT PAPA JOHNS'
+15,67,30.20028,-92.06715,'/map/images/NewBusStop3.png','W CONGRESS AT ADRIENS'
+15,68,30.19883,-92.06932,'/map/images/NewBusStop3.png','W CONGRESS & EULA'
+15,69,30.197494,-92.071904,'/map/images/NewBusStop3.png','CONGRESS & INDEPENDENCE BLVD.'
+15,71,30.1969,-92.07634,'/map/images/NewBusStop3.png','CONGRESS AT REGIONAL MED CENTER'
+15,72,30.1949,-92.07526,'/map/images/NewBusStop3.png','AMBASSADOR CAFFERY & PRAIRIE ELEMETARY'
+15,73,30.18788,-92.07513,'/map/images/NewBusStop3.png','AMBASSADOR CAFFERY AT WALMART'
+15,74,30.18424,-92.07504,'/map/images/NewBusStop3.png','AMB. CAFFERY AT SAMS CLUB'
+15,75,30.17928,-92.07508,'/map/images/NewBusStop3.png','AMB. CAFFERY & TARGET LOOP'
+15,753,30.176851,-92.073229,'/map/images/NewBusStop3.png','AMB. CAFFERY @ LAFAYETTE SHOOTERS'
+15,754,30.17507,-92.071074,'/map/images/NewBusStop3.png','AMB. CAFFERY @ TSUBAKI'
+15,755,30.173218,-92.068831,'/map/images/NewBusStop3.png','AMB. CAFFERY @ UHAUL STORAGE'
+15,513,30.17013,-92.06507,'/map/images/NewBusStop3.png','AMB CAFFERY AT CHICK-FIL-A'
+15,514,30.1682,-92.06263,'/map/images/NewBusStop3.png','AMB CAFFERY & ENGLEWOOD'
+15,770,30.167496,-92.060084,'/map/images/NewBusStop3.png','DOVER at WELLS FARGO'
+15,771,30.169678,-92.059515,'/map/images/NewBusStop3.png','DOVER & BROADMOOR'
+15,772,30.17217,-92.059699,'/map/images/NewBusStop3.png','BROADMOOR at BROADMOOR ELEM'
+15,773,30.174165,-92.062117,'/map/images/NewBusStop3.png','BROADMOOR at HOLY CROSS'
+15,774,30.172152,-92.06531,'/map/images/NewBusStop3.png','ROBLEY at SUPER ONE FOODS'
+15,775,30.171976,-92.067032,'/map/images/NewBusStop3.png','AMB. CAFFERY AT SUPER ONE FOODS'
+15,776,30.174179,-92.069668,'/map/images/NewBusStop3.png','AMB. CAFFERY & DILLARD'
+15,777,30.176561,-92.072582,'/map/images/NewBusStop3.png','AMB. CAFFERY AT BIG LOTS'
+15,778,30.180425,-92.074903,'/map/images/NewBusStop3.png','AMB. CAFFERY AT ARBY'
+15,779,30.183181,-92.074886,'/map/images/NewBusStop3.png','AMB. CAFFERY AT UNITECH'
+15,81,30.185366,-92.07491,'/map/images/NewBusStop3.png','AMB. CAFFERY & LANDMARK'
+15,82,30.18829,-92.075,'/map/images/NewBusStop3.png','AMB. CAFFERY & CURRAN'
+15,83,30.19555,-92.0751,'/map/images/NewBusStop3.png','AMB. CAFFERY & CONGRESS'
+15,84,30.196515,-92.073509,'/map/images/NewBusStop3.png','CONGRESS AT ST. EDMONDS CHURCH'
+15,85,30.19804,-92.07036,'/map/images/NewBusStop3.png','W CONGRESS & GUILBEAU'
+15,86,30.19915,-92.06855,'/map/images/NewBusStop3.png','W CONGRESS & BELL DOWNS APTS'
+15,87,30.201254,-92.065392,'/map/images/NewBusStop3.png','W CONGRESS & PARLIMENT'
+15,88,30.20332,-92.06242,'/map/images/NewBusStop3.png','W CONGRESS & MIMOSA STOP 2'
+15,89,30.204916,-92.06,'/map/images/NewBusStop3.png','W CONGRESS & FELICIE'
+15,90,30.20712,-92.05664,'/map/images/NewBusStop3.png','W CONGRESS & FOREMAN'
+15,91,30.20816,-92.05514,'/map/images/NewBusStop3.png','W CONGRESS & MEADOW'
+15,92,30.212338,-92.050165,'/map/images/NewBusStop3.png','W CONGRESS AT CHECKERS'
+15,93,30.21365,-92.04866,'/map/images/NewBusStop3.png','CONGRESS AT ROUSES'
+15,94,30.215791,-92.045444,'/map/images/NewBusStop3.png','CONGRESS AT CAJUN FIELD GATE 3'
+15,762,30.219853,-92.039468,'/map/images/NewBusStop3.png','W CONGRESS @ CAJUNDOME - 2'
+15,763,30.22241,-92.034889,'/map/images/NewBusStop3.png','W CONGRESS @ SAINT THOMAS ST'
+15,764,30.224245,-92.031881,'/map/images/NewBusStop3.png','W CONGRESS @ SAINT MARY BLVD'
+15,765,30.225009,-92.030236,'/map/images/NewBusStop3.png','W CONGRESS @ JASMINE ST'
+15,101,30.226902,-92.02302,'/map/images/NewBusStop3.png','W CONGRESS & ST JOHN - STOP 2'
+15,102,30.227246,-92.019232,'/map/images/NewBusStop3.png','CONGRESS & E. CONGRESS'
+15,103,30.227785,-92.016129,'/map/images/NewBusStop3.png','CYPRESS & JEFFERSON'
+15,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
 
-StopID20[ 0]=[20,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
-StopID20[ 1]=[20,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'];
-StopID20[ 2]=[20,42,30.228834,-92.01653,'/map/images/NewBusStop3.png','CYPRESS & 2ND'];
-StopID20[ 3]=[20,43,30.228279,-92.018298,'/map/images/NewBusStop3.png','W CONGRESS AT S. PIERCE'];
-StopID20[ 4]=[20,44,30.227029,-92.020701,'/map/images/NewBusStop3.png','W CONGRESS & LAFAYETTE'];
-StopID20[ 5]=[20,45,30.227039,-92.022703,'/map/images/NewBusStop3.png','W CONGRESS & ST JOHN'];
-StopID20[ 6]=[20,105,30.229319,-92.022808,'/map/images/NewBusStop3.png','ST. JOHN & OLIVIER'];
-StopID20[ 7]=[20,106,30.23049,-92.022792,'/map/images/NewBusStop3.png','ST. JOHN & SIMCOE'];
-StopID20[ 8]=[20,107,30.231897,-92.023834,'/map/images/NewBusStop3.png','CAMERON & S BIENVILLE'];
-StopID20[ 9]=[20,108,30.232145,-92.025871,'/map/images/NewBusStop3.png','CAMERON & DELORD'];
-StopID20[ 10]=[20,109,30.232247,-92.028455,'/map/images/NewBusStop3.png','CAMERON & MARTHA'];
-StopID20[ 11]=[20,111,30.23239,-92.03179,'/map/images/NewBusStop3.png','CAMERON & UNIVERSITY'];
-StopID20[ 12]=[20,112,30.23245,-92.03405,'/map/images/NewBusStop3.png','CAMERON & S. LOOP'];
-StopID20[ 13]=[20,114,30.23246,-92.03927,'/map/images/NewBusStop3.png','CAMERON & ERASTE LANDRY'];
-StopID20[ 14]=[20,115,30.23244,-92.04209,'/map/images/NewBusStop3.png','CAMERON & ALLEY 2'];
-StopID20[ 15]=[20,116,30.23248,-92.0467,'/map/images/NewBusStop3.png','CAMERON & ALLEY 5'];
-StopID20[ 16]=[20,117,30.232046,-92.049829,'/map/images/NewBusStop3.png','MACOM AT SPEED SIGN'];
-StopID20[ 17]=[20,118,30.22862,-92.04983,'/map/images/NewBusStop3.png','MACON & ST. JULES'];
-StopID20[ 18]=[20,119,30.226285,-92.049865,'/map/images/NewBusStop3.png','MACON & ERASTE LANDRY'];
-StopID20[ 19]=[20,120,30.224,-92.05571,'/map/images/NewBusStop3.png','ERASTE LANDRY & CHANNEL 3'];
-StopID20[ 20]=[20,121,30.22344,-92.06063,'/map/images/NewBusStop3.png','ERASTE LANDRY & BANKS'];
-StopID20[ 21]=[20,122,30.22244,-92.0617,'/map/images/NewBusStop3.png','ERASTE LANDRY & LUKE'];
-StopID20[ 22]=[20,123,30.22025,-92.06386,'/map/images/NewBusStop3.png','ERASTE LANDRY AT OAK PARKS ESTATE'];
-StopID20[ 23]=[20,124,30.21932,-92.0669,'/map/images/NewBusStop3.png','ERASTE LANDRY AT ATMOS ENERGY'];
-StopID20[ 24]=[20,125,30.21922,-92.06929,'/map/images/NewBusStop3.png','ERASTE LANDRY AT COX CABLE'];
-StopID20[ 25]=[20,126,30.2167,-92.07593,'/map/images/NewBusStop3.png','AMB. CAFFERY & AVONDALE'];
-StopID20[ 26]=[20,127,30.2112,-92.07586,'/map/images/NewBusStop3.png','AMB. CAFFERY & DULLES'];
-StopID20[ 27]=[20,128,30.20979,-92.07569,'/map/images/NewBusStop3.png','AMB. CAFFERY AT COULEE BIDGE'];
-StopID20[ 28]=[20,129,30.20712,-92.07549,'/map/images/NewBusStop3.png','AMB. CAFFERY AT KFC'];
-StopID20[ 29]=[20,130,30.20065,-92.07533,'/map/images/NewBusStop3.png','AMB. CAFFERY AT DIAMOND LAKES APTS.'];
-StopID20[ 30]=[20,131,30.19808,-92.07598,'/map/images/NewBusStop3.png','AMB. CAFFERY & REGIONAL MED CENTER'];
-StopID20[ 31]=[20,132,30.19603,-92.07972,'/map/images/NewBusStop3.png','CONGRESS & ST. NICHOLAS'];
-StopID20[ 32]=[20,133,30.19597,-92.08261,'/map/images/NewBusStop3.png','CONGRESS AT SKATEZONE'];
-StopID20[ 33]=[20,134,30.19993,-92.08355,'/map/images/NewBusStop3.png','N. DOMINGUE & WINDHAVEN'];
-StopID20[ 34]=[20,135,30.202564,-92.083554,'/map/images/NewBusStop3.png','N. DOMINGUE & GUILBEAU'];
-StopID20[ 35]=[20,136,30.203739,-92.083576,'/map/images/NewBusStop3.png','N. DOMINGUE AT EVAGELINE VILLAGE APTS'];
-StopID20[ 36]=[20,137,30.20535,-92.083596,'/map/images/NewBusStop3.png','N. DOMINGUE AT N. WESTPOINTE'];
-StopID20[ 37]=[20,138,30.210447,-92.083709,'/map/images/NewBusStop3.png','N. DOMINGUE & DULLES'];
-StopID20[ 38]=[20,139,30.21051,-92.07704,'/map/images/NewBusStop3.png','DULLES AT MAGNOLIA PLACE'];
-StopID20[ 39]=[20,140,30.210598,-92.07467,'/map/images/NewBusStop3.png','DULLES AT CAR WASH'];
-StopID20[ 40]=[20,141,30.210697,-92.070057,'/map/images/NewBusStop3.png','DULLES & BLYTHWOOD'];
-StopID20[ 41]=[20,142,30.21158,-92.06726,'/map/images/NewBusStop3.png','DULLES & EPSILON'];
-StopID20[ 42]=[20,143,30.21008,-92.06589,'/map/images/NewBusStop3.png','EPSILON & MCDONALD'];
-StopID20[ 43]=[20,144,30.21118,-92.06369,'/map/images/NewBusStop3.png','MCDONALD & MARIE ANTOINETTE'];
-StopID20[ 44]=[20,145,30.21395,-92.06361,'/map/images/NewBusStop3.png','DULLES & FOREMAN'];
-StopID20[ 45]=[20,146,30.21699,-92.05951,'/map/images/NewBusStop3.png','DULLES AT BRIDGEWAY APTS'];
-StopID20[ 46]=[20,147,30.2184,-92.0576,'/map/images/NewBusStop3.png','DULLES AT ACADIANA COMPUTER SYSTEMS'];
-StopID20[ 47]=[20,150,30.22176,-92.05284,'/map/images/NewBusStop3.png','DULLES & BERTRAND'];
-StopID20[ 48]=[20,151,30.22398,-92.05412,'/map/images/NewBusStop3.png','BERTRAND & EARSTE LANDRY'];
-StopID20[ 49]=[20,152,30.225712,-92.057516,'/map/images/NewBusStop3.png','BERTRAND & TOLEDO'];
-StopID20[ 50]=[20,153,30.22694,-92.06005,'/map/images/NewBusStop3.png','BERTRAND & BANKS'];
-StopID20[ 51]=[20,154,30.230807,-92.062378,'/map/images/NewBusStop3.png','BERTRAND & AMB. CAFFERY'];
-StopID20[ 52]=[20,155,30.232058,-92.062374,'/map/images/NewBusStop3.png','AMB. CAFFERY & CAMERON'];
-StopID20[ 53]=[20,156,30.23786,-92.06456,'/map/images/NewBusStop3.png','AMB. CAFFERY & SAUL'];
-StopID20[ 54]=[20,157,30.24317,-92.06575,'/map/images/NewBusStop3.png','AMB. CAFFERY & WILLOW'];
-StopID20[ 55]=[20,158,30.243574,-92.049876,'/map/images/NewBusStop3.png','WILLOW & HEBERT'];
-StopID20[ 56]=[20,159,30.23734,-92.04972,'/map/images/NewBusStop3.png','HEBERT & WILLOW SPRINGS TRAILER PARK'];
-StopID20[ 57]=[20,160,30.23587,-92.03254,'/map/images/NewBusStop3.png','WALKER & UNIVERSITY'];
-StopID20[ 58]=[20,161,30.232232,-92.03129,'/map/images/NewBusStop3.png','CAMERON & EVANGELINE - STOP 2'];
-StopID20[ 59]=[20,110,30.232194,-92.030112,'/map/images/NewBusStop3.png','CAMERON & BEN-B'];
-StopID20[ 60]=[20,162,30.23211,-92.02717,'/map/images/NewBusStop3.png','CAMERON & POYDRAS - STOP 2'];
-StopID20[ 61]=[20,163,30.232019,-92.025546,'/map/images/NewBusStop3.png','CAMERON & ST. ANTOINE - STOP 2'];
-StopID20[ 62]=[20,164,30.231786,-92.023955,'/map/images/NewBusStop3.png','CAMERON & S BIENVILLE - STOP 2'];
-StopID20[ 63]=[20,165,30.230773,-92.022965,'/map/images/NewBusStop3.png','ST. JOHN & SIMCOE - RT20'];
-StopID20[ 64]=[20,166,30.229435,-92.022955,'/map/images/NewBusStop3.png','ST. JOHN & OLIVIER - STOP 2'];
-StopID20[ 65]=[20,167,30.2275,-92.02296,'/map/images/NewBusStop3.png','ST. JOHN & CONGRESS'];
-StopID20[ 66]=[20,102,30.227246,-92.019232,'/map/images/NewBusStop3.png','CONGRESS & E. CONGRESS'];
-StopID20[ 67]=[20,103,30.227785,-92.016129,'/map/images/NewBusStop3.png','CYPRESS & JEFFERSON'];
-StopID20[ 68]=[20,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
+20,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
+20,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'
+20,42,30.228834,-92.01653,'/map/images/NewBusStop3.png','CYPRESS & 2ND'
+20,43,30.228279,-92.018298,'/map/images/NewBusStop3.png','W CONGRESS AT S. PIERCE'
+20,44,30.227029,-92.020701,'/map/images/NewBusStop3.png','W CONGRESS & LAFAYETTE'
+20,45,30.227039,-92.022703,'/map/images/NewBusStop3.png','W CONGRESS & ST JOHN'
+20,105,30.229319,-92.022808,'/map/images/NewBusStop3.png','ST. JOHN & OLIVIER'
+20,106,30.23049,-92.022792,'/map/images/NewBusStop3.png','ST. JOHN & SIMCOE'
+20,107,30.231897,-92.023834,'/map/images/NewBusStop3.png','CAMERON & S BIENVILLE'
+20,108,30.232145,-92.025871,'/map/images/NewBusStop3.png','CAMERON & DELORD'
+20,109,30.232247,-92.028455,'/map/images/NewBusStop3.png','CAMERON & MARTHA'
+20,111,30.23239,-92.03179,'/map/images/NewBusStop3.png','CAMERON & UNIVERSITY'
+20,112,30.23245,-92.03405,'/map/images/NewBusStop3.png','CAMERON & S. LOOP'
+20,114,30.23246,-92.03927,'/map/images/NewBusStop3.png','CAMERON & ERASTE LANDRY'
+20,115,30.23244,-92.04209,'/map/images/NewBusStop3.png','CAMERON & ALLEY 2'
+20,116,30.23248,-92.0467,'/map/images/NewBusStop3.png','CAMERON & ALLEY 5'
+20,117,30.232046,-92.049829,'/map/images/NewBusStop3.png','MACOM AT SPEED SIGN'
+20,118,30.22862,-92.04983,'/map/images/NewBusStop3.png','MACON & ST. JULES'
+20,119,30.226285,-92.049865,'/map/images/NewBusStop3.png','MACON & ERASTE LANDRY'
+20,120,30.224,-92.05571,'/map/images/NewBusStop3.png','ERASTE LANDRY & CHANNEL 3'
+20,121,30.22344,-92.06063,'/map/images/NewBusStop3.png','ERASTE LANDRY & BANKS'
+20,122,30.22244,-92.0617,'/map/images/NewBusStop3.png','ERASTE LANDRY & LUKE'
+20,123,30.22025,-92.06386,'/map/images/NewBusStop3.png','ERASTE LANDRY AT OAK PARKS ESTATE'
+20,124,30.21932,-92.0669,'/map/images/NewBusStop3.png','ERASTE LANDRY AT ATMOS ENERGY'
+20,125,30.21922,-92.06929,'/map/images/NewBusStop3.png','ERASTE LANDRY AT COX CABLE'
+20,126,30.2167,-92.07593,'/map/images/NewBusStop3.png','AMB. CAFFERY & AVONDALE'
+20,127,30.2112,-92.07586,'/map/images/NewBusStop3.png','AMB. CAFFERY & DULLES'
+20,128,30.20979,-92.07569,'/map/images/NewBusStop3.png','AMB. CAFFERY AT COULEE BIDGE'
+20,129,30.20712,-92.07549,'/map/images/NewBusStop3.png','AMB. CAFFERY AT KFC'
+20,130,30.20065,-92.07533,'/map/images/NewBusStop3.png','AMB. CAFFERY AT DIAMOND LAKES APTS.'
+20,131,30.19808,-92.07598,'/map/images/NewBusStop3.png','AMB. CAFFERY & REGIONAL MED CENTER'
+20,132,30.19603,-92.07972,'/map/images/NewBusStop3.png','CONGRESS & ST. NICHOLAS'
+20,133,30.19597,-92.08261,'/map/images/NewBusStop3.png','CONGRESS AT SKATEZONE'
+20,134,30.19993,-92.08355,'/map/images/NewBusStop3.png','N. DOMINGUE & WINDHAVEN'
+20,135,30.202564,-92.083554,'/map/images/NewBusStop3.png','N. DOMINGUE & GUILBEAU'
+20,136,30.203739,-92.083576,'/map/images/NewBusStop3.png','N. DOMINGUE AT EVAGELINE VILLAGE APTS'
+20,137,30.20535,-92.083596,'/map/images/NewBusStop3.png','N. DOMINGUE AT N. WESTPOINTE'
+20,138,30.210447,-92.083709,'/map/images/NewBusStop3.png','N. DOMINGUE & DULLES'
+20,139,30.21051,-92.07704,'/map/images/NewBusStop3.png','DULLES AT MAGNOLIA PLACE'
+20,140,30.210598,-92.07467,'/map/images/NewBusStop3.png','DULLES AT CAR WASH'
+20,141,30.210697,-92.070057,'/map/images/NewBusStop3.png','DULLES & BLYTHWOOD'
+20,142,30.21158,-92.06726,'/map/images/NewBusStop3.png','DULLES & EPSILON'
+20,143,30.21008,-92.06589,'/map/images/NewBusStop3.png','EPSILON & MCDONALD'
+20,144,30.21118,-92.06369,'/map/images/NewBusStop3.png','MCDONALD & MARIE ANTOINETTE'
+20,145,30.21395,-92.06361,'/map/images/NewBusStop3.png','DULLES & FOREMAN'
+20,146,30.21699,-92.05951,'/map/images/NewBusStop3.png','DULLES AT BRIDGEWAY APTS'
+20,147,30.2184,-92.0576,'/map/images/NewBusStop3.png','DULLES AT ACADIANA COMPUTER SYSTEMS'
+20,150,30.22176,-92.05284,'/map/images/NewBusStop3.png','DULLES & BERTRAND'
+20,151,30.22398,-92.05412,'/map/images/NewBusStop3.png','BERTRAND & EARSTE LANDRY'
+20,152,30.225712,-92.057516,'/map/images/NewBusStop3.png','BERTRAND & TOLEDO'
+20,153,30.22694,-92.06005,'/map/images/NewBusStop3.png','BERTRAND & BANKS'
+20,154,30.230807,-92.062378,'/map/images/NewBusStop3.png','BERTRAND & AMB. CAFFERY'
+20,155,30.232058,-92.062374,'/map/images/NewBusStop3.png','AMB. CAFFERY & CAMERON'
+20,156,30.23786,-92.06456,'/map/images/NewBusStop3.png','AMB. CAFFERY & SAUL'
+20,157,30.24317,-92.06575,'/map/images/NewBusStop3.png','AMB. CAFFERY & WILLOW'
+20,158,30.243574,-92.049876,'/map/images/NewBusStop3.png','WILLOW & HEBERT'
+20,159,30.23734,-92.04972,'/map/images/NewBusStop3.png','HEBERT & WILLOW SPRINGS TRAILER PARK'
+20,160,30.23587,-92.03254,'/map/images/NewBusStop3.png','WALKER & UNIVERSITY'
+20,161,30.232232,-92.03129,'/map/images/NewBusStop3.png','CAMERON & EVANGELINE - STOP 2'
+20,110,30.232194,-92.030112,'/map/images/NewBusStop3.png','CAMERON & BEN-B'
+20,162,30.23211,-92.02717,'/map/images/NewBusStop3.png','CAMERON & POYDRAS - STOP 2'
+20,163,30.232019,-92.025546,'/map/images/NewBusStop3.png','CAMERON & ST. ANTOINE - STOP 2'
+20,164,30.231786,-92.023955,'/map/images/NewBusStop3.png','CAMERON & S BIENVILLE - STOP 2'
+20,165,30.230773,-92.022965,'/map/images/NewBusStop3.png','ST. JOHN & SIMCOE - RT20'
+20,166,30.229435,-92.022955,'/map/images/NewBusStop3.png','ST. JOHN & OLIVIER - STOP 2'
+20,167,30.2275,-92.02296,'/map/images/NewBusStop3.png','ST. JOHN & CONGRESS'
+20,102,30.227246,-92.019232,'/map/images/NewBusStop3.png','CONGRESS & E. CONGRESS'
+20,103,30.227785,-92.016129,'/map/images/NewBusStop3.png','CYPRESS & JEFFERSON'
+20,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
 
-StopID25[ 0]=[25,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
-StopID25[ 1]=[25,169,30.223256,-92.015313,'/map/images/NewBusStop3.png','JOHNSTON & E. VERMILLION'];
-StopID25[ 2]=[25,170,30.222078,-92.016062,'/map/images/NewBusStop3.png','JOHNSTON & E. MAIN'];
-StopID25[ 3]=[25,171,30.221356,-92.016508,'/map/images/NewBusStop3.png','JOHNSTON & STEWART'];
-StopID25[ 4]=[25,172,30.22032,-92.01715,'/map/images/NewBusStop3.png','JOHNSTON & JEFFERSON'];
-StopID25[ 5]=[25,173,30.218728,-92.018214,'/map/images/NewBusStop3.png','JOHNSTON & GEN. MOUTON'];
-StopID25[ 6]=[25,174,30.21695,-92.01938,'/map/images/NewBusStop3.png','JOHNSTON & U.L. HOUSE'];
-StopID25[ 7]=[25,175,30.2146,-92.02174,'/map/images/NewBusStop3.png','JOHNSTON & ST MARY'];
-StopID25[ 8]=[25,176,30.212392,-92.025477,'/map/images/NewBusStop3.png','JOHNSTON & W. LEWIS'];
-StopID25[ 9]=[25,177,30.21163,-92.026903,'/map/images/NewBusStop3.png','JOHNSTON & ST. JULIEN'];
-StopID25[ 10]=[25,178,30.21048,-92.02978,'/map/images/NewBusStop3.png','JOHNSTON AT UL HORTICULTURE CNTR'];
-StopID25[ 11]=[25,179,30.21002,-92.031438,'/map/images/NewBusStop3.png','JOHNSTON & COLISEUM'];
-StopID25[ 12]=[25,180,30.208878,-92.035229,'/map/images/NewBusStop3.png','JOHNSTON & ST. CHRISTOPHER'];
-StopID25[ 13]=[25,181,30.207916,-92.037555,'/map/images/NewBusStop3.png','JOHNSTON AT ALBERTSONS'];
-StopID25[ 14]=[25,182,30.2069,-92.0391,'/map/images/NewBusStop3.png','JOHNSTON & MEAUX'];
-StopID25[ 15]=[25,183,30.20598,-92.04068,'/map/images/NewBusStop3.png','JOHNSTON & BERTRAND'];
-StopID25[ 16]=[25,184,30.20499,-92.04266,'/map/images/NewBusStop3.png','JOHNSTON AT CYCLE GEAR'];
-StopID25[ 17]=[25,185,30.20458,-92.04419,'/map/images/NewBusStop3.png','JOHNSTON & HOLDEN'];
-StopID25[ 18]=[25,186,30.20376,-92.04775,'/map/images/NewBusStop3.png','JOHNSTON AT FUN JUMPS'];
-StopID25[ 19]=[25,187,30.20309,-92.0503,'/map/images/NewBusStop3.png','JOHNSTON & TREEHAVEN'];
-StopID25[ 20]=[25,188,30.20235,-92.05228,'/map/images/NewBusStop3.png','JOHNSTON & FOREMAN'];
-StopID25[ 21]=[25,189,30.20146,-92.05391,'/map/images/NewBusStop3.png','JOHNSTON & MARIE ANTOINETTE'];
-StopID25[ 22]=[25,190,30.19922,-92.05565,'/map/images/NewBusStop3.png','JOHNSTON & WESTCHESTER'];
-StopID25[ 23]=[25,191,30.19701,-92.05674,'/map/images/NewBusStop3.png','JOHNSTON & MIMOSA'];
-StopID25[ 24]=[25,192,30.19496,-92.05781,'/map/images/NewBusStop3.png','JOHNSTON AT AUTOZONE'];
-StopID25[ 25]=[25,193,30.19259,-92.05992,'/map/images/NewBusStop3.png','JOHNSTON AT FIESTA VILLAGE'];
-StopID25[ 26]=[25,194,30.19019,-92.06232,'/map/images/NewBusStop3.png','JOHNSTON AT OFFICE DEPOT'];
-StopID25[ 27]=[25,195,30.18896,-92.06359,'/map/images/NewBusStop3.png','JOHNSTON & LANA'];
-StopID25[ 28]=[25,196,30.18724,-92.06534,'/map/images/NewBusStop3.png','JOHNSTON AT RITE-AID'];
-StopID25[ 29]=[25,197,30.1847,-92.06794,'/map/images/NewBusStop3.png','JOHNSTON AT DOUG ASHYS'];
-StopID25[ 30]=[25,198,30.18263,-92.07018,'/map/images/NewBusStop3.png','JOHNSTON & WESTMARK'];
-StopID25[ 31]=[25,199,30.180214,-92.072678,'/map/images/NewBusStop3.png','JOHNSTON AT CENTERPIECE CENTER'];
-StopID25[ 32]=[25,753,30.176851,-92.073229,'/map/images/NewBusStop3.png','AMB. CAFFERY @ LAFAYETTE SHOOTERS'];
-StopID25[ 33]=[25,754,30.17507,-92.071074,'/map/images/NewBusStop3.png','AMB. CAFFERY @ TSUBAKI'];
-StopID25[ 34]=[25,755,30.173218,-92.068831,'/map/images/NewBusStop3.png','AMB. CAFFERY @ UHAUL STORAGE'];
-StopID25[ 35]=[25,756,30.164767,-92.073245,'/map/images/NewBusStop3.png','ROBLEY @ ANSLEY WALK APPT'];
-StopID25[ 36]=[25,757,30.165807,-92.082159,'/map/images/NewBusStop3.png','SOUTH CITY PKWY @ SOUTH LIBRARY'];
-StopID25[ 37]=[25,758,30.171507,-92.080662,'/map/images/NewBusStop3.png','JOHNSTON ST @ RESERVE DR'];
-StopID25[ 38]=[25,759,30.173198,-92.079162,'/map/images/NewBusStop3.png','JOHNSTON ST @ GOUDCHAUX DR'];
-StopID25[ 39]=[25,760,30.175832,-92.076507,'/map/images/NewBusStop3.png','JOHNSTON ST @ PEP BOYS'];
-StopID25[ 40]=[25,761,30.178964,-92.07346,'/map/images/NewBusStop3.png','JOHNSTON ST @ TIME PLAZA'];
-StopID25[ 41]=[25,210,30.18316,-92.06931,'/map/images/NewBusStop3.png','JOHNSTON AT HYUNDAI'];
-StopID25[ 42]=[25,211,30.18456,-92.0679,'/map/images/NewBusStop3.png','JOHNSTON & GEINEVIEVE'];
-StopID25[ 43]=[25,212,30.18649,-92.06593,'/map/images/NewBusStop3.png','JOHNSTON & GRAND'];
-StopID25[ 44]=[25,213,30.188701,-92.063556,'/map/images/NewBusStop3.png','JOHNSTON & LANA - STOP 2'];
-StopID25[ 45]=[25,214,30.19009,-92.06221,'/map/images/NewBusStop3.png','JOHNSTON AT PRINCESS NAILS'];
-StopID25[ 46]=[25,215,30.19212,-92.060049,'/map/images/NewBusStop3.png','JOHNSTON AT GATTI TOWN'];
-StopID25[ 47]=[25,216,30.19425,-92.05812,'/map/images/NewBusStop3.png','JOHNSTON & RENA'];
-StopID25[ 48]=[25,217,30.19569,-92.05723,'/map/images/NewBusStop3.png','JOHNSTON & BRENTWOOD'];
-StopID25[ 49]=[25,218,30.1987,-92.0558,'/map/images/NewBusStop3.png','JOHNSTON & MARILYN'];
-StopID25[ 50]=[25,219,30.1996,-92.05531,'/map/images/NewBusStop3.png','JOHNSTON AT ASBURY CHURCH'];
-StopID25[ 51]=[25,220,30.20144,-92.05372,'/map/images/NewBusStop3.png','JOHNSTON & ROSELAWN'];
-StopID25[ 52]=[25,221,30.20361,-92.04775,'/map/images/NewBusStop3.png','JOHNSTON AT GRAND THEATER'];
-StopID25[ 53]=[25,222,30.20417,-92.04542,'/map/images/NewBusStop3.png','JOHNSTON AT RIVERSTONE APTS.'];
-StopID25[ 54]=[25,223,30.20553,-92.04116,'/map/images/NewBusStop3.png','JOHNSTON & BERTRAND - STOP 2'];
-StopID25[ 55]=[25,224,30.208193,-92.036514,'/map/images/NewBusStop3.png','JOHNSTON & WEDGEWOOD'];
-StopID25[ 56]=[25,225,30.20877,-92.03487,'/map/images/NewBusStop3.png','JOHNSTON AT BEAU CHENES APTS'];
-StopID25[ 57]=[25,226,30.21,-92.03088,'/map/images/NewBusStop3.png','JOHNSTON & RONALD'];
-StopID25[ 58]=[25,227,30.210494,-92.029036,'/map/images/NewBusStop3.png','JOHNSTON & CATHERINE'];
-StopID25[ 59]=[25,228,30.212125,-92.025473,'/map/images/NewBusStop3.png','JOHNSTON & E. LEWIS'];
-StopID25[ 60]=[25,229,30.21388,-92.02228,'/map/images/NewBusStop3.png','JOHNSTON AT FRENCH HOUSE'];
-StopID25[ 61]=[25,230,30.21515,-92.02102,'/map/images/NewBusStop3.png','JOHNSTON & MAXIM DOUCET HALL'];
-StopID25[ 62]=[25,231,30.21638,-92.01983,'/map/images/NewBusStop3.png','JOHNSTON AT GIRARD HALL'];
-StopID25[ 63]=[25,232,30.218445,-92.018162,'/map/images/NewBusStop3.png','JOHNSTON & GEN. MOUTON - STOP 2'];
-StopID25[ 64]=[25,233,30.22043,-92.01691,'/map/images/NewBusStop3.png','JOHNSTON & E. CONVENT'];
-StopID25[ 65]=[25,234,30.221123,-92.016458,'/map/images/NewBusStop3.png','JOHNSTON & STEWART - STOP 2'];
-StopID25[ 66]=[25,235,30.221831,-92.016006,'/map/images/NewBusStop3.png','JOHNSTON & E. MAIN - STOP 2'];
-StopID25[ 67]=[25,236,30.222956,-92.015276,'/map/images/NewBusStop3.png','JOHNSTON & E. VERMILION'];
-StopID25[ 68]=[25,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
+25,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
+25,169,30.223256,-92.015313,'/map/images/NewBusStop3.png','JOHNSTON & E. VERMILLION'
+25,170,30.222078,-92.016062,'/map/images/NewBusStop3.png','JOHNSTON & E. MAIN'
+25,171,30.221356,-92.016508,'/map/images/NewBusStop3.png','JOHNSTON & STEWART'
+25,172,30.22032,-92.01715,'/map/images/NewBusStop3.png','JOHNSTON & JEFFERSON'
+25,173,30.218728,-92.018214,'/map/images/NewBusStop3.png','JOHNSTON & GEN. MOUTON'
+25,174,30.21695,-92.01938,'/map/images/NewBusStop3.png','JOHNSTON & U.L. HOUSE'
+25,175,30.2146,-92.02174,'/map/images/NewBusStop3.png','JOHNSTON & ST MARY'
+25,176,30.212392,-92.025477,'/map/images/NewBusStop3.png','JOHNSTON & W. LEWIS'
+25,177,30.21163,-92.026903,'/map/images/NewBusStop3.png','JOHNSTON & ST. JULIEN'
+25,178,30.21048,-92.02978,'/map/images/NewBusStop3.png','JOHNSTON AT UL HORTICULTURE CNTR'
+25,179,30.21002,-92.031438,'/map/images/NewBusStop3.png','JOHNSTON & COLISEUM'
+25,180,30.208878,-92.035229,'/map/images/NewBusStop3.png','JOHNSTON & ST. CHRISTOPHER'
+25,181,30.207916,-92.037555,'/map/images/NewBusStop3.png','JOHNSTON AT ALBERTSONS'
+25,182,30.2069,-92.0391,'/map/images/NewBusStop3.png','JOHNSTON & MEAUX'
+25,183,30.20598,-92.04068,'/map/images/NewBusStop3.png','JOHNSTON & BERTRAND'
+25,184,30.20499,-92.04266,'/map/images/NewBusStop3.png','JOHNSTON AT CYCLE GEAR'
+25,185,30.20458,-92.04419,'/map/images/NewBusStop3.png','JOHNSTON & HOLDEN'
+25,186,30.20376,-92.04775,'/map/images/NewBusStop3.png','JOHNSTON AT FUN JUMPS'
+25,187,30.20309,-92.0503,'/map/images/NewBusStop3.png','JOHNSTON & TREEHAVEN'
+25,188,30.20235,-92.05228,'/map/images/NewBusStop3.png','JOHNSTON & FOREMAN'
+25,189,30.20146,-92.05391,'/map/images/NewBusStop3.png','JOHNSTON & MARIE ANTOINETTE'
+25,190,30.19922,-92.05565,'/map/images/NewBusStop3.png','JOHNSTON & WESTCHESTER'
+25,191,30.19701,-92.05674,'/map/images/NewBusStop3.png','JOHNSTON & MIMOSA'
+25,192,30.19496,-92.05781,'/map/images/NewBusStop3.png','JOHNSTON AT AUTOZONE'
+25,193,30.19259,-92.05992,'/map/images/NewBusStop3.png','JOHNSTON AT FIESTA VILLAGE'
+25,194,30.19019,-92.06232,'/map/images/NewBusStop3.png','JOHNSTON AT OFFICE DEPOT'
+25,195,30.18896,-92.06359,'/map/images/NewBusStop3.png','JOHNSTON & LANA'
+25,196,30.18724,-92.06534,'/map/images/NewBusStop3.png','JOHNSTON AT RITE-AID'
+25,197,30.1847,-92.06794,'/map/images/NewBusStop3.png','JOHNSTON AT DOUG ASHYS'
+25,198,30.18263,-92.07018,'/map/images/NewBusStop3.png','JOHNSTON & WESTMARK'
+25,199,30.180214,-92.072678,'/map/images/NewBusStop3.png','JOHNSTON AT CENTERPIECE CENTER'
+25,753,30.176851,-92.073229,'/map/images/NewBusStop3.png','AMB. CAFFERY @ LAFAYETTE SHOOTERS'
+25,754,30.17507,-92.071074,'/map/images/NewBusStop3.png','AMB. CAFFERY @ TSUBAKI'
+25,755,30.173218,-92.068831,'/map/images/NewBusStop3.png','AMB. CAFFERY @ UHAUL STORAGE'
+25,756,30.164767,-92.073245,'/map/images/NewBusStop3.png','ROBLEY @ ANSLEY WALK APPT'
+25,757,30.165807,-92.082159,'/map/images/NewBusStop3.png','SOUTH CITY PKWY @ SOUTH LIBRARY'
+25,758,30.171507,-92.080662,'/map/images/NewBusStop3.png','JOHNSTON ST @ RESERVE DR'
+25,759,30.173198,-92.079162,'/map/images/NewBusStop3.png','JOHNSTON ST @ GOUDCHAUX DR'
+25,760,30.175832,-92.076507,'/map/images/NewBusStop3.png','JOHNSTON ST @ PEP BOYS'
+25,761,30.178964,-92.07346,'/map/images/NewBusStop3.png','JOHNSTON ST @ TIME PLAZA'
+25,210,30.18316,-92.06931,'/map/images/NewBusStop3.png','JOHNSTON AT HYUNDAI'
+25,211,30.18456,-92.0679,'/map/images/NewBusStop3.png','JOHNSTON & GEINEVIEVE'
+25,212,30.18649,-92.06593,'/map/images/NewBusStop3.png','JOHNSTON & GRAND'
+25,213,30.188701,-92.063556,'/map/images/NewBusStop3.png','JOHNSTON & LANA - STOP 2'
+25,214,30.19009,-92.06221,'/map/images/NewBusStop3.png','JOHNSTON AT PRINCESS NAILS'
+25,215,30.19212,-92.060049,'/map/images/NewBusStop3.png','JOHNSTON AT GATTI TOWN'
+25,216,30.19425,-92.05812,'/map/images/NewBusStop3.png','JOHNSTON & RENA'
+25,217,30.19569,-92.05723,'/map/images/NewBusStop3.png','JOHNSTON & BRENTWOOD'
+25,218,30.1987,-92.0558,'/map/images/NewBusStop3.png','JOHNSTON & MARILYN'
+25,219,30.1996,-92.05531,'/map/images/NewBusStop3.png','JOHNSTON AT ASBURY CHURCH'
+25,220,30.20144,-92.05372,'/map/images/NewBusStop3.png','JOHNSTON & ROSELAWN'
+25,221,30.20361,-92.04775,'/map/images/NewBusStop3.png','JOHNSTON AT GRAND THEATER'
+25,222,30.20417,-92.04542,'/map/images/NewBusStop3.png','JOHNSTON AT RIVERSTONE APTS.'
+25,223,30.20553,-92.04116,'/map/images/NewBusStop3.png','JOHNSTON & BERTRAND - STOP 2'
+25,224,30.208193,-92.036514,'/map/images/NewBusStop3.png','JOHNSTON & WEDGEWOOD'
+25,225,30.20877,-92.03487,'/map/images/NewBusStop3.png','JOHNSTON AT BEAU CHENES APTS'
+25,226,30.21,-92.03088,'/map/images/NewBusStop3.png','JOHNSTON & RONALD'
+25,227,30.210494,-92.029036,'/map/images/NewBusStop3.png','JOHNSTON & CATHERINE'
+25,228,30.212125,-92.025473,'/map/images/NewBusStop3.png','JOHNSTON & E. LEWIS'
+25,229,30.21388,-92.02228,'/map/images/NewBusStop3.png','JOHNSTON AT FRENCH HOUSE'
+25,230,30.21515,-92.02102,'/map/images/NewBusStop3.png','JOHNSTON & MAXIM DOUCET HALL'
+25,231,30.21638,-92.01983,'/map/images/NewBusStop3.png','JOHNSTON AT GIRARD HALL'
+25,232,30.218445,-92.018162,'/map/images/NewBusStop3.png','JOHNSTON & GEN. MOUTON - STOP 2'
+25,233,30.22043,-92.01691,'/map/images/NewBusStop3.png','JOHNSTON & E. CONVENT'
+25,234,30.221123,-92.016458,'/map/images/NewBusStop3.png','JOHNSTON & STEWART - STOP 2'
+25,235,30.221831,-92.016006,'/map/images/NewBusStop3.png','JOHNSTON & E. MAIN - STOP 2'
+25,236,30.222956,-92.015276,'/map/images/NewBusStop3.png','JOHNSTON & E. VERMILION'
+25,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
 
-StopID30[ 0]=[30,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
-StopID30[ 1]=[30,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'];
-StopID30[ 2]=[30,238,30.224155,-92.016571,'/map/images/NewBusStop3.png','LEE & VERMILION'];
-StopID30[ 3]=[30,239,30.222984,-92.017333,'/map/images/NewBusStop3.png','LEE & MAIN'];
-StopID30[ 4]=[30,240,30.22192,-92.01824,'/map/images/NewBusStop3.png','LEE AT CITY COUR'];
-StopID30[ 5]=[30,241,30.219252,-92.019963,'/map/images/NewBusStop3.png','LEE & AVE B'];
-StopID30[ 6]=[30,242,30.220425,-92.023004,'/map/images/NewBusStop3.png','UNIVERSITY & ST JOHN'];
-StopID30[ 7]=[30,244,30.224411,-92.027046,'/map/images/NewBusStop3.png','UNIVERSITY & VERSAILLES'];
-StopID30[ 8]=[30,245,30.225863,-92.028009,'/map/images/NewBusStop3.png','UNIVERSITY & CONGRESS'];
-StopID30[ 9]=[30,246,30.227516,-92.029147,'/map/images/NewBusStop3.png','UNIVERSITY & OAKLAWN'];
-StopID30[ 10]=[30,247,30.229232,-92.030319,'/map/images/NewBusStop3.png','UNIVERSITY & SIMCOE'];
-StopID30[ 11]=[30,248,30.231272,-92.031695,'/map/images/NewBusStop3.png','UNIVERSITY & JEANNE'];
-StopID30[ 12]=[30,249,30.232085,-92.032139,'/map/images/NewBusStop3.png','UNIVERSITY & CAMERON'];
-StopID30[ 13]=[30,250,30.237032,-92.032313,'/map/images/NewBusStop3.png','UNIVERSITY & PORTLOCK'];
-StopID30[ 14]=[30,251,30.23862,-92.03235,'/map/images/NewBusStop3.png','UNIVERSITY & MADELINE'];
-StopID30[ 15]=[30,252,30.240302,-92.032337,'/map/images/NewBusStop3.png','UNIVERSITY & ARTHUR'];
-StopID30[ 16]=[30,253,30.242954,-92.032331,'/map/images/NewBusStop3.png','UNIVERSITY & GILMAN'];
-StopID30[ 17]=[30,254,30.24601,-92.03338,'/map/images/NewBusStop3.png','UNIVERSITY & WILSHIRE'];
-StopID30[ 18]=[30,255,30.24915,-92.03472,'/map/images/NewBusStop3.png','MLK & HOLLYWOOD'];
-StopID30[ 19]=[30,256,30.250439,-92.034956,'/map/images/NewBusStop3.png','MLK & DAYS INN'];
-StopID30[ 20]=[30,257,30.250295,-92.031503,'/map/images/NewBusStop3.png','MLK & COOPER'];
-StopID30[ 21]=[30,258,30.250043,-92.029395,'/map/images/NewBusStop3.png','MLK & TOWNHOMES'];
-StopID30[ 22]=[30,259,30.249872,-92.027936,'/map/images/NewBusStop3.png','MLK & FOOT'];
-StopID30[ 23]=[30,261,30.248891,-92.025386,'/map/images/NewBusStop3.png','ST. ANTOINE & MLK'];
-StopID30[ 24]=[30,262,30.243935,-92.023686,'/map/images/NewBusStop3.png','ST. ANTOINE & BOSSIER'];
-StopID30[ 25]=[30,263,30.242116,-92.024135,'/map/images/NewBusStop3.png','ST. ANTOINE & GILMAN'];
-StopID30[ 26]=[30,264,30.242239,-92.025614,'/map/images/NewBusStop3.png','GILMAN & FRIENDSHIP'];
-StopID30[ 27]=[30,265,30.24249,-92.02783,'/map/images/NewBusStop3.png','GILMAN & CORA'];
-StopID30[ 28]=[30,266,30.24294,-92.031235,'/map/images/NewBusStop3.png','GILMAN & KENNEDY'];
-StopID30[ 29]=[30,306,30.24153,-92.03248,'/map/images/NewBusStop3.png','UNIVERSITY & KEELING'];
-StopID30[ 30]=[30,268,30.239169,-92.032565,'/map/images/NewBusStop3.png','UNIVERSITY & MADELINE STOP 2'];
-StopID30[ 31]=[30,269,30.23738,-92.03251,'/map/images/NewBusStop3.png','UNIVERSITY & PORTLOCK STOP 2'];
-StopID30[ 32]=[30,270,30.231584,-92.03215,'/map/images/NewBusStop3.png','UNIVERSITY & JEANNE STOP 2'];
-StopID30[ 33]=[30,271,30.22932,-92.030555,'/map/images/NewBusStop3.png','UNIVERSITY & AGNES'];
-StopID30[ 34]=[30,272,30.227555,-92.029352,'/map/images/NewBusStop3.png','UNIVERSITY & OAKLAWN STOP 2'];
-StopID30[ 35]=[30,273,30.224693,-92.027425,'/map/images/NewBusStop3.png','UNIVERSITY & VERSAILLES'];
-StopID30[ 36]=[30,274,30.222271,-92.025849,'/map/images/NewBusStop3.png','UNIVERSITY & PARKSIDE'];
-StopID30[ 37]=[30,275,30.220726,-92.023753,'/map/images/NewBusStop3.png','UNIVERSITY & ST. LANDRY STOP 2'];
-StopID30[ 38]=[30,276,30.219247,-92.019793,'/map/images/NewBusStop3.png','LEE & AVE B'];
-StopID30[ 39]=[30,277,30.22095,-92.018961,'/map/images/NewBusStop3.png','LEE & JEFFERSON'];
-StopID30[ 40]=[30,278,30.222771,-92.017299,'/map/images/NewBusStop3.png','LEE & MAIN STOP 2'];
-StopID30[ 41]=[30,279,30.223924,-92.016546,'/map/images/NewBusStop3.png','LEE & VERMILION STOP 2'];
-StopID30[ 42]=[30,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
+30,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
+30,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'
+30,238,30.224155,-92.016571,'/map/images/NewBusStop3.png','LEE & VERMILION'
+30,239,30.222984,-92.017333,'/map/images/NewBusStop3.png','LEE & MAIN'
+30,240,30.22192,-92.01824,'/map/images/NewBusStop3.png','LEE AT CITY COUR'
+30,241,30.219252,-92.019963,'/map/images/NewBusStop3.png','LEE & AVE B'
+30,242,30.220425,-92.023004,'/map/images/NewBusStop3.png','UNIVERSITY & ST JOHN'
+30,244,30.224411,-92.027046,'/map/images/NewBusStop3.png','UNIVERSITY & VERSAILLES'
+30,245,30.225863,-92.028009,'/map/images/NewBusStop3.png','UNIVERSITY & CONGRESS'
+30,246,30.227516,-92.029147,'/map/images/NewBusStop3.png','UNIVERSITY & OAKLAWN'
+30,247,30.229232,-92.030319,'/map/images/NewBusStop3.png','UNIVERSITY & SIMCOE'
+30,248,30.231272,-92.031695,'/map/images/NewBusStop3.png','UNIVERSITY & JEANNE'
+30,249,30.232085,-92.032139,'/map/images/NewBusStop3.png','UNIVERSITY & CAMERON'
+30,250,30.237032,-92.032313,'/map/images/NewBusStop3.png','UNIVERSITY & PORTLOCK'
+30,251,30.23862,-92.03235,'/map/images/NewBusStop3.png','UNIVERSITY & MADELINE'
+30,252,30.240302,-92.032337,'/map/images/NewBusStop3.png','UNIVERSITY & ARTHUR'
+30,253,30.242954,-92.032331,'/map/images/NewBusStop3.png','UNIVERSITY & GILMAN'
+30,254,30.24601,-92.03338,'/map/images/NewBusStop3.png','UNIVERSITY & WILSHIRE'
+30,255,30.24915,-92.03472,'/map/images/NewBusStop3.png','MLK & HOLLYWOOD'
+30,256,30.250439,-92.034956,'/map/images/NewBusStop3.png','MLK & DAYS INN'
+30,257,30.250295,-92.031503,'/map/images/NewBusStop3.png','MLK & COOPER'
+30,258,30.250043,-92.029395,'/map/images/NewBusStop3.png','MLK & TOWNHOMES'
+30,259,30.249872,-92.027936,'/map/images/NewBusStop3.png','MLK & FOOT'
+30,261,30.248891,-92.025386,'/map/images/NewBusStop3.png','ST. ANTOINE & MLK'
+30,262,30.243935,-92.023686,'/map/images/NewBusStop3.png','ST. ANTOINE & BOSSIER'
+30,263,30.242116,-92.024135,'/map/images/NewBusStop3.png','ST. ANTOINE & GILMAN'
+30,264,30.242239,-92.025614,'/map/images/NewBusStop3.png','GILMAN & FRIENDSHIP'
+30,265,30.24249,-92.02783,'/map/images/NewBusStop3.png','GILMAN & CORA'
+30,266,30.24294,-92.031235,'/map/images/NewBusStop3.png','GILMAN & KENNEDY'
+30,306,30.24153,-92.03248,'/map/images/NewBusStop3.png','UNIVERSITY & KEELING'
+30,268,30.239169,-92.032565,'/map/images/NewBusStop3.png','UNIVERSITY & MADELINE STOP 2'
+30,269,30.23738,-92.03251,'/map/images/NewBusStop3.png','UNIVERSITY & PORTLOCK STOP 2'
+30,270,30.231584,-92.03215,'/map/images/NewBusStop3.png','UNIVERSITY & JEANNE STOP 2'
+30,271,30.22932,-92.030555,'/map/images/NewBusStop3.png','UNIVERSITY & AGNES'
+30,272,30.227555,-92.029352,'/map/images/NewBusStop3.png','UNIVERSITY & OAKLAWN STOP 2'
+30,273,30.224693,-92.027425,'/map/images/NewBusStop3.png','UNIVERSITY & VERSAILLES'
+30,274,30.222271,-92.025849,'/map/images/NewBusStop3.png','UNIVERSITY & PARKSIDE'
+30,275,30.220726,-92.023753,'/map/images/NewBusStop3.png','UNIVERSITY & ST. LANDRY STOP 2'
+30,276,30.219247,-92.019793,'/map/images/NewBusStop3.png','LEE & AVE B'
+30,277,30.22095,-92.018961,'/map/images/NewBusStop3.png','LEE & JEFFERSON'
+30,278,30.222771,-92.017299,'/map/images/NewBusStop3.png','LEE & MAIN STOP 2'
+30,279,30.223924,-92.016546,'/map/images/NewBusStop3.png','LEE & VERMILION STOP 2'
+30,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
 
-StopID35[ 0]=[35,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
-StopID35[ 1]=[35,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'];
-StopID35[ 2]=[35,42,30.228834,-92.01653,'/map/images/NewBusStop3.png','CYPRESS & 2ND'];
-StopID35[ 3]=[35,43,30.228279,-92.018298,'/map/images/NewBusStop3.png','W CONGRESS AT S. PIERCE'];
-StopID35[ 4]=[35,44,30.227029,-92.020701,'/map/images/NewBusStop3.png','W CONGRESS & LAFAYETTE'];
-StopID35[ 5]=[35,45,30.227039,-92.022703,'/map/images/NewBusStop3.png','W CONGRESS & ST JOHN'];
-StopID35[ 6]=[35,46,30.22724,-92.02401,'/map/images/NewBusStop3.png','W CONGRESS & S. BIENVILLE'];
-StopID35[ 7]=[35,282,30.22802,-92.02488,'/map/images/NewBusStop3.png','ST. ANTOINE & VOORHIES'];
-StopID35[ 8]=[35,283,30.230407,-92.02487,'/map/images/NewBusStop3.png','ST. ANTOINE & SIMCOE'];
-StopID35[ 9]=[35,284,30.23189,-92.0249,'/map/images/NewBusStop3.png','ST. ANTOINE & CAMERON'];
-StopID35[ 10]=[35,285,30.233,-92.02491,'/map/images/NewBusStop3.png','ST. ANTOINE & HOPKINS'];
-StopID35[ 11]=[35,286,30.23454,-92.0249,'/map/images/NewBusStop3.png','ST. ANTOINE & MORGAN'];
-StopID35[ 12]=[35,287,30.23603,-92.02487,'/map/images/NewBusStop3.png','ST. ANTOINE & MORSE'];
-StopID35[ 13]=[35,288,30.23714,-92.02487,'/map/images/NewBusStop3.png','ST. ANTOINE & DEWEY'];
-StopID35[ 14]=[35,289,30.23834,-92.02606,'/map/images/NewBusStop3.png','MADELINE & HELEN'];
-StopID35[ 15]=[35,290,30.23867,-92.02886,'/map/images/NewBusStop3.png','MADELINE & JACK'];
-StopID35[ 16]=[35,291,30.23912,-92.03185,'/map/images/NewBusStop3.png','MADELINE & IRENE'];
-StopID35[ 17]=[35,269,30.23738,-92.03251,'/map/images/NewBusStop3.png','UNIVERSITY & PORTLOCK STOP 2'];
-StopID35[ 18]=[35,292,30.235719,-92.035359,'/map/images/NewBusStop3.png','WALKER RD & TOURNOIR'];
-StopID35[ 19]=[35,293,30.2357,-92.03611,'/map/images/NewBusStop3.png','WALKER RD & NEWPORT'];
-StopID35[ 20]=[35,294,30.2357,-92.03744,'/map/images/NewBusStop3.png','WALKER RD & LEROY'];
-StopID35[ 21]=[35,295,30.23615,-92.03921,'/map/images/NewBusStop3.png','ORCHID AT HOUSE 501'];
-StopID35[ 22]=[35,296,30.23783,-92.03902,'/map/images/NewBusStop3.png','ORCHID & DAISY'];
-StopID35[ 23]=[35,297,30.23978,-92.03972,'/map/images/NewBusStop3.png','ORCHID & MARIGOLD'];
-StopID35[ 24]=[35,298,30.2413,-92.04015,'/map/images/NewBusStop3.png','ORCHID & DAFFODIL LOOP'];
-StopID35[ 25]=[35,299,30.24303,-92.0409,'/map/images/NewBusStop3.png','ORCHID & ASTER'];
-StopID35[ 26]=[35,300,30.24433,-92.04191,'/map/images/NewBusStop3.png','ASTER & WILLOW'];
-StopID35[ 27]=[35,301,30.24457,-92.03922,'/map/images/NewBusStop3.png','WILLOW AT RUSSELLS SPECIALTY'];
-StopID35[ 28]=[35,302,30.24446,-92.03851,'/map/images/NewBusStop3.png','WILLOW AT ASH INDUSTRIES'];
-StopID35[ 29]=[35,303,30.24431,-92.03679,'/map/images/NewBusStop3.png','WILLOW AT WILLOWBROOKE II'];
-StopID35[ 30]=[35,304,30.24414,-92.03554,'/map/images/NewBusStop3.png','WILLOW AT WILLOWBROOKE'];
-StopID35[ 31]=[35,305,30.24305,-92.03251,'/map/images/NewBusStop3.png','UNIVERSITY & GILMAN'];
-StopID35[ 32]=[35,306,30.24153,-92.03248,'/map/images/NewBusStop3.png','UNIVERSITY & KEELING'];
-StopID35[ 33]=[35,307,30.238409,-92.02746,'/map/images/NewBusStop3.png','MADELINE & CELESTE'];
-StopID35[ 34]=[35,308,30.23815,-92.02517,'/map/images/NewBusStop3.png','MADELINE & ST. ANTOINE'];
-StopID35[ 35]=[35,309,30.2372,-92.02499,'/map/images/NewBusStop3.png','ST. ANTOINE & MARIE'];
-StopID35[ 36]=[35,310,30.23527,-92.02499,'/map/images/NewBusStop3.png','ST. ANTOINE & HUVAL'];
-StopID35[ 37]=[35,311,30.23212,-92.02498,'/map/images/NewBusStop3.png','ST. ANTOINE & CAMERON - STOP 2'];
-StopID35[ 38]=[35,312,30.23068,-92.02498,'/map/images/NewBusStop3.png','ST. ANTOINE & SIMCOE - STOP 2'];
-StopID35[ 39]=[35,313,30.22833,-92.02498,'/map/images/NewBusStop3.png','ST. ANTOINE & VOORHIES - STOP 2'];
-StopID35[ 40]=[35,101,30.226902,-92.02302,'/map/images/NewBusStop3.png','W CONGRESS & ST JOHN - STOP 2'];
-StopID35[ 41]=[35,102,30.227246,-92.019232,'/map/images/NewBusStop3.png','CONGRESS & E. CONGRESS'];
-StopID35[ 42]=[35,103,30.227785,-92.016129,'/map/images/NewBusStop3.png','CYPRESS & JEFFERSON'];
-StopID35[ 43]=[35,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
+35,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
+35,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'
+35,42,30.228834,-92.01653,'/map/images/NewBusStop3.png','CYPRESS & 2ND'
+35,43,30.228279,-92.018298,'/map/images/NewBusStop3.png','W CONGRESS AT S. PIERCE'
+35,44,30.227029,-92.020701,'/map/images/NewBusStop3.png','W CONGRESS & LAFAYETTE'
+35,45,30.227039,-92.022703,'/map/images/NewBusStop3.png','W CONGRESS & ST JOHN'
+35,46,30.22724,-92.02401,'/map/images/NewBusStop3.png','W CONGRESS & S. BIENVILLE'
+35,282,30.22802,-92.02488,'/map/images/NewBusStop3.png','ST. ANTOINE & VOORHIES'
+35,283,30.230407,-92.02487,'/map/images/NewBusStop3.png','ST. ANTOINE & SIMCOE'
+35,284,30.23189,-92.0249,'/map/images/NewBusStop3.png','ST. ANTOINE & CAMERON'
+35,285,30.233,-92.02491,'/map/images/NewBusStop3.png','ST. ANTOINE & HOPKINS'
+35,286,30.23454,-92.0249,'/map/images/NewBusStop3.png','ST. ANTOINE & MORGAN'
+35,287,30.23603,-92.02487,'/map/images/NewBusStop3.png','ST. ANTOINE & MORSE'
+35,288,30.23714,-92.02487,'/map/images/NewBusStop3.png','ST. ANTOINE & DEWEY'
+35,289,30.23834,-92.02606,'/map/images/NewBusStop3.png','MADELINE & HELEN'
+35,290,30.23867,-92.02886,'/map/images/NewBusStop3.png','MADELINE & JACK'
+35,291,30.23912,-92.03185,'/map/images/NewBusStop3.png','MADELINE & IRENE'
+35,269,30.23738,-92.03251,'/map/images/NewBusStop3.png','UNIVERSITY & PORTLOCK STOP 2'
+35,292,30.235719,-92.035359,'/map/images/NewBusStop3.png','WALKER RD & TOURNOIR'
+35,293,30.2357,-92.03611,'/map/images/NewBusStop3.png','WALKER RD & NEWPORT'
+35,294,30.2357,-92.03744,'/map/images/NewBusStop3.png','WALKER RD & LEROY'
+35,295,30.23615,-92.03921,'/map/images/NewBusStop3.png','ORCHID AT HOUSE 501'
+35,296,30.23783,-92.03902,'/map/images/NewBusStop3.png','ORCHID & DAISY'
+35,297,30.23978,-92.03972,'/map/images/NewBusStop3.png','ORCHID & MARIGOLD'
+35,298,30.2413,-92.04015,'/map/images/NewBusStop3.png','ORCHID & DAFFODIL LOOP'
+35,299,30.24303,-92.0409,'/map/images/NewBusStop3.png','ORCHID & ASTER'
+35,300,30.24433,-92.04191,'/map/images/NewBusStop3.png','ASTER & WILLOW'
+35,301,30.24457,-92.03922,'/map/images/NewBusStop3.png','WILLOW AT RUSSELLS SPECIALTY'
+35,302,30.24446,-92.03851,'/map/images/NewBusStop3.png','WILLOW AT ASH INDUSTRIES'
+35,303,30.24431,-92.03679,'/map/images/NewBusStop3.png','WILLOW AT WILLOWBROOKE II'
+35,304,30.24414,-92.03554,'/map/images/NewBusStop3.png','WILLOW AT WILLOWBROOKE'
+35,305,30.24305,-92.03251,'/map/images/NewBusStop3.png','UNIVERSITY & GILMAN'
+35,306,30.24153,-92.03248,'/map/images/NewBusStop3.png','UNIVERSITY & KEELING'
+35,307,30.238409,-92.02746,'/map/images/NewBusStop3.png','MADELINE & CELESTE'
+35,308,30.23815,-92.02517,'/map/images/NewBusStop3.png','MADELINE & ST. ANTOINE'
+35,309,30.2372,-92.02499,'/map/images/NewBusStop3.png','ST. ANTOINE & MARIE'
+35,310,30.23527,-92.02499,'/map/images/NewBusStop3.png','ST. ANTOINE & HUVAL'
+35,311,30.23212,-92.02498,'/map/images/NewBusStop3.png','ST. ANTOINE & CAMERON - STOP 2'
+35,312,30.23068,-92.02498,'/map/images/NewBusStop3.png','ST. ANTOINE & SIMCOE - STOP 2'
+35,313,30.22833,-92.02498,'/map/images/NewBusStop3.png','ST. ANTOINE & VOORHIES - STOP 2'
+35,101,30.226902,-92.02302,'/map/images/NewBusStop3.png','W CONGRESS & ST JOHN - STOP 2'
+35,102,30.227246,-92.019232,'/map/images/NewBusStop3.png','CONGRESS & E. CONGRESS'
+35,103,30.227785,-92.016129,'/map/images/NewBusStop3.png','CYPRESS & JEFFERSON'
+35,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
 
-StopID45[ 0]=[45,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
-StopID45[ 1]=[45,315,30.228506,-92.012655,'/map/images/NewBusStop3.png','JEFFERSON & SW THRUWAY'];
-StopID45[ 2]=[45,316,30.229245,-92.010865,'/map/images/NewBusStop3.png','JEFFERSON & S ORANGE'];
-StopID45[ 3]=[45,317,30.229608,-92.009979,'/map/images/NewBusStop3.png','JEFFERSON & S. STERLING'];
-StopID45[ 4]=[45,318,30.23238,-92.00876,'/map/images/NewBusStop3.png','MOSS & MUDD'];
-StopID45[ 5]=[45,319,30.23427,-92.00839,'/map/images/NewBusStop3.png','MOSS & CHOPIN'];
-StopID45[ 6]=[45,320,30.23697,-92.0078,'/map/images/NewBusStop3.png','MOSS & TISSINGTON'];
-StopID45[ 7]=[45,321,30.23987,-92.00715,'/map/images/NewBusStop3.png','MOSS & DEVA'];
-StopID45[ 8]=[45,322,30.24105,-92.00764,'/map/images/NewBusStop3.png','MOSS & CHAPPIUS'];
-StopID45[ 9]=[45,323,30.24165,-92.01174,'/map/images/NewBusStop3.png','CHAPPIUS & NE FRONTAGE'];
-StopID45[ 10]=[45,324,30.24391,-92.01128,'/map/images/NewBusStop3.png','NE FRONTAGE AT MCDONALDS'];
-StopID45[ 11]=[45,325,30.24425,-92.00991,'/map/images/NewBusStop3.png','WILLOW & ARMENTOR'];
-StopID45[ 12]=[45,326,30.24374,-92.0066,'/map/images/NewBusStop3.png','WILLOW & MOSS'];
-StopID45[ 13]=[45,791,30.245789,-92.006142,'/map/images/NewBusStop3.png','Moss at Pine - Northside Engine'];
-StopID45[ 14]=[45,781,30.248444,-92.007132,'/map/images/NewBusStop3.png','CASTILLE AT NORTHGATE MALL'];
-StopID45[ 15]=[45,782,30.24888,-92.010072,'/map/images/NewBusStop3.png','CASTILLE AT WILLOW CHARTER ACADEMY'];
-StopID45[ 16]=[45,783,30.250273,-92.013065,'/map/images/NewBusStop3.png','FRONTAGE AT RAMADA'];
-StopID45[ 17]=[45,784,30.252751,-92.013626,'/map/images/NewBusStop3.png','FRONTAGE AT WAFFLE HOUSE'];
-StopID45[ 18]=[45,785,30.254477,-92.014029,'/map/images/NewBusStop3.png','FRONTAGE AT SUPER 8'];
-StopID45[ 19]=[45,786,30.255956,-92.013582,'/map/images/NewBusStop3.png','ALEXANDER & FRONTAGE'];
-StopID45[ 20]=[45,787,30.255763,-92.011563,'/map/images/NewBusStop3.png','ALEXANDER & DALE'];
-StopID45[ 21]=[45,788,30.255699,-92.010492,'/map/images/NewBusStop3.png','ALEXANDEDR & MACKLYN ST'];
-StopID45[ 22]=[45,789,30.255622,-92.007628,'/map/images/NewBusStop3.png','ALEXANDER & SONNY ST'];
-StopID45[ 23]=[45,790,30.2556,-92.006539,'/map/images/NewBusStop3.png','ALEXANDER & AZELIE ST'];
-StopID45[ 24]=[45,357,30.26101,-92.00723,'/map/images/NewBusStop3.png','MOSS & GLENHILL'];
-StopID45[ 25]=[45,356,30.26706,-92.00818,'/map/images/NewBusStop3.png','MOSS & MORELAN'];
-StopID45[ 26]=[45,355,30.268722,-92.008205,'/map/images/NewBusStop3.png','MOSS AT DOLLAR GENERAL'];
-StopID45[ 27]=[45,337,30.273563,-92.007986,'/map/images/NewBusStop3.png','MOSS AT WINN-DIXIE'];
-StopID45[ 28]=[45,338,30.27752,-92.01076,'/map/images/NewBusStop3.png','SIDNEY MARTIN AT CORNERSTONE'];
-StopID45[ 29]=[45,339,30.27648,-92.01382,'/map/images/NewBusStop3.png','TORONTO & MORNING GLORY'];
-StopID45[ 30]=[45,340,30.27629,-92.01568,'/map/images/NewBusStop3.png','TORONTO & HIGH MEADOWS'];
-StopID45[ 31]=[45,342,30.278629,-92.016094,'/map/images/NewBusStop3.png','HIGH MEADOWS & LARKSPUR'];
-StopID45[ 32]=[45,343,30.280188,-92.016617,'/map/images/NewBusStop3.png','HIGH MEADOWS & CLEMATIS'];
-StopID45[ 33]=[45,344,30.28881,-92.02245,'/map/images/NewBusStop3.png','NE FRONTAGE AT METRO BINGO'];
-StopID45[ 34]=[45,345,30.29333,-92.0237,'/map/images/NewBusStop3.png','NE FRONTAGE AT CHILLIS'];
-StopID45[ 35]=[45,346,30.29549,-92.02278,'/map/images/NewBusStop3.png','GLORIA SWITCH AT LOWES'];
-StopID45[ 36]=[45,347,30.295298,-92.019037,'/map/images/NewBusStop3.png','GLORIA SWITCH & AMESBURY'];
-StopID45[ 37]=[45,348,30.294,-92.00733,'/map/images/NewBusStop3.png','GLORIA SWITCH & MOSS'];
-StopID45[ 38]=[45,349,30.29238,-92.00718,'/map/images/NewBusStop3.png','MOSS & RAIN TREE TRAIL'];
-StopID45[ 39]=[45,350,30.28669,-92.0067,'/map/images/NewBusStop3.png','MOSS & BUTCHER SWITCH RD'];
-StopID45[ 40]=[45,351,30.28445,-92.00675,'/map/images/NewBusStop3.png','MOSS AT ACADIAN MIDDLE'];
-StopID45[ 41]=[45,352,30.28034,-92.00779,'/map/images/NewBusStop3.png','MOSS & NOVA SCOTIA'];
-StopID45[ 42]=[45,353,30.27713,-92.008,'/map/images/NewBusStop3.png','MOSS & SIDNEY MARTIN'];
-StopID45[ 43]=[45,336,30.27259,-91.99626,'/map/images/NewBusStop3.png','PONT DES MOUTON AT BROWN PARK'];
-StopID45[ 44]=[45,335,30.264116,-91.994118,'/map/images/NewBusStop3.png','LOUISIANA AVE & TARGET'];
-StopID45[ 45]=[45,334,30.26121,-91.995073,'/map/images/NewBusStop3.png','LOUISIANA AT ACADEMY'];
-StopID45[ 46]=[45,333,30.2565,-91.99929,'/map/images/NewBusStop3.png','LOUISIANA AT RAINTREE TOWNHOMES'];
-StopID45[ 47]=[45,487,30.255367,-92.000795,'/map/images/NewBusStop3.png','E ALEXANDER AT 327 E ALEXANDER'];
-StopID45[ 48]=[45,488,30.25564,-92.004675,'/map/images/NewBusStop3.png','E ALEXANDER & BREAUXS MART'];
-StopID45[ 49]=[45,489,30.254341,-92.005379,'/map/images/NewBusStop3.png','MOSS AT SOULIER'];
-StopID45[ 50]=[45,490,30.250794,-92.005594,'/map/images/NewBusStop3.png','MOSS & DUNAND'];
-StopID45[ 51]=[45,370,30.247105,-92.006183,'/map/images/NewBusStop3.png','MOSS AT NORTHGATE MALL'];
-StopID45[ 52]=[45,371,30.245606,-92.006345,'/map/images/NewBusStop3.png','MOSS and W. EVERGREEN'];
-StopID45[ 53]=[45,372,30.24395,-92.00648,'/map/images/NewBusStop3.png','MOSS & WILLOW'];
-StopID45[ 54]=[45,373,30.24309,-92.00659,'/map/images/NewBusStop3.png','MOSS AT CVS'];
-StopID45[ 55]=[45,374,30.24213,-92.00683,'/map/images/NewBusStop3.png','MOSS & CARLTON'];
-StopID45[ 56]=[45,375,30.24103,-92.00707,'/map/images/NewBusStop3.png','MOSS & CHAPPIUS - STOP 2'];
-StopID45[ 57]=[45,376,30.23963,-92.00734,'/map/images/NewBusStop3.png','MOSS & DONLON'];
-StopID45[ 58]=[45,377,30.23769,-92.00774,'/map/images/NewBusStop3.png','MOSS & SOPHIE'];
-StopID45[ 59]=[45,378,30.23616,-92.00809,'/map/images/NewBusStop3.png','MOSS & BELLOT'];
-StopID45[ 60]=[45,379,30.23455,-92.00847,'/map/images/NewBusStop3.png','MOSS & CHOPIN - STOP 2'];
-StopID45[ 61]=[45,380,30.23253,-92.00888,'/map/images/NewBusStop3.png','MOSS & MUDD - STOP 2'];
-StopID45[ 62]=[45,381,30.23076,-92.00918,'/map/images/NewBusStop3.png','MOSS & SIMCOE - STOP 2'];
-StopID45[ 63]=[45,382,30.229823,-92.009876,'/map/images/NewBusStop3.png','JEFFERSON & STERLING'];
-StopID45[ 64]=[45,383,30.229464,-92.010807,'/map/images/NewBusStop3.png','JEFFERSON & N ORANGE'];
-StopID45[ 65]=[45,384,30.22874,-92.01245,'/map/images/NewBusStop3.png','JEFFERSON & NW THRUWAY'];
-StopID45[ 66]=[45,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
+45,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
+45,315,30.228506,-92.012655,'/map/images/NewBusStop3.png','JEFFERSON & SW THRUWAY'
+45,316,30.229245,-92.010865,'/map/images/NewBusStop3.png','JEFFERSON & S ORANGE'
+45,317,30.229608,-92.009979,'/map/images/NewBusStop3.png','JEFFERSON & S. STERLING'
+45,318,30.23238,-92.00876,'/map/images/NewBusStop3.png','MOSS & MUDD'
+45,319,30.23427,-92.00839,'/map/images/NewBusStop3.png','MOSS & CHOPIN'
+45,320,30.23697,-92.0078,'/map/images/NewBusStop3.png','MOSS & TISSINGTON'
+45,321,30.23987,-92.00715,'/map/images/NewBusStop3.png','MOSS & DEVA'
+45,322,30.24105,-92.00764,'/map/images/NewBusStop3.png','MOSS & CHAPPIUS'
+45,323,30.24165,-92.01174,'/map/images/NewBusStop3.png','CHAPPIUS & NE FRONTAGE'
+45,324,30.24391,-92.01128,'/map/images/NewBusStop3.png','NE FRONTAGE AT MCDONALDS'
+45,325,30.24425,-92.00991,'/map/images/NewBusStop3.png','WILLOW & ARMENTOR'
+45,326,30.24374,-92.0066,'/map/images/NewBusStop3.png','WILLOW & MOSS'
+45,791,30.245789,-92.006142,'/map/images/NewBusStop3.png','Moss at Pine - Northside Engine'
+45,781,30.248444,-92.007132,'/map/images/NewBusStop3.png','CASTILLE AT NORTHGATE MALL'
+45,782,30.24888,-92.010072,'/map/images/NewBusStop3.png','CASTILLE AT WILLOW CHARTER ACADEMY'
+45,783,30.250273,-92.013065,'/map/images/NewBusStop3.png','FRONTAGE AT RAMADA'
+45,784,30.252751,-92.013626,'/map/images/NewBusStop3.png','FRONTAGE AT WAFFLE HOUSE'
+45,785,30.254477,-92.014029,'/map/images/NewBusStop3.png','FRONTAGE AT SUPER 8'
+45,786,30.255956,-92.013582,'/map/images/NewBusStop3.png','ALEXANDER & FRONTAGE'
+45,787,30.255763,-92.011563,'/map/images/NewBusStop3.png','ALEXANDER & DALE'
+45,788,30.255699,-92.010492,'/map/images/NewBusStop3.png','ALEXANDEDR & MACKLYN ST'
+45,789,30.255622,-92.007628,'/map/images/NewBusStop3.png','ALEXANDER & SONNY ST'
+45,790,30.2556,-92.006539,'/map/images/NewBusStop3.png','ALEXANDER & AZELIE ST'
+45,357,30.26101,-92.00723,'/map/images/NewBusStop3.png','MOSS & GLENHILL'
+45,356,30.26706,-92.00818,'/map/images/NewBusStop3.png','MOSS & MORELAN'
+45,355,30.268722,-92.008205,'/map/images/NewBusStop3.png','MOSS AT DOLLAR GENERAL'
+45,337,30.273563,-92.007986,'/map/images/NewBusStop3.png','MOSS AT WINN-DIXIE'
+45,338,30.27752,-92.01076,'/map/images/NewBusStop3.png','SIDNEY MARTIN AT CORNERSTONE'
+45,339,30.27648,-92.01382,'/map/images/NewBusStop3.png','TORONTO & MORNING GLORY'
+45,340,30.27629,-92.01568,'/map/images/NewBusStop3.png','TORONTO & HIGH MEADOWS'
+45,342,30.278629,-92.016094,'/map/images/NewBusStop3.png','HIGH MEADOWS & LARKSPUR'
+45,343,30.280188,-92.016617,'/map/images/NewBusStop3.png','HIGH MEADOWS & CLEMATIS'
+45,344,30.28881,-92.02245,'/map/images/NewBusStop3.png','NE FRONTAGE AT METRO BINGO'
+45,345,30.29333,-92.0237,'/map/images/NewBusStop3.png','NE FRONTAGE AT CHILLIS'
+45,346,30.29549,-92.02278,'/map/images/NewBusStop3.png','GLORIA SWITCH AT LOWES'
+45,347,30.295298,-92.019037,'/map/images/NewBusStop3.png','GLORIA SWITCH & AMESBURY'
+45,348,30.294,-92.00733,'/map/images/NewBusStop3.png','GLORIA SWITCH & MOSS'
+45,349,30.29238,-92.00718,'/map/images/NewBusStop3.png','MOSS & RAIN TREE TRAIL'
+45,350,30.28669,-92.0067,'/map/images/NewBusStop3.png','MOSS & BUTCHER SWITCH RD'
+45,351,30.28445,-92.00675,'/map/images/NewBusStop3.png','MOSS AT ACADIAN MIDDLE'
+45,352,30.28034,-92.00779,'/map/images/NewBusStop3.png','MOSS & NOVA SCOTIA'
+45,353,30.27713,-92.008,'/map/images/NewBusStop3.png','MOSS & SIDNEY MARTIN'
+45,336,30.27259,-91.99626,'/map/images/NewBusStop3.png','PONT DES MOUTON AT BROWN PARK'
+45,335,30.264116,-91.994118,'/map/images/NewBusStop3.png','LOUISIANA AVE & TARGET'
+45,334,30.26121,-91.995073,'/map/images/NewBusStop3.png','LOUISIANA AT ACADEMY'
+45,333,30.2565,-91.99929,'/map/images/NewBusStop3.png','LOUISIANA AT RAINTREE TOWNHOMES'
+45,487,30.255367,-92.000795,'/map/images/NewBusStop3.png','E ALEXANDER AT 327 E ALEXANDER'
+45,488,30.25564,-92.004675,'/map/images/NewBusStop3.png','E ALEXANDER & BREAUXS MART'
+45,489,30.254341,-92.005379,'/map/images/NewBusStop3.png','MOSS AT SOULIER'
+45,490,30.250794,-92.005594,'/map/images/NewBusStop3.png','MOSS & DUNAND'
+45,370,30.247105,-92.006183,'/map/images/NewBusStop3.png','MOSS AT NORTHGATE MALL'
+45,371,30.245606,-92.006345,'/map/images/NewBusStop3.png','MOSS and W. EVERGREEN'
+45,372,30.24395,-92.00648,'/map/images/NewBusStop3.png','MOSS & WILLOW'
+45,373,30.24309,-92.00659,'/map/images/NewBusStop3.png','MOSS AT CVS'
+45,374,30.24213,-92.00683,'/map/images/NewBusStop3.png','MOSS & CARLTON'
+45,375,30.24103,-92.00707,'/map/images/NewBusStop3.png','MOSS & CHAPPIUS - STOP 2'
+45,376,30.23963,-92.00734,'/map/images/NewBusStop3.png','MOSS & DONLON'
+45,377,30.23769,-92.00774,'/map/images/NewBusStop3.png','MOSS & SOPHIE'
+45,378,30.23616,-92.00809,'/map/images/NewBusStop3.png','MOSS & BELLOT'
+45,379,30.23455,-92.00847,'/map/images/NewBusStop3.png','MOSS & CHOPIN - STOP 2'
+45,380,30.23253,-92.00888,'/map/images/NewBusStop3.png','MOSS & MUDD - STOP 2'
+45,381,30.23076,-92.00918,'/map/images/NewBusStop3.png','MOSS & SIMCOE - STOP 2'
+45,382,30.229823,-92.009876,'/map/images/NewBusStop3.png','JEFFERSON & STERLING'
+45,383,30.229464,-92.010807,'/map/images/NewBusStop3.png','JEFFERSON & N ORANGE'
+45,384,30.22874,-92.01245,'/map/images/NewBusStop3.png','JEFFERSON & NW THRUWAY'
+45,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
 
-StopID50[ 0]=[50,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
-StopID50[ 1]=[50,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'];
-StopID50[ 2]=[50,42,30.228834,-92.01653,'/map/images/NewBusStop3.png','CYPRESS & 2ND'];
-StopID50[ 3]=[50,43,30.228279,-92.018298,'/map/images/NewBusStop3.png','W CONGRESS AT S. PIERCE'];
-StopID50[ 4]=[50,386,30.22936,-92.01867,'/map/images/NewBusStop3.png','OLIVIER & PIERCE'];
-StopID50[ 5]=[50,387,30.23023,-92.01871,'/map/images/NewBusStop3.png','PIERCE & SIMCOE'];
-StopID50[ 6]=[50,388,30.23205,-92.018921,'/map/images/NewBusStop3.png','PIERCE & SHERMAN'];
-StopID50[ 7]=[50,389,30.232891,-92.019039,'/map/images/NewBusStop3.png','PIERCE & CAMERON'];
-StopID50[ 8]=[50,390,30.238496,-92.015458,'/map/images/NewBusStop3.png','NORTHSIDE WALMART'];
-StopID50[ 9]=[50,391,30.238113,-92.019896,'/map/images/NewBusStop3.png','BUCHANAN & PIERCE'];
-StopID50[ 10]=[50,392,30.241787,-92.018846,'/map/images/NewBusStop3.png','PIERCE & AMBROISE'];
-StopID50[ 11]=[50,393,30.242888,-92.018559,'/map/images/NewBusStop3.png','PIERCE & LENA'];
-StopID50[ 12]=[50,394,30.24433,-92.01821,'/map/images/NewBusStop3.png','PIERCE AT PRIDE PLAZA'];
-StopID50[ 13]=[50,395,30.24567,-92.02329,'/map/images/NewBusStop3.png','WILLOW & ST. ANTOINE'];
-StopID50[ 14]=[50,396,30.249078,-92.025297,'/map/images/NewBusStop3.png','N ST ANTIONE @ MLK'];
-StopID50[ 15]=[50,397,30.24951,-92.02471,'/map/images/NewBusStop3.png','MLK & LINCOLN'];
-StopID50[ 16]=[50,398,30.249372,-92.023486,'/map/images/NewBusStop3.png','MLK & HIMBOLA MANOR'];
-StopID50[ 17]=[50,399,30.249318,-92.020408,'/map/images/NewBusStop3.png','PATTERSON AT ALICE BOUCHER'];
-StopID50[ 18]=[50,400,30.251256,-92.020058,'/map/images/NewBusStop3.png','PATTERSON & ROE'];
-StopID50[ 19]=[50,401,30.25208,-92.02095,'/map/images/NewBusStop3.png','HAMMOND & ANTELOPE'];
-StopID50[ 20]=[50,402,30.2527,-92.02153,'/map/images/NewBusStop3.png','S. RICTHER AT HOUSE 151'];
-StopID50[ 21]=[50,403,30.255093,-92.021134,'/map/images/NewBusStop3.png','S RICHTER & JESSICA'];
-StopID50[ 22]=[50,404,30.255528,-92.019427,'/map/images/NewBusStop3.png','JUSTIN & PATTERSON'];
-StopID50[ 23]=[50,405,30.25546,-92.01785,'/map/images/NewBusStop3.png','JUSTIN & BERANDA'];
-StopID50[ 24]=[50,406,30.255313,-92.015172,'/map/images/NewBusStop3.png','JUSTIN & FRONTAGE'];
-StopID50[ 25]=[50,407,30.25408,-92.01474,'/map/images/NewBusStop3.png','FRONTAGE AT FAIRFIELD INN'];
-StopID50[ 26]=[50,408,30.25256,-92.01438,'/map/images/NewBusStop3.png','FRONTAGE & CHALMETTE'];
-StopID50[ 27]=[50,409,30.25101,-92.01411,'/map/images/NewBusStop3.png','FRONTAGE & PARKWAY PLAZA'];
-StopID50[ 28]=[50,410,30.24844,-92.01359,'/map/images/NewBusStop3.png','FRONTAGE & MLK'];
-StopID50[ 29]=[50,411,30.24695,-92.01363,'/map/images/NewBusStop3.png','FRONTAGE AT ROYAL INN'];
-StopID50[ 30]=[50,412,30.24526,-92.01625,'/map/images/NewBusStop3.png','WILLOW AT COMM. SERVICES'];
-StopID50[ 31]=[50,413,30.24453,-92.01822,'/map/images/NewBusStop3.png','PIERCE AT PRIDE PLAZA - STOP 2'];
-StopID50[ 32]=[50,414,30.24306,-92.01861,'/map/images/NewBusStop3.png','PIERCE & LENA - STOP 2'];
-StopID50[ 33]=[50,415,30.241624,-92.019041,'/map/images/NewBusStop3.png','PIERCE & GILMAN'];
-StopID50[ 34]=[50,416,30.23822,-92.02001,'/map/images/NewBusStop3.png','PIERCE & MADELINE'];
-StopID50[ 35]=[50,417,30.236624,-92.020016,'/map/images/NewBusStop3.png','PIERCE & MARTIN'];
-StopID50[ 36]=[50,418,30.23334,-92.01916,'/map/images/NewBusStop3.png','PIERCE & CAMERON - STOP 2'];
-StopID50[ 37]=[50,419,30.232133,-92.019046,'/map/images/NewBusStop3.png','PIERCE & SHERMAN - STOP 2'];
-StopID50[ 38]=[50,420,30.231078,-92.018941,'/map/images/NewBusStop3.png','PIERCE & SIMCOE - STOP 2'];
-StopID50[ 39]=[50,421,30.22949,-92.01886,'/map/images/NewBusStop3.png','PIERCE & OLIVIER - STOP 2'];
-StopID50[ 40]=[50,103,30.227785,-92.016129,'/map/images/NewBusStop3.png','CYPRESS & JEFFERSON'];
-StopID50[ 41]=[50,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
+50,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
+50,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'
+50,42,30.228834,-92.01653,'/map/images/NewBusStop3.png','CYPRESS & 2ND'
+50,43,30.228279,-92.018298,'/map/images/NewBusStop3.png','W CONGRESS AT S. PIERCE'
+50,386,30.22936,-92.01867,'/map/images/NewBusStop3.png','OLIVIER & PIERCE'
+50,387,30.23023,-92.01871,'/map/images/NewBusStop3.png','PIERCE & SIMCOE'
+50,388,30.23205,-92.018921,'/map/images/NewBusStop3.png','PIERCE & SHERMAN'
+50,389,30.232891,-92.019039,'/map/images/NewBusStop3.png','PIERCE & CAMERON'
+50,390,30.238496,-92.015458,'/map/images/NewBusStop3.png','NORTHSIDE WALMART'
+50,391,30.238113,-92.019896,'/map/images/NewBusStop3.png','BUCHANAN & PIERCE'
+50,392,30.241787,-92.018846,'/map/images/NewBusStop3.png','PIERCE & AMBROISE'
+50,393,30.242888,-92.018559,'/map/images/NewBusStop3.png','PIERCE & LENA'
+50,394,30.24433,-92.01821,'/map/images/NewBusStop3.png','PIERCE AT PRIDE PLAZA'
+50,395,30.24567,-92.02329,'/map/images/NewBusStop3.png','WILLOW & ST. ANTOINE'
+50,396,30.249078,-92.025297,'/map/images/NewBusStop3.png','N ST ANTIONE @ MLK'
+50,397,30.24951,-92.02471,'/map/images/NewBusStop3.png','MLK & LINCOLN'
+50,398,30.249372,-92.023486,'/map/images/NewBusStop3.png','MLK & HIMBOLA MANOR'
+50,399,30.249318,-92.020408,'/map/images/NewBusStop3.png','PATTERSON AT ALICE BOUCHER'
+50,400,30.251256,-92.020058,'/map/images/NewBusStop3.png','PATTERSON & ROE'
+50,401,30.25208,-92.02095,'/map/images/NewBusStop3.png','HAMMOND & ANTELOPE'
+50,402,30.2527,-92.02153,'/map/images/NewBusStop3.png','S. RICTHER AT HOUSE 151'
+50,403,30.255093,-92.021134,'/map/images/NewBusStop3.png','S RICHTER & JESSICA'
+50,404,30.255528,-92.019427,'/map/images/NewBusStop3.png','JUSTIN & PATTERSON'
+50,405,30.25546,-92.01785,'/map/images/NewBusStop3.png','JUSTIN & BERANDA'
+50,406,30.255313,-92.015172,'/map/images/NewBusStop3.png','JUSTIN & FRONTAGE'
+50,407,30.25408,-92.01474,'/map/images/NewBusStop3.png','FRONTAGE AT FAIRFIELD INN'
+50,408,30.25256,-92.01438,'/map/images/NewBusStop3.png','FRONTAGE & CHALMETTE'
+50,409,30.25101,-92.01411,'/map/images/NewBusStop3.png','FRONTAGE & PARKWAY PLAZA'
+50,410,30.24844,-92.01359,'/map/images/NewBusStop3.png','FRONTAGE & MLK'
+50,411,30.24695,-92.01363,'/map/images/NewBusStop3.png','FRONTAGE AT ROYAL INN'
+50,412,30.24526,-92.01625,'/map/images/NewBusStop3.png','WILLOW AT COMM. SERVICES'
+50,413,30.24453,-92.01822,'/map/images/NewBusStop3.png','PIERCE AT PRIDE PLAZA - STOP 2'
+50,414,30.24306,-92.01861,'/map/images/NewBusStop3.png','PIERCE & LENA - STOP 2'
+50,415,30.241624,-92.019041,'/map/images/NewBusStop3.png','PIERCE & GILMAN'
+50,416,30.23822,-92.02001,'/map/images/NewBusStop3.png','PIERCE & MADELINE'
+50,417,30.236624,-92.020016,'/map/images/NewBusStop3.png','PIERCE & MARTIN'
+50,418,30.23334,-92.01916,'/map/images/NewBusStop3.png','PIERCE & CAMERON - STOP 2'
+50,419,30.232133,-92.019046,'/map/images/NewBusStop3.png','PIERCE & SHERMAN - STOP 2'
+50,420,30.231078,-92.018941,'/map/images/NewBusStop3.png','PIERCE & SIMCOE - STOP 2'
+50,421,30.22949,-92.01886,'/map/images/NewBusStop3.png','PIERCE & OLIVIER - STOP 2'
+50,103,30.227785,-92.016129,'/map/images/NewBusStop3.png','CYPRESS & JEFFERSON'
+50,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
 
-StopID55[ 0]=[55,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
-StopID55[ 1]=[55,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'];
-StopID55[ 2]=[55,548,30.22339,-92.01321,'/map/images/NewBusStop3.png','GARFIELD & GORDON'];
-StopID55[ 3]=[55,700,30.221453,-92.012372,'/map/images/NewBusStop3.png','LAMAR @ VERMILLION'];
-StopID55[ 4]=[55,701,30.220827,-92.012815,'/map/images/NewBusStop3.png','LAMAR @ VERMILLION'];
-StopID55[ 5]=[55,702,30.220098,-92.013284,'/map/images/NewBusStop3.png','LAMAR @ MAIN'];
-StopID55[ 6]=[55,703,30.2185,-92.012772,'/map/images/NewBusStop3.png','STEWART @ BRAINARD'];
-StopID55[ 7]=[55,704,30.216535,-92.011131,'/map/images/NewBusStop3.png','E TAFT ST @ E CONVENT'];
-StopID55[ 8]=[55,705,30.213999,-92.011287,'/map/images/NewBusStop3.png','GENERAL MOUTON AVE @ WILSON ST'];
-StopID55[ 9]=[55,706,30.213014,-92.009646,'/map/images/NewBusStop3.png','GENERAL MOUTON AVE @ COOLIDGE'];
-StopID55[ 10]=[55,707,30.212396,-92.010054,'/map/images/NewBusStop3.png','COOLIDGE ST @ STEVENSON ST'];
-StopID55[ 11]=[55,708,30.211837,-92.010412,'/map/images/NewBusStop3.png','COOLIDGE ST @ STEVENSON ST'];
-StopID55[ 12]=[55,709,30.211795,-92.011484,'/map/images/NewBusStop3.png','E UNIVERSITY AVE @ HARDING ST'];
-StopID55[ 13]=[55,710,30.213506,-92.015742,'/map/images/NewBusStop3.png','MC KINLEY ST @ BOUCHER DR'];
-StopID55[ 14]=[55,711,30.212669,-92.016581,'/map/images/NewBusStop3.png','MC KINLEY ST @ E SAINT MARY BLVD'];
-StopID55[ 15]=[55,712,30.210228,-92.019427,'/map/images/NewBusStop3.png','GIRARD PARK CIRCLE @ E SAINT MARY BLVD'];
-StopID55[ 16]=[55,713,30.206688,-92.021972,'/map/images/NewBusStop3.png','GIRARD PARK CIRCLE @ E LEWIS ST'];
-StopID55[ 17]=[55,714,30.204085,-92.021085,'/map/images/NewBusStop3.png','GIRARD PARK CIRCLE @ VERLANDER CIRCLE'];
-StopID55[ 18]=[55,715,30.200407,-92.023461,'/map/images/NewBusStop3.png','GIRARD PARK CIRCLE @ S COLLEGE RD'];
-StopID55[ 19]=[55,542,30.200162,-92.028054,'/map/images/NewBusStop3.png','S COLLEGE & LASSERE'];
-StopID55[ 20]=[55,543,30.202784,-92.032341,'/map/images/NewBusStop3.png','S COLLEGE & HORSESHOE'];
-StopID55[ 21]=[55,544,30.204157,-92.034424,'/map/images/NewBusStop3.png','S COLLEGE & DERANEY'];
-StopID55[ 22]=[55,545,30.20702,-92.03788,'/map/images/NewBusStop3.png','S COLLEGE & JOHNSTON'];
-StopID55[ 23]=[55,716,30.208283,-92.039652,'/map/images/NewBusStop3.png','N COLLEGE RD @ MEAUX BLVD'];
-StopID55[ 24]=[55,717,30.21187,-92.044308,'/map/images/NewBusStop3.png','N COLLEGE RD @ REINHARDT DR'];
-StopID55[ 25]=[55,718,30.213753,-92.045971,'/map/images/NewBusStop3.png','N COLLEGE RD @ THEATRE DR'];
-StopID55[ 26]=[55,94,30.215791,-92.045444,'/map/images/NewBusStop3.png','CONGRESS AT CAJUN FIELD GATE 3'];
-StopID55[ 27]=[55,720,30.213624,-92.037496,'/map/images/NewBusStop3.png','CAJUNDOME BLVD @ REINHARDT DR'];
-StopID55[ 28]=[55,721,30.211012,-92.035276,'/map/images/NewBusStop3.png','CAJUNDOME BLVD @ JOHNSTON ST'];
-StopID55[ 29]=[55,226,30.21,-92.03088,'/map/images/NewBusStop3.png','JOHNSTON & RONALD'];
-StopID55[ 30]=[55,227,30.210494,-92.029036,'/map/images/NewBusStop3.png','JOHNSTON & CATHERINE'];
-StopID55[ 31]=[55,228,30.212125,-92.025473,'/map/images/NewBusStop3.png','JOHNSTON & E. LEWIS'];
-StopID55[ 32]=[55,229,30.21388,-92.02228,'/map/images/NewBusStop3.png','JOHNSTON AT FRENCH HOUSE'];
-StopID55[ 33]=[55,230,30.21515,-92.02102,'/map/images/NewBusStop3.png','JOHNSTON & MAXIM DOUCET HALL'];
-StopID55[ 34]=[55,231,30.21638,-92.01983,'/map/images/NewBusStop3.png','JOHNSTON AT GIRARD HALL'];
-StopID55[ 35]=[55,232,30.218445,-92.018162,'/map/images/NewBusStop3.png','JOHNSTON & GEN. MOUTON - STOP 2'];
-StopID55[ 36]=[55,233,30.22043,-92.01691,'/map/images/NewBusStop3.png','JOHNSTON & E. CONVENT'];
-StopID55[ 37]=[55,234,30.221123,-92.016458,'/map/images/NewBusStop3.png','JOHNSTON & STEWART - STOP 2'];
-StopID55[ 38]=[55,235,30.221831,-92.016006,'/map/images/NewBusStop3.png','JOHNSTON & E. MAIN - STOP 2'];
-StopID55[ 39]=[55,236,30.222956,-92.015276,'/map/images/NewBusStop3.png','JOHNSTON & E. VERMILION'];
-StopID55[ 40]=[55,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
+55,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
+55,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'
+55,548,30.22339,-92.01321,'/map/images/NewBusStop3.png','GARFIELD & GORDON'
+55,700,30.221453,-92.012372,'/map/images/NewBusStop3.png','LAMAR @ VERMILLION'
+55,701,30.220827,-92.012815,'/map/images/NewBusStop3.png','LAMAR @ VERMILLION'
+55,702,30.220098,-92.013284,'/map/images/NewBusStop3.png','LAMAR @ MAIN'
+55,703,30.2185,-92.012772,'/map/images/NewBusStop3.png','STEWART @ BRAINARD'
+55,704,30.216535,-92.011131,'/map/images/NewBusStop3.png','E TAFT ST @ E CONVENT'
+55,705,30.213999,-92.011287,'/map/images/NewBusStop3.png','GENERAL MOUTON AVE @ WILSON ST'
+55,706,30.213014,-92.009646,'/map/images/NewBusStop3.png','GENERAL MOUTON AVE @ COOLIDGE'
+55,707,30.212396,-92.010054,'/map/images/NewBusStop3.png','COOLIDGE ST @ STEVENSON ST'
+55,708,30.211837,-92.010412,'/map/images/NewBusStop3.png','COOLIDGE ST @ STEVENSON ST'
+55,709,30.211795,-92.011484,'/map/images/NewBusStop3.png','E UNIVERSITY AVE @ HARDING ST'
+55,710,30.213506,-92.015742,'/map/images/NewBusStop3.png','MC KINLEY ST @ BOUCHER DR'
+55,711,30.212669,-92.016581,'/map/images/NewBusStop3.png','MC KINLEY ST @ E SAINT MARY BLVD'
+55,712,30.210228,-92.019427,'/map/images/NewBusStop3.png','GIRARD PARK CIRCLE @ E SAINT MARY BLVD'
+55,713,30.206688,-92.021972,'/map/images/NewBusStop3.png','GIRARD PARK CIRCLE @ E LEWIS ST'
+55,714,30.204085,-92.021085,'/map/images/NewBusStop3.png','GIRARD PARK CIRCLE @ VERLANDER CIRCLE'
+55,715,30.200407,-92.023461,'/map/images/NewBusStop3.png','GIRARD PARK CIRCLE @ S COLLEGE RD'
+55,542,30.200162,-92.028054,'/map/images/NewBusStop3.png','S COLLEGE & LASSERE'
+55,543,30.202784,-92.032341,'/map/images/NewBusStop3.png','S COLLEGE & HORSESHOE'
+55,544,30.204157,-92.034424,'/map/images/NewBusStop3.png','S COLLEGE & DERANEY'
+55,545,30.20702,-92.03788,'/map/images/NewBusStop3.png','S COLLEGE & JOHNSTON'
+55,716,30.208283,-92.039652,'/map/images/NewBusStop3.png','N COLLEGE RD @ MEAUX BLVD'
+55,717,30.21187,-92.044308,'/map/images/NewBusStop3.png','N COLLEGE RD @ REINHARDT DR'
+55,718,30.213753,-92.045971,'/map/images/NewBusStop3.png','N COLLEGE RD @ THEATRE DR'
+55,94,30.215791,-92.045444,'/map/images/NewBusStop3.png','CONGRESS AT CAJUN FIELD GATE 3'
+55,720,30.213624,-92.037496,'/map/images/NewBusStop3.png','CAJUNDOME BLVD @ REINHARDT DR'
+55,721,30.211012,-92.035276,'/map/images/NewBusStop3.png','CAJUNDOME BLVD @ JOHNSTON ST'
+55,226,30.21,-92.03088,'/map/images/NewBusStop3.png','JOHNSTON & RONALD'
+55,227,30.210494,-92.029036,'/map/images/NewBusStop3.png','JOHNSTON & CATHERINE'
+55,228,30.212125,-92.025473,'/map/images/NewBusStop3.png','JOHNSTON & E. LEWIS'
+55,229,30.21388,-92.02228,'/map/images/NewBusStop3.png','JOHNSTON AT FRENCH HOUSE'
+55,230,30.21515,-92.02102,'/map/images/NewBusStop3.png','JOHNSTON & MAXIM DOUCET HALL'
+55,231,30.21638,-92.01983,'/map/images/NewBusStop3.png','JOHNSTON AT GIRARD HALL'
+55,232,30.218445,-92.018162,'/map/images/NewBusStop3.png','JOHNSTON & GEN. MOUTON - STOP 2'
+55,233,30.22043,-92.01691,'/map/images/NewBusStop3.png','JOHNSTON & E. CONVENT'
+55,234,30.221123,-92.016458,'/map/images/NewBusStop3.png','JOHNSTON & STEWART - STOP 2'
+55,235,30.221831,-92.016006,'/map/images/NewBusStop3.png','JOHNSTON & E. MAIN - STOP 2'
+55,236,30.222956,-92.015276,'/map/images/NewBusStop3.png','JOHNSTON & E. VERMILION'
+55,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
 
-StopID60[ 0]=[60,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
-StopID60[ 1]=[60,2,30.224748,-92.009526,'/map/images/NewBusStop3.png','LOUISIANA & SE THRUWAY'];
-StopID60[ 2]=[60,474,30.225113,-92.008672,'/map/images/NewBusStop3.png','LOUISIANA & PLUM'];
-StopID60[ 3]=[60,475,30.2267,-92.0067,'/map/images/NewBusStop3.png','LOUISIANA & STERLING'];
-StopID60[ 4]=[60,476,30.228081,-92.00462661,'/map/images/NewBusStop3.png','LOUISIANA & SURREY'];
-StopID60[ 5]=[60,477,30.229829,-92.003,'/map/images/NewBusStop3.png','LOUISIANA & SIMCOE'];
-StopID60[ 6]=[60,478,30.22977,-92.0019,'/map/images/NewBusStop3.png','SIMCOE & CROCKETT'];
-StopID60[ 7]=[60,479,30.229909,-91.999613,'/map/images/NewBusStop3.png','12TH & DIAZ'];
-StopID60[ 8]=[60,480,30.231992,-91.999289,'/map/images/NewBusStop3.png','12TH & PERSHING'];
-StopID60[ 9]=[60,481,30.234071,-91.998942,'/map/images/NewBusStop3.png','12TH & CARMEL'];
-StopID60[ 10]=[60,482,30.234489,-92.00108,'/map/images/NewBusStop3.png','CARMEL & VERDUN'];
-StopID60[ 11]=[60,483,30.235,-92.00212,'/map/images/NewBusStop3.png','LOUISIANA AT FAMILY DOLLAR'];
-StopID60[ 12]=[60,484,30.23747,-92.00169,'/map/images/NewBusStop3.png','LOUISIANA AT HOLY FAMILY APTS'];
-StopID60[ 13]=[60,485,30.23996,-92.00102,'/map/images/NewBusStop3.png','LOUISIANA & CENTER'];
-StopID60[ 14]=[60,486,30.24257,-92.00057,'/map/images/NewBusStop3.png','LOUISIANA & RANDOLPH'];
-StopID60[ 15]=[60,329,30.244777,-92.000286,'/map/images/NewBusStop3.png','LOUISIANA & WALLACE'];
-StopID60[ 16]=[60,330,30.247615,-91.999985,'/map/images/NewBusStop3.png','LOUISIANA AT FAULK ELEMENTARY SCHOOL'];
-StopID60[ 17]=[60,331,30.250754,-91.999707,'/map/images/NewBusStop3.png','LOUISIANA & NORTHSIDE HIGH'];
-StopID60[ 18]=[60,332,30.25472,-91.99941,'/map/images/NewBusStop3.png','LOUISIANA & E. ALEXANDER'];
-StopID60[ 19]=[60,487,30.255367,-92.000795,'/map/images/NewBusStop3.png','E ALEXANDER AT 327 E ALEXANDER'];
-StopID60[ 20]=[60,488,30.25564,-92.004675,'/map/images/NewBusStop3.png','E ALEXANDER & BREAUXS MART'];
-StopID60[ 21]=[60,489,30.254341,-92.005379,'/map/images/NewBusStop3.png','MOSS AT SOULIER'];
-StopID60[ 22]=[60,490,30.250794,-92.005594,'/map/images/NewBusStop3.png','MOSS & DUNAND'];
-StopID60[ 23]=[60,370,30.247105,-92.006183,'/map/images/NewBusStop3.png','MOSS AT NORTHGATE MALL'];
-StopID60[ 24]=[60,371,30.245606,-92.006345,'/map/images/NewBusStop3.png','MOSS and W. EVERGREEN'];
-StopID60[ 25]=[60,327,30.244019,-92.004209,'/map/images/NewBusStop3.png','WILLOW & E. CEDAR'];
-StopID60[ 26]=[60,328,30.244833,-92.002826,'/map/images/NewBusStop3.png','WILLOW & E. EVERGREEN'];
-StopID60[ 27]=[60,491,30.245425,-92.000569,'/map/images/NewBusStop3.png','WILLOW & LOUISIANA'];
-StopID60[ 28]=[60,492,30.24293,-92.0008,'/map/images/NewBusStop3.png','LOUISIANA & RANDOLPH STOP 2'];
-StopID60[ 29]=[60,493,30.24011,-92.00118,'/map/images/NewBusStop3.png','LOUISIANA & CENTER - STOP 2'];
-StopID60[ 30]=[60,494,30.23766,-92.00186,'/map/images/NewBusStop3.png','LOUISIANA AT HOLY FAMILY - STOP 2'];
-StopID60[ 31]=[60,495,30.23492,-92.00244,'/map/images/NewBusStop3.png','LOUISIANA & CARMEL'];
-StopID60[ 32]=[60,496,30.23258,-92.00259,'/map/images/NewBusStop3.png','LOUISIANA & PERSHING'];
-StopID60[ 33]=[60,497,30.23006,-92.00306,'/map/images/NewBusStop3.png','LOUISIANA & SIMCOE - RT60'];
-StopID60[ 34]=[60,498,30.228353,-92.004582,'/map/images/NewBusStop3.png','LOUISIANA & SURREY - RT60'];
-StopID60[ 35]=[60,499,30.22704,-92.0065,'/map/images/NewBusStop3.png','LOUISIANA & STERLING - RT60'];
-StopID60[ 36]=[60,500,30.224999,-92.009375,'/map/images/NewBusStop3.png','LOUISIANA & SE THRUWAY'];
-StopID60[ 37]=[60,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
+60,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
+60,2,30.224748,-92.009526,'/map/images/NewBusStop3.png','LOUISIANA & SE THRUWAY'
+60,474,30.225113,-92.008672,'/map/images/NewBusStop3.png','LOUISIANA & PLUM'
+60,475,30.2267,-92.0067,'/map/images/NewBusStop3.png','LOUISIANA & STERLING'
+60,476,30.228081,-92.00462661,'/map/images/NewBusStop3.png','LOUISIANA & SURREY'
+60,477,30.229829,-92.003,'/map/images/NewBusStop3.png','LOUISIANA & SIMCOE'
+60,478,30.22977,-92.0019,'/map/images/NewBusStop3.png','SIMCOE & CROCKETT'
+60,479,30.229909,-91.999613,'/map/images/NewBusStop3.png','12TH & DIAZ'
+60,480,30.231992,-91.999289,'/map/images/NewBusStop3.png','12TH & PERSHING'
+60,481,30.234071,-91.998942,'/map/images/NewBusStop3.png','12TH & CARMEL'
+60,482,30.234489,-92.00108,'/map/images/NewBusStop3.png','CARMEL & VERDUN'
+60,483,30.235,-92.00212,'/map/images/NewBusStop3.png','LOUISIANA AT FAMILY DOLLAR'
+60,484,30.23747,-92.00169,'/map/images/NewBusStop3.png','LOUISIANA AT HOLY FAMILY APTS'
+60,485,30.23996,-92.00102,'/map/images/NewBusStop3.png','LOUISIANA & CENTER'
+60,486,30.24257,-92.00057,'/map/images/NewBusStop3.png','LOUISIANA & RANDOLPH'
+60,329,30.244777,-92.000286,'/map/images/NewBusStop3.png','LOUISIANA & WALLACE'
+60,330,30.247615,-91.999985,'/map/images/NewBusStop3.png','LOUISIANA AT FAULK ELEMENTARY SCHOOL'
+60,331,30.250754,-91.999707,'/map/images/NewBusStop3.png','LOUISIANA & NORTHSIDE HIGH'
+60,332,30.25472,-91.99941,'/map/images/NewBusStop3.png','LOUISIANA & E. ALEXANDER'
+60,487,30.255367,-92.000795,'/map/images/NewBusStop3.png','E ALEXANDER AT 327 E ALEXANDER'
+60,488,30.25564,-92.004675,'/map/images/NewBusStop3.png','E ALEXANDER & BREAUXS MART'
+60,489,30.254341,-92.005379,'/map/images/NewBusStop3.png','MOSS AT SOULIER'
+60,490,30.250794,-92.005594,'/map/images/NewBusStop3.png','MOSS & DUNAND'
+60,370,30.247105,-92.006183,'/map/images/NewBusStop3.png','MOSS AT NORTHGATE MALL'
+60,371,30.245606,-92.006345,'/map/images/NewBusStop3.png','MOSS and W. EVERGREEN'
+60,327,30.244019,-92.004209,'/map/images/NewBusStop3.png','WILLOW & E. CEDAR'
+60,328,30.244833,-92.002826,'/map/images/NewBusStop3.png','WILLOW & E. EVERGREEN'
+60,491,30.245425,-92.000569,'/map/images/NewBusStop3.png','WILLOW & LOUISIANA'
+60,492,30.24293,-92.0008,'/map/images/NewBusStop3.png','LOUISIANA & RANDOLPH STOP 2'
+60,493,30.24011,-92.00118,'/map/images/NewBusStop3.png','LOUISIANA & CENTER - STOP 2'
+60,494,30.23766,-92.00186,'/map/images/NewBusStop3.png','LOUISIANA AT HOLY FAMILY - STOP 2'
+60,495,30.23492,-92.00244,'/map/images/NewBusStop3.png','LOUISIANA & CARMEL'
+60,496,30.23258,-92.00259,'/map/images/NewBusStop3.png','LOUISIANA & PERSHING'
+60,497,30.23006,-92.00306,'/map/images/NewBusStop3.png','LOUISIANA & SIMCOE - RT60'
+60,498,30.228353,-92.004582,'/map/images/NewBusStop3.png','LOUISIANA & SURREY - RT60'
+60,499,30.22704,-92.0065,'/map/images/NewBusStop3.png','LOUISIANA & STERLING - RT60'
+60,500,30.224999,-92.009375,'/map/images/NewBusStop3.png','LOUISIANA & SE THRUWAY'
+60,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
 
-StopID65[ 0]=[65,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
-StopID65[ 1]=[65,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'];
-StopID65[ 2]=[65,169,30.223256,-92.015313,'/map/images/NewBusStop3.png','JOHNSTON & E. VERMILLION'];
-StopID65[ 3]=[65,170,30.222078,-92.016062,'/map/images/NewBusStop3.png','JOHNSTON & E. MAIN'];
-StopID65[ 4]=[65,171,30.221356,-92.016508,'/map/images/NewBusStop3.png','JOHNSTON & STEWART'];
-StopID65[ 5]=[65,172,30.22032,-92.01715,'/map/images/NewBusStop3.png','JOHNSTON & JEFFERSON'];
-StopID65[ 6]=[65,173,30.218728,-92.018214,'/map/images/NewBusStop3.png','JOHNSTON & GEN. MOUTON'];
-StopID65[ 7]=[65,174,30.21695,-92.01938,'/map/images/NewBusStop3.png','JOHNSTON & U.L. HOUSE'];
-StopID65[ 8]=[65,175,30.2146,-92.02174,'/map/images/NewBusStop3.png','JOHNSTON & ST MARY'];
-StopID65[ 9]=[65,176,30.212392,-92.025477,'/map/images/NewBusStop3.png','JOHNSTON & W. LEWIS'];
-StopID65[ 10]=[65,177,30.21163,-92.026903,'/map/images/NewBusStop3.png','JOHNSTON & ST. JULIEN'];
-StopID65[ 11]=[65,178,30.21048,-92.02978,'/map/images/NewBusStop3.png','JOHNSTON AT UL HORTICULTURE CNTR'];
-StopID65[ 12]=[65,179,30.21002,-92.031438,'/map/images/NewBusStop3.png','JOHNSTON & COLISEUM'];
-StopID65[ 13]=[65,722,30.213645,-92.037007,'/map/images/NewBusStop3.png','CAJUNDOME BLVD @ REINHARDT DR'];
-StopID65[ 14]=[65,723,30.215713,-92.038747,'/map/images/NewBusStop3.png','CAJUNDOME BLVD @ REINHARDT DR'];
-StopID65[ 15]=[65,53,30.21711,-92.04575,'/map/images/NewBusStop3.png','UNIVERSITY HEALTH CENTER'];
-StopID65[ 16]=[65,54,30.21635,-92.0469,'/map/images/NewBusStop3.png','UNIVERSITY HEALTH CENTER - STOP 2'];
-StopID65[ 17]=[65,728,30.212882,-92.045739,'/map/images/NewBusStop3.png','BERTRAND DR @ THEATRE DR'];
-StopID65[ 18]=[65,729,30.20825,-92.040021,'/map/images/NewBusStop3.png','N COLLEGE RD @ MEAUX BLVD'];
-StopID65[ 19]=[65,182,30.2069,-92.0391,'/map/images/NewBusStop3.png','JOHNSTON & MEAUX'];
-StopID65[ 20]=[65,183,30.20598,-92.04068,'/map/images/NewBusStop3.png','JOHNSTON & BERTRAND'];
-StopID65[ 21]=[65,184,30.20499,-92.04266,'/map/images/NewBusStop3.png','JOHNSTON AT CYCLE GEAR'];
-StopID65[ 22]=[65,185,30.20458,-92.04419,'/map/images/NewBusStop3.png','JOHNSTON & HOLDEN'];
-StopID65[ 23]=[65,186,30.20376,-92.04775,'/map/images/NewBusStop3.png','JOHNSTON AT FUN JUMPS'];
-StopID65[ 24]=[65,187,30.20309,-92.0503,'/map/images/NewBusStop3.png','JOHNSTON & TREEHAVEN'];
-StopID65[ 25]=[65,188,30.20235,-92.05228,'/map/images/NewBusStop3.png','JOHNSTON & FOREMAN'];
-StopID65[ 26]=[65,189,30.20146,-92.05391,'/map/images/NewBusStop3.png','JOHNSTON & MARIE ANTOINETTE'];
-StopID65[ 27]=[65,190,30.19922,-92.05565,'/map/images/NewBusStop3.png','JOHNSTON & WESTCHESTER'];
-StopID65[ 28]=[65,191,30.19701,-92.05674,'/map/images/NewBusStop3.png','JOHNSTON & MIMOSA'];
-StopID65[ 29]=[65,192,30.19496,-92.05781,'/map/images/NewBusStop3.png','JOHNSTON AT AUTOZONE'];
-StopID65[ 30]=[65,193,30.19259,-92.05992,'/map/images/NewBusStop3.png','JOHNSTON AT FIESTA VILLAGE'];
-StopID65[ 31]=[65,194,30.19019,-92.06232,'/map/images/NewBusStop3.png','JOHNSTON AT OFFICE DEPOT'];
-StopID65[ 32]=[65,195,30.18896,-92.06359,'/map/images/NewBusStop3.png','JOHNSTON & LANA'];
-StopID65[ 33]=[65,196,30.18724,-92.06534,'/map/images/NewBusStop3.png','JOHNSTON AT RITE-AID'];
-StopID65[ 34]=[65,197,30.1847,-92.06794,'/map/images/NewBusStop3.png','JOHNSTON AT DOUG ASHYS'];
-StopID65[ 35]=[65,198,30.18263,-92.07018,'/map/images/NewBusStop3.png','JOHNSTON & WESTMARK'];
-StopID65[ 36]=[65,199,30.180214,-92.072678,'/map/images/NewBusStop3.png','JOHNSTON AT CENTERPIECE CENTER'];
-StopID65[ 37]=[65,753,30.176851,-92.073229,'/map/images/NewBusStop3.png','AMB. CAFFERY @ LAFAYETTE SHOOTERS'];
-StopID65[ 38]=[65,754,30.17507,-92.071074,'/map/images/NewBusStop3.png','AMB. CAFFERY @ TSUBAKI'];
-StopID65[ 39]=[65,755,30.173218,-92.068831,'/map/images/NewBusStop3.png','AMB. CAFFERY @ UHAUL STORAGE'];
-StopID65[ 40]=[65,513,30.17013,-92.06507,'/map/images/NewBusStop3.png','AMB CAFFERY AT CHICK-FIL-A'];
-StopID65[ 41]=[65,514,30.1682,-92.06263,'/map/images/NewBusStop3.png','AMB CAFFERY & ENGLEWOOD'];
-StopID65[ 42]=[65,515,30.16692,-92.06108,'/map/images/NewBusStop3.png','AMB. CAFFERY & DOVER'];
-StopID65[ 43]=[65,516,30.16461,-92.05829,'/map/images/NewBusStop3.png','AMB CAFFERY AT GABRIELS ROW'];
-StopID65[ 44]=[65,517,30.1591,-92.0516,'/map/images/NewBusStop3.png','AMB CAFFERY AT KOHLS'];
-StopID65[ 45]=[65,518,30.15817,-92.0505,'/map/images/NewBusStop3.png','AMB CAFFERY AT ALBERTSONS'];
-StopID65[ 46]=[65,519,30.1548,-92.04636,'/map/images/NewBusStop3.png','AMB. CAFFERY AT WHITNEY BANK'];
-StopID65[ 47]=[65,520,30.15185,-92.03868,'/map/images/NewBusStop3.png','FREM BOUSTANY AT LOURDES'];
-StopID65[ 48]=[65,521,30.14951,-92.03794,'/map/images/NewBusStop3.png','OUR LADY OF LOURDES HOSPITAL'];
-StopID65[ 49]=[65,584,30.14848,-92.04252,'/map/images/NewBusStop3.png','FREM BOUSTANY & FARREL ROAD'];
-StopID65[ 50]=[65,585,30.15155,-92.04642,'/map/images/NewBusStop3.png','FARRELL AT WOMEN & CHILDRENS HOSPITAL'];
-StopID65[ 51]=[65,586,30.15332,-92.04854,'/map/images/NewBusStop3.png','FARRELL AT SUITES DE MAISON'];
-StopID65[ 52]=[65,587,30.15459,-92.05001,'/map/images/NewBusStop3.png','FARRELL & KALISTE SALOOM'];
-StopID65[ 53]=[65,588,30.15588,-92.04879,'/map/images/NewBusStop3.png','KALISTE SALOOM & AMBASSADOR CAFFERY'];
-StopID65[ 54]=[65,522,30.15756,-92.04715,'/map/images/NewBusStop3.png','KALISTE SALOOM AT SONIC'];
-StopID65[ 55]=[65,523,30.16123,-92.04352,'/map/images/NewBusStop3.png','KALISTE SALOOM & REPUBLIC'];
-StopID65[ 56]=[65,524,30.16262,-92.04218,'/map/images/NewBusStop3.png','KALISTE SALOOM AT LAFAYETTE GOLF ACADEMY'];
-StopID65[ 57]=[65,525,30.1644,-92.04028,'/map/images/NewBusStop3.png','KALISTE SALOOM & E MARTIAL'];
-StopID65[ 58]=[65,526,30.16519,-92.03906,'/map/images/NewBusStop3.png','KALISTE SALOOM & QUAIL'];
-StopID65[ 59]=[65,527,30.168918,-92.033736,'/map/images/NewBusStop3.png','KALISTE SALOOM AT PLANTATION ELEMENTARY'];
-StopID65[ 60]=[65,591,30.17066,-92.03181,'/map/images/NewBusStop3.png','KALISTE SALOOM & STEINER STOP 2'];
-StopID65[ 61]=[65,529,30.17177,-92.03073,'/map/images/NewBusStop3.png','KALISTE SALOOM AT FIVE H PLAZA'];
-StopID65[ 62]=[65,530,30.17563,-92.02793,'/map/images/NewBusStop3.png','KALISTE SALOOM AT LAFAYETTE SURGICAL'];
-StopID65[ 63]=[65,531,30.17794,-92.02708,'/map/images/NewBusStop3.png','KALISTE SALOOM & MIGUEL'];
-StopID65[ 64]=[65,532,30.18108,-92.01909,'/map/images/NewBusStop3.png','KALISTE SALOOM & GREENTREE'];
-StopID65[ 65]=[65,533,30.18249,-92.0176,'/map/images/NewBusStop3.png','KALISTE SALOOM & E BAYOU'];
-StopID65[ 66]=[65,730,30.191434,-92.011822,'/map/images/NewBusStop3.png','KALISTE SALOOM RD @ RUE DE JEAN'];
-StopID65[ 67]=[65,446,30.19329,-92.00989,'/map/images/NewBusStop3.png','KALISTE SALOOM & S COLLEGE'];
-StopID65[ 68]=[65,731,30.19446,-92.010418,'/map/images/NewBusStop3.png','S COLLEGE RD @ LA RUE FRANCE'];
-StopID65[ 69]=[65,732,30.194532,-92.012093,'/map/images/NewBusStop3.png','LA RUE FRANCE @  RUE JEAN LAFITTE'];
-StopID65[ 70]=[65,733,30.194474,-92.015557,'/map/images/NewBusStop3.png','LA RUE FRANCE @ W PINHOOK RD'];
-StopID65[ 71]=[65,537,30.19702,-92.01632,'/map/images/NewBusStop3.png','PINHOOK AT HILTON'];
-StopID65[ 72]=[65,538,30.19807,-92.016354,'/map/images/NewBusStop3.png','PINHOOK & CALCO'];
-StopID65[ 73]=[65,608,30.20056,-92.01556,'/map/images/NewBusStop3.png','PINHOOK & S. COLLEGE'];
-StopID65[ 74]=[65,539,30.20184,-92.016731,'/map/images/NewBusStop3.png','S COLLEGE & HEYMANN'];
-StopID65[ 75]=[65,540,30.201026,-92.020651,'/map/images/NewBusStop3.png','S COLLEGE AT HEYMANN CENTER'];
-StopID65[ 76]=[65,541,30.200152,-92.02305,'/map/images/NewBusStop3.png','S COLLEGE & GIRARD PARK'];
-StopID65[ 77]=[65,542,30.200162,-92.028054,'/map/images/NewBusStop3.png','S COLLEGE & LASSERE'];
-StopID65[ 78]=[65,543,30.202784,-92.032341,'/map/images/NewBusStop3.png','S COLLEGE & HORSESHOE'];
-StopID65[ 79]=[65,544,30.204157,-92.034424,'/map/images/NewBusStop3.png','S COLLEGE & DERANEY'];
-StopID65[ 80]=[65,545,30.20702,-92.03788,'/map/images/NewBusStop3.png','S COLLEGE & JOHNSTON'];
-StopID65[ 81]=[65,224,30.208193,-92.036514,'/map/images/NewBusStop3.png','JOHNSTON & WEDGEWOOD'];
-StopID65[ 82]=[65,225,30.20877,-92.03487,'/map/images/NewBusStop3.png','JOHNSTON AT BEAU CHENES APTS'];
-StopID65[ 83]=[65,226,30.21,-92.03088,'/map/images/NewBusStop3.png','JOHNSTON & RONALD'];
-StopID65[ 84]=[65,227,30.210494,-92.029036,'/map/images/NewBusStop3.png','JOHNSTON & CATHERINE'];
-StopID65[ 85]=[65,228,30.212125,-92.025473,'/map/images/NewBusStop3.png','JOHNSTON & E. LEWIS'];
-StopID65[ 86]=[65,229,30.21388,-92.02228,'/map/images/NewBusStop3.png','JOHNSTON AT FRENCH HOUSE'];
-StopID65[ 87]=[65,230,30.21515,-92.02102,'/map/images/NewBusStop3.png','JOHNSTON & MAXIM DOUCET HALL'];
-StopID65[ 88]=[65,231,30.21638,-92.01983,'/map/images/NewBusStop3.png','JOHNSTON AT GIRARD HALL'];
-StopID65[ 89]=[65,232,30.218445,-92.018162,'/map/images/NewBusStop3.png','JOHNSTON & GEN. MOUTON - STOP 2'];
-StopID65[ 90]=[65,233,30.22043,-92.01691,'/map/images/NewBusStop3.png','JOHNSTON & E. CONVENT'];
-StopID65[ 91]=[65,234,30.221123,-92.016458,'/map/images/NewBusStop3.png','JOHNSTON & STEWART - STOP 2'];
-StopID65[ 92]=[65,235,30.221831,-92.016006,'/map/images/NewBusStop3.png','JOHNSTON & E. MAIN - STOP 2'];
-StopID65[ 93]=[65,236,30.222956,-92.015276,'/map/images/NewBusStop3.png','JOHNSTON & E. VERMILION'];
-StopID65[ 94]=[65,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
+65,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
+65,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'
+65,169,30.223256,-92.015313,'/map/images/NewBusStop3.png','JOHNSTON & E. VERMILLION'
+65,170,30.222078,-92.016062,'/map/images/NewBusStop3.png','JOHNSTON & E. MAIN'
+65,171,30.221356,-92.016508,'/map/images/NewBusStop3.png','JOHNSTON & STEWART'
+65,172,30.22032,-92.01715,'/map/images/NewBusStop3.png','JOHNSTON & JEFFERSON'
+65,173,30.218728,-92.018214,'/map/images/NewBusStop3.png','JOHNSTON & GEN. MOUTON'
+65,174,30.21695,-92.01938,'/map/images/NewBusStop3.png','JOHNSTON & U.L. HOUSE'
+65,175,30.2146,-92.02174,'/map/images/NewBusStop3.png','JOHNSTON & ST MARY'
+65,176,30.212392,-92.025477,'/map/images/NewBusStop3.png','JOHNSTON & W. LEWIS'
+65,177,30.21163,-92.026903,'/map/images/NewBusStop3.png','JOHNSTON & ST. JULIEN'
+65,178,30.21048,-92.02978,'/map/images/NewBusStop3.png','JOHNSTON AT UL HORTICULTURE CNTR'
+65,179,30.21002,-92.031438,'/map/images/NewBusStop3.png','JOHNSTON & COLISEUM'
+65,722,30.213645,-92.037007,'/map/images/NewBusStop3.png','CAJUNDOME BLVD @ REINHARDT DR'
+65,723,30.215713,-92.038747,'/map/images/NewBusStop3.png','CAJUNDOME BLVD @ REINHARDT DR'
+65,53,30.21711,-92.04575,'/map/images/NewBusStop3.png','UNIVERSITY HEALTH CENTER'
+65,54,30.21635,-92.0469,'/map/images/NewBusStop3.png','UNIVERSITY HEALTH CENTER - STOP 2'
+65,728,30.212882,-92.045739,'/map/images/NewBusStop3.png','BERTRAND DR @ THEATRE DR'
+65,729,30.20825,-92.040021,'/map/images/NewBusStop3.png','N COLLEGE RD @ MEAUX BLVD'
+65,182,30.2069,-92.0391,'/map/images/NewBusStop3.png','JOHNSTON & MEAUX'
+65,183,30.20598,-92.04068,'/map/images/NewBusStop3.png','JOHNSTON & BERTRAND'
+65,184,30.20499,-92.04266,'/map/images/NewBusStop3.png','JOHNSTON AT CYCLE GEAR'
+65,185,30.20458,-92.04419,'/map/images/NewBusStop3.png','JOHNSTON & HOLDEN'
+65,186,30.20376,-92.04775,'/map/images/NewBusStop3.png','JOHNSTON AT FUN JUMPS'
+65,187,30.20309,-92.0503,'/map/images/NewBusStop3.png','JOHNSTON & TREEHAVEN'
+65,188,30.20235,-92.05228,'/map/images/NewBusStop3.png','JOHNSTON & FOREMAN'
+65,189,30.20146,-92.05391,'/map/images/NewBusStop3.png','JOHNSTON & MARIE ANTOINETTE'
+65,190,30.19922,-92.05565,'/map/images/NewBusStop3.png','JOHNSTON & WESTCHESTER'
+65,191,30.19701,-92.05674,'/map/images/NewBusStop3.png','JOHNSTON & MIMOSA'
+65,192,30.19496,-92.05781,'/map/images/NewBusStop3.png','JOHNSTON AT AUTOZONE'
+65,193,30.19259,-92.05992,'/map/images/NewBusStop3.png','JOHNSTON AT FIESTA VILLAGE'
+65,194,30.19019,-92.06232,'/map/images/NewBusStop3.png','JOHNSTON AT OFFICE DEPOT'
+65,195,30.18896,-92.06359,'/map/images/NewBusStop3.png','JOHNSTON & LANA'
+65,196,30.18724,-92.06534,'/map/images/NewBusStop3.png','JOHNSTON AT RITE-AID'
+65,197,30.1847,-92.06794,'/map/images/NewBusStop3.png','JOHNSTON AT DOUG ASHYS'
+65,198,30.18263,-92.07018,'/map/images/NewBusStop3.png','JOHNSTON & WESTMARK'
+65,199,30.180214,-92.072678,'/map/images/NewBusStop3.png','JOHNSTON AT CENTERPIECE CENTER'
+65,753,30.176851,-92.073229,'/map/images/NewBusStop3.png','AMB. CAFFERY @ LAFAYETTE SHOOTERS'
+65,754,30.17507,-92.071074,'/map/images/NewBusStop3.png','AMB. CAFFERY @ TSUBAKI'
+65,755,30.173218,-92.068831,'/map/images/NewBusStop3.png','AMB. CAFFERY @ UHAUL STORAGE'
+65,513,30.17013,-92.06507,'/map/images/NewBusStop3.png','AMB CAFFERY AT CHICK-FIL-A'
+65,514,30.1682,-92.06263,'/map/images/NewBusStop3.png','AMB CAFFERY & ENGLEWOOD'
+65,515,30.16692,-92.06108,'/map/images/NewBusStop3.png','AMB. CAFFERY & DOVER'
+65,516,30.16461,-92.05829,'/map/images/NewBusStop3.png','AMB CAFFERY AT GABRIELS ROW'
+65,517,30.1591,-92.0516,'/map/images/NewBusStop3.png','AMB CAFFERY AT KOHLS'
+65,518,30.15817,-92.0505,'/map/images/NewBusStop3.png','AMB CAFFERY AT ALBERTSONS'
+65,519,30.1548,-92.04636,'/map/images/NewBusStop3.png','AMB. CAFFERY AT WHITNEY BANK'
+65,520,30.15185,-92.03868,'/map/images/NewBusStop3.png','FREM BOUSTANY AT LOURDES'
+65,521,30.14951,-92.03794,'/map/images/NewBusStop3.png','OUR LADY OF LOURDES HOSPITAL'
+65,584,30.14848,-92.04252,'/map/images/NewBusStop3.png','FREM BOUSTANY & FARREL ROAD'
+65,585,30.15155,-92.04642,'/map/images/NewBusStop3.png','FARRELL AT WOMEN & CHILDRENS HOSPITAL'
+65,586,30.15332,-92.04854,'/map/images/NewBusStop3.png','FARRELL AT SUITES DE MAISON'
+65,587,30.15459,-92.05001,'/map/images/NewBusStop3.png','FARRELL & KALISTE SALOOM'
+65,588,30.15588,-92.04879,'/map/images/NewBusStop3.png','KALISTE SALOOM & AMBASSADOR CAFFERY'
+65,522,30.15756,-92.04715,'/map/images/NewBusStop3.png','KALISTE SALOOM AT SONIC'
+65,523,30.16123,-92.04352,'/map/images/NewBusStop3.png','KALISTE SALOOM & REPUBLIC'
+65,524,30.16262,-92.04218,'/map/images/NewBusStop3.png','KALISTE SALOOM AT LAFAYETTE GOLF ACADEMY'
+65,525,30.1644,-92.04028,'/map/images/NewBusStop3.png','KALISTE SALOOM & E MARTIAL'
+65,526,30.16519,-92.03906,'/map/images/NewBusStop3.png','KALISTE SALOOM & QUAIL'
+65,527,30.168918,-92.033736,'/map/images/NewBusStop3.png','KALISTE SALOOM AT PLANTATION ELEMENTARY'
+65,591,30.17066,-92.03181,'/map/images/NewBusStop3.png','KALISTE SALOOM & STEINER STOP 2'
+65,529,30.17177,-92.03073,'/map/images/NewBusStop3.png','KALISTE SALOOM AT FIVE H PLAZA'
+65,530,30.17563,-92.02793,'/map/images/NewBusStop3.png','KALISTE SALOOM AT LAFAYETTE SURGICAL'
+65,531,30.17794,-92.02708,'/map/images/NewBusStop3.png','KALISTE SALOOM & MIGUEL'
+65,532,30.18108,-92.01909,'/map/images/NewBusStop3.png','KALISTE SALOOM & GREENTREE'
+65,533,30.18249,-92.0176,'/map/images/NewBusStop3.png','KALISTE SALOOM & E BAYOU'
+65,730,30.191434,-92.011822,'/map/images/NewBusStop3.png','KALISTE SALOOM RD @ RUE DE JEAN'
+65,446,30.19329,-92.00989,'/map/images/NewBusStop3.png','KALISTE SALOOM & S COLLEGE'
+65,731,30.19446,-92.010418,'/map/images/NewBusStop3.png','S COLLEGE RD @ LA RUE FRANCE'
+65,732,30.194532,-92.012093,'/map/images/NewBusStop3.png','LA RUE FRANCE @  RUE JEAN LAFITTE'
+65,733,30.194474,-92.015557,'/map/images/NewBusStop3.png','LA RUE FRANCE @ W PINHOOK RD'
+65,537,30.19702,-92.01632,'/map/images/NewBusStop3.png','PINHOOK AT HILTON'
+65,538,30.19807,-92.016354,'/map/images/NewBusStop3.png','PINHOOK & CALCO'
+65,608,30.20056,-92.01556,'/map/images/NewBusStop3.png','PINHOOK & S. COLLEGE'
+65,539,30.20184,-92.016731,'/map/images/NewBusStop3.png','S COLLEGE & HEYMANN'
+65,540,30.201026,-92.020651,'/map/images/NewBusStop3.png','S COLLEGE AT HEYMANN CENTER'
+65,541,30.200152,-92.02305,'/map/images/NewBusStop3.png','S COLLEGE & GIRARD PARK'
+65,542,30.200162,-92.028054,'/map/images/NewBusStop3.png','S COLLEGE & LASSERE'
+65,543,30.202784,-92.032341,'/map/images/NewBusStop3.png','S COLLEGE & HORSESHOE'
+65,544,30.204157,-92.034424,'/map/images/NewBusStop3.png','S COLLEGE & DERANEY'
+65,545,30.20702,-92.03788,'/map/images/NewBusStop3.png','S COLLEGE & JOHNSTON'
+65,224,30.208193,-92.036514,'/map/images/NewBusStop3.png','JOHNSTON & WEDGEWOOD'
+65,225,30.20877,-92.03487,'/map/images/NewBusStop3.png','JOHNSTON AT BEAU CHENES APTS'
+65,226,30.21,-92.03088,'/map/images/NewBusStop3.png','JOHNSTON & RONALD'
+65,227,30.210494,-92.029036,'/map/images/NewBusStop3.png','JOHNSTON & CATHERINE'
+65,228,30.212125,-92.025473,'/map/images/NewBusStop3.png','JOHNSTON & E. LEWIS'
+65,229,30.21388,-92.02228,'/map/images/NewBusStop3.png','JOHNSTON AT FRENCH HOUSE'
+65,230,30.21515,-92.02102,'/map/images/NewBusStop3.png','JOHNSTON & MAXIM DOUCET HALL'
+65,231,30.21638,-92.01983,'/map/images/NewBusStop3.png','JOHNSTON AT GIRARD HALL'
+65,232,30.218445,-92.018162,'/map/images/NewBusStop3.png','JOHNSTON & GEN. MOUTON - STOP 2'
+65,233,30.22043,-92.01691,'/map/images/NewBusStop3.png','JOHNSTON & E. CONVENT'
+65,234,30.221123,-92.016458,'/map/images/NewBusStop3.png','JOHNSTON & STEWART - STOP 2'
+65,235,30.221831,-92.016006,'/map/images/NewBusStop3.png','JOHNSTON & E. MAIN - STOP 2'
+65,236,30.222956,-92.015276,'/map/images/NewBusStop3.png','JOHNSTON & E. VERMILION'
+65,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
 
-StopID70[ 0]=[70,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
-StopID70[ 1]=[70,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'];
-StopID70[ 2]=[70,548,30.22339,-92.01321,'/map/images/NewBusStop3.png','GARFIELD & GORDON'];
-StopID70[ 3]=[70,549,30.22115,-92.0115,'/map/images/NewBusStop3.png','GARFIELD & WALTON'];
-StopID70[ 4]=[70,550,30.21907,-92.00978,'/map/images/NewBusStop3.png','VERMILLION & TAFT'];
-StopID70[ 5]=[70,551,30.21779,-92.00782,'/map/images/NewBusStop3.png','VERMILLION & FORREST'];
-StopID70[ 6]=[70,552,30.21659,-92.00602,'/map/images/NewBusStop3.png','VERMILLION & PINHOOK'];
-StopID70[ 7]=[70,553,30.21552,-92.00666,'/map/images/NewBusStop3.png','PINHOOK & REFINERY'];
-StopID70[ 8]=[70,554,30.21258,-92.00861,'/map/images/NewBusStop3.png','PINHOOK & GEN MOUTON'];
-StopID70[ 9]=[70,555,30.21121,-92.00946,'/map/images/NewBusStop3.png','PINHOOK & UNIVERSITY'];
-StopID70[ 10]=[70,556,30.20946,-92.01053,'/map/images/NewBusStop3.png','PINHOOK & TULANE'];
-StopID70[ 11]=[70,557,30.20826,-92.01124,'/map/images/NewBusStop3.png','PINHOOK & AUBURN'];
-StopID70[ 12]=[70,558,30.20714,-92.01183,'/map/images/NewBusStop3.png','PINHOOK & ST. MARY'];
-StopID70[ 13]=[70,559,30.20546,-92.01282,'/map/images/NewBusStop3.png','PINHOOK & OIL CENTER DRIVE'];
-StopID70[ 14]=[70,560,30.20437,-92.01352,'/map/images/NewBusStop3.png','PINHOOK & TRAVIS'];
-StopID70[ 15]=[70,561,30.20314,-92.01418,'/map/images/NewBusStop3.png','PINHOOK & AUDUBON - STOP 2'];
-StopID70[ 16]=[70,562,30.2012,-92.01531,'/map/images/NewBusStop3.png','PINHOOK & S COLLEGE'];
-StopID70[ 17]=[70,441,30.199326,-92.016386,'/map/images/NewBusStop3.png','PINHOOK & BENDEL'];
-StopID70[ 18]=[70,442,30.19783,-92.01659,'/map/images/NewBusStop3.png','PINHOOK & MARJORIE'];
-StopID70[ 19]=[70,443,30.196192,-92.016466,'/map/images/NewBusStop3.png','PINHOOK AT HILTON'];
-StopID70[ 20]=[70,444,30.19189,-92.01591,'/map/images/NewBusStop3.png','PINHOOK AT ENTERPRISE'];
-StopID70[ 21]=[70,766,30.187929,-92.013447,'/map/images/NewBusStop3.png','PINHOOK @ POUPART BAKERY'];
-StopID70[ 22]=[70,563,30.18478,-92.00963,'/map/images/NewBusStop3.png','PINHOOK & CORPORATE BOULEVARD'];
-StopID70[ 23]=[70,744,30.183815,-92.010573,'/map/images/NewBusStop3.png','CORPORATE @ SOCIAL SECURITY OFFICE'];
-StopID70[ 24]=[70,564,30.18362,-92.0082,'/map/images/NewBusStop3.png','PINHOOK & ENERGY PARKWAY'];
-StopID70[ 25]=[70,565,30.1812,-92.00524,'/map/images/NewBusStop3.png','PINHOOK & PROUCTION'];
-StopID70[ 26]=[70,566,30.17969,-92.00389,'/map/images/NewBusStop3.png','PINHOOK AT WALMART'];
-StopID70[ 27]=[70,567,30.17797,-92.00306,'/map/images/NewBusStop3.png','PINHOOK & AMYAR COMEAUX'];
-StopID70[ 28]=[70,568,30.17679,-92.00451,'/map/images/NewBusStop3.png','VEROT SCHOOL AT WAL-MART'];
-StopID70[ 29]=[70,569,30.17593,-92.00622,'/map/images/NewBusStop3.png','VEROT SCHOOL AT POST OFFICE'];
-StopID70[ 30]=[70,570,30.17352,-92.0103,'/map/images/NewBusStop3.png','VEROT SCHOOL AT EARLS GROCERY'];
-StopID70[ 31]=[70,571,30.17614,-92.01758,'/map/images/NewBusStop3.png','S BEADLE AT CYPRESS SHADOW APTS.'];
-StopID70[ 32]=[70,572,30.17863,-92.0206,'/map/images/NewBusStop3.png','S BEADLE AT BRANDYWINE'];
-StopID70[ 33]=[70,573,30.17979,-92.02484,'/map/images/NewBusStop3.png','KALISTE SALOOM AT SIR LIBBON PLAZA'];
-StopID70[ 34]=[70,574,30.17708,-92.02774,'/map/images/NewBusStop3.png','KALISTE SALOOM & FAUBOURG'];
-StopID70[ 35]=[70,575,30.17335,-92.02943,'/map/images/NewBusStop3.png','KALISTE SALOOM & 1132 KALISTE SALOOM RD'];
-StopID70[ 36]=[70,576,30.17213,-92.03063,'/map/images/NewBusStop3.png','KALISTE SALOOM & CANEBROKE'];
-StopID70[ 37]=[70,577,30.1706,-92.03214,'/map/images/NewBusStop3.png','KALISTE SALOOM & STEINER'];
-StopID70[ 38]=[70,578,30.16679,-92.03714,'/map/images/NewBusStop3.png','KALISTE SALOOM AT IBERIA BANK'];
-StopID70[ 39]=[70,579,30.16428,-92.04066,'/map/images/NewBusStop3.png','KALISTE SALOOM AT MASALA'];
-StopID70[ 40]=[70,580,30.16083,-92.04412,'/map/images/NewBusStop3.png','KALISTE SALOOM AT RANDOLS'];
-StopID70[ 41]=[70,581,30.15889,-92.04607,'/map/images/NewBusStop3.png','KALISTE SALOOM AT RIVER MARKET PLACE'];
-StopID70[ 42]=[70,780,30.158026,-92.050148,'/map/images/NewBusStop3.png','AMB. CAFFERY at BUFFALO WILD WINGS'];
-StopID70[ 43]=[70,738,30.160171,-92.051627,'/map/images/NewBusStop3.png','SETTLERS TRACE BLVD @ AMBASSADOR CAFFERY PKWY'];
-StopID70[ 44]=[70,739,30.161052,-92.050633,'/map/images/NewBusStop3.png','SETTLERS TRACE BLVD @ BEAULIEU DR'];
-StopID70[ 45]=[70,740,30.165021,-92.04479,'/map/images/NewBusStop3.png','SETTLERS TRACE BLVD @ BEAULIEU DR'];
-StopID70[ 46]=[70,741,30.166437,-92.042861,'/map/images/NewBusStop3.png','SETTLERS TRACE BLVD @ W MARTIAL AVE'];
-StopID70[ 47]=[70,742,30.166108,-92.041524,'/map/images/NewBusStop3.png','W MARTIAL AVE @ SETTLERS TRACE BLVD'];
-StopID70[ 48]=[70,743,30.165305,-92.040647,'/map/images/NewBusStop3.png','W MARTIAL AVE @ KALISTE SALOOM RD'];
-StopID70[ 49]=[70,526,30.16519,-92.03906,'/map/images/NewBusStop3.png','KALISTE SALOOM & QUAIL'];
-StopID70[ 50]=[70,527,30.168918,-92.033736,'/map/images/NewBusStop3.png','KALISTE SALOOM AT PLANTATION ELEMENTARY'];
-StopID70[ 51]=[70,591,30.17066,-92.03181,'/map/images/NewBusStop3.png','KALISTE SALOOM & STEINER STOP 2'];
-StopID70[ 52]=[70,529,30.17177,-92.03073,'/map/images/NewBusStop3.png','KALISTE SALOOM AT FIVE H PLAZA'];
-StopID70[ 53]=[70,592,30.1724,-92.02934,'/map/images/NewBusStop3.png','KALISTE SALOOM AT RUE LOUIS XI'];
-StopID70[ 54]=[70,593,30.17013,-92.02663,'/map/images/NewBusStop3.png','RUE LOUIS XIV AT COM-ONE'];
-StopID70[ 55]=[70,594,30.16809,-92.02416,'/map/images/NewBusStop3.png','RUE LOUIS XIV AT REMINGTON COLLEGE'];
-StopID70[ 56]=[70,595,30.16708,-92.02295,'/map/images/NewBusStop3.png','RUE LOUIS XIV AT STULLER SETTINGS'];
-StopID70[ 57]=[70,596,30.16928,-92.01936,'/map/images/NewBusStop3.png','VEROT SCHOOL & POLLY'];
-StopID70[ 58]=[70,597,30.17126,-92.01863,'/map/images/NewBusStop3.png','VEROT SCHOOL & TOLSON'];
-StopID70[ 59]=[70,598,30.17292,-92.01575,'/map/images/NewBusStop3.png','VEROT SCHOOL & LOZES AVE'];
-StopID70[ 60]=[70,599,30.17339,-92.01452,'/map/images/NewBusStop3.png','VEROT SCHOOL & S. BEADLE'];
-StopID70[ 61]=[70,600,30.17362,-92.01142,'/map/images/NewBusStop3.png','VEROT SCHOOL & PLATEAU'];
-StopID70[ 62]=[70,601,30.17362,-92.00961,'/map/images/NewBusStop3.png','VEROT SCHOOL & PILLETTE'];
-StopID70[ 63]=[70,602,30.17491,-92.00736,'/map/images/NewBusStop3.png','VEROT SCHOOL & RURAL'];
-StopID70[ 64]=[70,603,30.17838,-92.00301,'/map/images/NewBusStop3.png','PINHOOK & AYMAR'];
-StopID70[ 65]=[70,792,30.180342,-92.003975,'/map/images/NewBusStop3.png','Pinhook @ Sage Glenn'];
-StopID70[ 66]=[70,604,30.18351,-92.00781,'/map/images/NewBusStop3.png','PINHOOK & ENERGY PARKWAY STOP 2'];
-StopID70[ 67]=[70,605,30.18535,-92.01,'/map/images/NewBusStop3.png','PINHOOK & INDUSTRIAL'];
-StopID70[ 68]=[70,606,30.18667,-92.0116,'/map/images/NewBusStop3.png','PINHOOK AT MARKETPLACE'];
-StopID70[ 69]=[70,607,30.18982,-92.0151,'/map/images/NewBusStop3.png','PINHOOK & KALISTE SALOOM STOP 2'];
-StopID70[ 70]=[70,535,30.19312,-92.01574,'/map/images/NewBusStop3.png','PINHOOK AT CROWNE PLAZA'];
-StopID70[ 71]=[70,536,30.19425,-92.01597,'/map/images/NewBusStop3.png','PINHOOK & LA RUE FRANCE'];
-StopID70[ 72]=[70,537,30.19702,-92.01632,'/map/images/NewBusStop3.png','PINHOOK AT HILTON'];
-StopID70[ 73]=[70,538,30.19807,-92.016354,'/map/images/NewBusStop3.png','PINHOOK & CALCO'];
-StopID70[ 74]=[70,608,30.20056,-92.01556,'/map/images/NewBusStop3.png','PINHOOK & S. COLLEGE'];
-StopID70[ 75]=[70,609,30.201628,-92.014924,'/map/images/NewBusStop3.png','PINHOOK & TECHE'];
-StopID70[ 76]=[70,610,30.20689,-92.01185,'/map/images/NewBusStop3.png','PINHOOK & MALL'];
-StopID70[ 77]=[70,611,30.21022,-92.00989,'/map/images/NewBusStop3.png','PINHOOK & UNIVERSITY'];
-StopID70[ 78]=[70,612,30.212325,-92.008567,'/map/images/NewBusStop3.png','PINHOOK & GEN MOUTO'];
-StopID70[ 79]=[70,613,30.21478,-92.00706,'/map/images/NewBusStop3.png','PINHOOK & DEAR ST.'];
-StopID70[ 80]=[70,614,30.21556,-92.00644,'/map/images/NewBusStop3.png','PINHOOK & GUIDRY'];
-StopID70[ 81]=[70,615,30.217,-92.00652,'/map/images/NewBusStop3.png','VERMILLION & EAST ALLEY'];
-StopID70[ 82]=[70,616,30.21848,-92.00873,'/map/images/NewBusStop3.png','VERMILLION & 16TH'];
-StopID70[ 83]=[70,617,30.218953,-92.009421,'/map/images/NewBusStop3.png','VERMILLION & TAFT - STOP 2'];
-StopID70[ 84]=[70,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'];
+70,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
+70,41,30.225761,-92.01486,'/map/images/NewBusStop3.png','LEE & CYPRESS'
+70,548,30.22339,-92.01321,'/map/images/NewBusStop3.png','GARFIELD & GORDON'
+70,549,30.22115,-92.0115,'/map/images/NewBusStop3.png','GARFIELD & WALTON'
+70,550,30.21907,-92.00978,'/map/images/NewBusStop3.png','VERMILLION & TAFT'
+70,551,30.21779,-92.00782,'/map/images/NewBusStop3.png','VERMILLION & FORREST'
+70,552,30.21659,-92.00602,'/map/images/NewBusStop3.png','VERMILLION & PINHOOK'
+70,553,30.21552,-92.00666,'/map/images/NewBusStop3.png','PINHOOK & REFINERY'
+70,554,30.21258,-92.00861,'/map/images/NewBusStop3.png','PINHOOK & GEN MOUTON'
+70,555,30.21121,-92.00946,'/map/images/NewBusStop3.png','PINHOOK & UNIVERSITY'
+70,556,30.20946,-92.01053,'/map/images/NewBusStop3.png','PINHOOK & TULANE'
+70,557,30.20826,-92.01124,'/map/images/NewBusStop3.png','PINHOOK & AUBURN'
+70,558,30.20714,-92.01183,'/map/images/NewBusStop3.png','PINHOOK & ST. MARY'
+70,559,30.20546,-92.01282,'/map/images/NewBusStop3.png','PINHOOK & OIL CENTER DRIVE'
+70,560,30.20437,-92.01352,'/map/images/NewBusStop3.png','PINHOOK & TRAVIS'
+70,561,30.20314,-92.01418,'/map/images/NewBusStop3.png','PINHOOK & AUDUBON - STOP 2'
+70,562,30.2012,-92.01531,'/map/images/NewBusStop3.png','PINHOOK & S COLLEGE'
+70,441,30.199326,-92.016386,'/map/images/NewBusStop3.png','PINHOOK & BENDEL'
+70,442,30.19783,-92.01659,'/map/images/NewBusStop3.png','PINHOOK & MARJORIE'
+70,443,30.196192,-92.016466,'/map/images/NewBusStop3.png','PINHOOK AT HILTON'
+70,444,30.19189,-92.01591,'/map/images/NewBusStop3.png','PINHOOK AT ENTERPRISE'
+70,766,30.187929,-92.013447,'/map/images/NewBusStop3.png','PINHOOK @ POUPART BAKERY'
+70,563,30.18478,-92.00963,'/map/images/NewBusStop3.png','PINHOOK & CORPORATE BOULEVARD'
+70,744,30.183815,-92.010573,'/map/images/NewBusStop3.png','CORPORATE @ SOCIAL SECURITY OFFICE'
+70,564,30.18362,-92.0082,'/map/images/NewBusStop3.png','PINHOOK & ENERGY PARKWAY'
+70,565,30.1812,-92.00524,'/map/images/NewBusStop3.png','PINHOOK & PROUCTION'
+70,566,30.17969,-92.00389,'/map/images/NewBusStop3.png','PINHOOK AT WALMART'
+70,567,30.17797,-92.00306,'/map/images/NewBusStop3.png','PINHOOK & AMYAR COMEAUX'
+70,568,30.17679,-92.00451,'/map/images/NewBusStop3.png','VEROT SCHOOL AT WAL-MART'
+70,569,30.17593,-92.00622,'/map/images/NewBusStop3.png','VEROT SCHOOL AT POST OFFICE'
+70,570,30.17352,-92.0103,'/map/images/NewBusStop3.png','VEROT SCHOOL AT EARLS GROCERY'
+70,571,30.17614,-92.01758,'/map/images/NewBusStop3.png','S BEADLE AT CYPRESS SHADOW APTS.'
+70,572,30.17863,-92.0206,'/map/images/NewBusStop3.png','S BEADLE AT BRANDYWINE'
+70,573,30.17979,-92.02484,'/map/images/NewBusStop3.png','KALISTE SALOOM AT SIR LIBBON PLAZA'
+70,574,30.17708,-92.02774,'/map/images/NewBusStop3.png','KALISTE SALOOM & FAUBOURG'
+70,575,30.17335,-92.02943,'/map/images/NewBusStop3.png','KALISTE SALOOM & 1132 KALISTE SALOOM RD'
+70,576,30.17213,-92.03063,'/map/images/NewBusStop3.png','KALISTE SALOOM & CANEBROKE'
+70,577,30.1706,-92.03214,'/map/images/NewBusStop3.png','KALISTE SALOOM & STEINER'
+70,578,30.16679,-92.03714,'/map/images/NewBusStop3.png','KALISTE SALOOM AT IBERIA BANK'
+70,579,30.16428,-92.04066,'/map/images/NewBusStop3.png','KALISTE SALOOM AT MASALA'
+70,580,30.16083,-92.04412,'/map/images/NewBusStop3.png','KALISTE SALOOM AT RANDOLS'
+70,581,30.15889,-92.04607,'/map/images/NewBusStop3.png','KALISTE SALOOM AT RIVER MARKET PLACE'
+70,780,30.158026,-92.050148,'/map/images/NewBusStop3.png','AMB. CAFFERY at BUFFALO WILD WINGS'
+70,738,30.160171,-92.051627,'/map/images/NewBusStop3.png','SETTLERS TRACE BLVD @ AMBASSADOR CAFFERY PKWY'
+70,739,30.161052,-92.050633,'/map/images/NewBusStop3.png','SETTLERS TRACE BLVD @ BEAULIEU DR'
+70,740,30.165021,-92.04479,'/map/images/NewBusStop3.png','SETTLERS TRACE BLVD @ BEAULIEU DR'
+70,741,30.166437,-92.042861,'/map/images/NewBusStop3.png','SETTLERS TRACE BLVD @ W MARTIAL AVE'
+70,742,30.166108,-92.041524,'/map/images/NewBusStop3.png','W MARTIAL AVE @ SETTLERS TRACE BLVD'
+70,743,30.165305,-92.040647,'/map/images/NewBusStop3.png','W MARTIAL AVE @ KALISTE SALOOM RD'
+70,526,30.16519,-92.03906,'/map/images/NewBusStop3.png','KALISTE SALOOM & QUAIL'
+70,527,30.168918,-92.033736,'/map/images/NewBusStop3.png','KALISTE SALOOM AT PLANTATION ELEMENTARY'
+70,591,30.17066,-92.03181,'/map/images/NewBusStop3.png','KALISTE SALOOM & STEINER STOP 2'
+70,529,30.17177,-92.03073,'/map/images/NewBusStop3.png','KALISTE SALOOM AT FIVE H PLAZA'
+70,592,30.1724,-92.02934,'/map/images/NewBusStop3.png','KALISTE SALOOM AT RUE LOUIS XI'
+70,593,30.17013,-92.02663,'/map/images/NewBusStop3.png','RUE LOUIS XIV AT COM-ONE'
+70,594,30.16809,-92.02416,'/map/images/NewBusStop3.png','RUE LOUIS XIV AT REMINGTON COLLEGE'
+70,595,30.16708,-92.02295,'/map/images/NewBusStop3.png','RUE LOUIS XIV AT STULLER SETTINGS'
+70,596,30.16928,-92.01936,'/map/images/NewBusStop3.png','VEROT SCHOOL & POLLY'
+70,597,30.17126,-92.01863,'/map/images/NewBusStop3.png','VEROT SCHOOL & TOLSON'
+70,598,30.17292,-92.01575,'/map/images/NewBusStop3.png','VEROT SCHOOL & LOZES AVE'
+70,599,30.17339,-92.01452,'/map/images/NewBusStop3.png','VEROT SCHOOL & S. BEADLE'
+70,600,30.17362,-92.01142,'/map/images/NewBusStop3.png','VEROT SCHOOL & PLATEAU'
+70,601,30.17362,-92.00961,'/map/images/NewBusStop3.png','VEROT SCHOOL & PILLETTE'
+70,602,30.17491,-92.00736,'/map/images/NewBusStop3.png','VEROT SCHOOL & RURAL'
+70,603,30.17838,-92.00301,'/map/images/NewBusStop3.png','PINHOOK & AYMAR'
+70,792,30.180342,-92.003975,'/map/images/NewBusStop3.png','Pinhook @ Sage Glenn'
+70,604,30.18351,-92.00781,'/map/images/NewBusStop3.png','PINHOOK & ENERGY PARKWAY STOP 2'
+70,605,30.18535,-92.01,'/map/images/NewBusStop3.png','PINHOOK & INDUSTRIAL'
+70,606,30.18667,-92.0116,'/map/images/NewBusStop3.png','PINHOOK AT MARKETPLACE'
+70,607,30.18982,-92.0151,'/map/images/NewBusStop3.png','PINHOOK & KALISTE SALOOM STOP 2'
+70,535,30.19312,-92.01574,'/map/images/NewBusStop3.png','PINHOOK AT CROWNE PLAZA'
+70,536,30.19425,-92.01597,'/map/images/NewBusStop3.png','PINHOOK & LA RUE FRANCE'
+70,537,30.19702,-92.01632,'/map/images/NewBusStop3.png','PINHOOK AT HILTON'
+70,538,30.19807,-92.016354,'/map/images/NewBusStop3.png','PINHOOK & CALCO'
+70,608,30.20056,-92.01556,'/map/images/NewBusStop3.png','PINHOOK & S. COLLEGE'
+70,609,30.201628,-92.014924,'/map/images/NewBusStop3.png','PINHOOK & TECHE'
+70,610,30.20689,-92.01185,'/map/images/NewBusStop3.png','PINHOOK & MALL'
+70,611,30.21022,-92.00989,'/map/images/NewBusStop3.png','PINHOOK & UNIVERSITY'
+70,612,30.212325,-92.008567,'/map/images/NewBusStop3.png','PINHOOK & GEN MOUTO'
+70,613,30.21478,-92.00706,'/map/images/NewBusStop3.png','PINHOOK & DEAR ST.'
+70,614,30.21556,-92.00644,'/map/images/NewBusStop3.png','PINHOOK & GUIDRY'
+70,615,30.217,-92.00652,'/map/images/NewBusStop3.png','VERMILLION & EAST ALLEY'
+70,616,30.21848,-92.00873,'/map/images/NewBusStop3.png','VERMILLION & 16TH'
+70,617,30.218953,-92.009421,'/map/images/NewBusStop3.png','VERMILLION & TAFT - STOP 2'
+70,1,30.226622,-92.014454,'/map/images/NewBusStop3.png','ROSA PARKS TRANSPORTATION CENTER'
