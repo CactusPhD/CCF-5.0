@@ -5,16 +5,20 @@
  */
 package ccf.superwiki;
 
+import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
 import javafx.event.ActionEvent;
 import javafx.fxml.Initializable;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.shape.Arc;
 import javafx.scene.text.Text;
 import javafx.scene.layout.AnchorPane;
+import javafx.stage.Stage;
 
 /**
  *
@@ -22,7 +26,10 @@ import javafx.scene.layout.AnchorPane;
  */
 public class HomeController implements Initializable {
 
-    private boolean recOn = false;
+    Parent root;
+    Stage stage;
+    Scene scene;
+    private boolean recOn = false, livOn = false;
 
     @FXML
     private AnchorPane anchor;
@@ -62,6 +69,24 @@ public class HomeController implements Initializable {
 
     @FXML
     private Text recText3;
+    
+    @FXML
+    private Arc livButton3;
+
+    @FXML
+    private Arc livButton2;
+
+    @FXML
+    private Arc livButton1;
+
+    @FXML
+    private Text livText1;
+
+    @FXML
+    private Text livText2;
+
+    @FXML
+    private Text livText3;
 
     @FXML
     void recMenu(MouseEvent event) {
@@ -86,20 +111,85 @@ public class HomeController implements Initializable {
         recText3.setVisible(!recOn);
         recText3.setManaged(!recOn);
         recOn = !recOn;
-        //anchor.getChildren().remove(livButton);
     }
-    
+
     @FXML
-    void recOption1(MouseEvent event){
-        
+    void recOption1(MouseEvent event) throws IOException {
+        root = FXMLLoader.load(getClass().getResource("Rec1.fxml"));
+        stage = (Stage) anchor.getScene().getWindow();
+        scene = new Scene(root);
+        stage.setScene(scene);
+        stage.show();
     }
+
     @FXML
-    void recOption2(MouseEvent event){
-        
+    void recOption2(MouseEvent event) throws IOException {
+        root = FXMLLoader.load(getClass().getResource("Rec2.fxml"));
+        stage = (Stage) anchor.getScene().getWindow();
+        scene = new Scene(root);
+        stage.setScene(scene);
+        stage.show();
     }
+
     @FXML
-    void recOption3(MouseEvent event){
-        
+    void recOption3(MouseEvent event) throws IOException {
+        root = FXMLLoader.load(getClass().getResource("Rec3.fxml"));
+        stage = (Stage) anchor.getScene().getWindow();
+        scene = new Scene(root);
+        stage.setScene(scene);
+        stage.show();
+    }
+
+    @FXML
+    void livMenu(MouseEvent event) {
+        recButton.setVisible(livOn);
+        tranButton.setVisible(livOn);
+        recText.setVisible(livOn);
+        tranText.setVisible(livOn);
+        recButton.setManaged(livOn);
+        tranButton.setManaged(livOn);
+        recText.setManaged(livOn);
+        tranText.setManaged(livOn);
+        livButton1.setVisible(!livOn);
+        livButton1.setManaged(!livOn);
+        livButton2.setVisible(!livOn);
+        livButton2.setManaged(!livOn);
+        livButton3.setVisible(!livOn);
+        livButton3.setManaged(!livOn);
+        livText1.setVisible(!livOn);
+        livText1.setManaged(!livOn);
+        livText2.setVisible(!livOn);
+        livText2.setManaged(!livOn);
+        livText3.setVisible(!livOn);
+        livText3.setManaged(!livOn);
+        livOn = !livOn;
+    }
+
+    @FXML
+    void livOption1(MouseEvent event) throws IOException {
+        root = FXMLLoader.load(getClass().getResource("Liv1.fxml"));
+        stage = (Stage) anchor.getScene().getWindow();
+        scene = new Scene(root);
+        stage.setScene(scene);
+        stage.show();
+    }
+
+    @FXML
+    void livOption2(MouseEvent event) throws IOException {
+        root = FXMLLoader.load(getClass().getResource("Liv2.fxml"));
+        stage = (Stage) anchor.getScene().getWindow();
+        scene = new Scene(root);
+        stage.setScene(scene);
+        stage.show();
+    }
+
+    @FXML
+    void livOption3(MouseEvent event) throws IOException {
+        root = FXMLLoader.load(getClass().getResource("Liv3.fxml"));
+        stage = (Stage) anchor.getScene().getWindow();
+        scene = new Scene(root);
+        stage.setScene(scene);
+        stage.show();
     }
 
     @Override

@@ -13,7 +13,7 @@ import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
-public class Rec1Controller implements Initializable {
+public class Liv1Controller implements Initializable {
 
     Parent root;
     Stage stage;

@@ -7,7 +7,7 @@
 <?import javafx.scene.text.Text?>
 
 
-<AnchorPane fx:id="anchor" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ccf.superwiki.Rec1Controller">
+<AnchorPane fx:id="anchor" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ccf.superwiki.Liv1Controller">
    <children>
       <Pane fx:id="back" onMouseClicked="#back" prefHeight="38.0" prefWidth="100.0" style="-fx-background-color: rgba(255,0,0,0.8); -fx-background-radius: 5; -fx-border-color: Black; -fx-border-radius: 4;" AnchorPane.leftAnchor="8.0" AnchorPane.topAnchor="8.0">
          <children>
