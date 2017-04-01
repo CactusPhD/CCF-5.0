@@ -1,0 +1,33 @@
+Saturday Route Times
+
+Route 10 - 30min
+Route 15 - 1hr
+Route 20 - 1hr
+Route 25 - 30min
+Route 31 - 30min
+Route 45 - 1hr
+Route 50 - 30min
+Route 60 - 30min
+Route 71 - 1hr
+
+Weekday Route Times
+
+Route 10 - 30min
+Route 15 - 1hr
+Route 20 - 1hr
+Route 25 - 30min
+Route 30 - 30min
+Route 35 - 30min
+Route 45 - 1hr
+Route 50 - 30min
+Route 55 - 1hr
+Route 60 - 30min
+Route 65 - 1hr
+Route 70 - 1hr
+
+Night Route Times
+
+Route 300 (Red) - 1hr
+Route 310 (Green) - 1hr
+Route 320 (Blue) - 1hr
+Route 330 (Brown) - 1hr
